@@ -1,0 +1,2581 @@
+﻿trimestre,comarques i Aran,concepte,sexe,estat,valor
+T1/2020,Alt Camp,casos confirmats,homes,,36
+T1/2020,Alt Camp,casos confirmats,dones,,39
+T1/2020,Alt Camp,casos confirmats,total,,75
+T1/2020,Alt Camp,casos per cada 100 habitants,homes,,0.2
+T1/2020,Alt Camp,casos per cada 100 habitants,dones,,0.2
+T1/2020,Alt Camp,casos per cada 100 habitants,total,,0.2
+T1/2020,Alt Empordà,casos confirmats,homes,,79
+T1/2020,Alt Empordà,casos confirmats,dones,,66
+T1/2020,Alt Empordà,casos confirmats,total,,145
+T1/2020,Alt Empordà,casos per cada 100 habitants,homes,,0.1
+T1/2020,Alt Empordà,casos per cada 100 habitants,dones,,0.1
+T1/2020,Alt Empordà,casos per cada 100 habitants,total,,0.1
+T1/2020,Alt Penedès,casos confirmats,homes,,90
+T1/2020,Alt Penedès,casos confirmats,dones,,97
+T1/2020,Alt Penedès,casos confirmats,total,,187
+T1/2020,Alt Penedès,casos per cada 100 habitants,homes,,0.2
+T1/2020,Alt Penedès,casos per cada 100 habitants,dones,,0.2
+T1/2020,Alt Penedès,casos per cada 100 habitants,total,,0.2
+T1/2020,Alt Urgell,casos confirmats,homes,,19
+T1/2020,Alt Urgell,casos confirmats,dones,,13
+T1/2020,Alt Urgell,casos confirmats,total,,32
+T1/2020,Alt Urgell,casos per cada 100 habitants,homes,,0.2
+T1/2020,Alt Urgell,casos per cada 100 habitants,dones,,0.1
+T1/2020,Alt Urgell,casos per cada 100 habitants,total,,0.2
+T1/2020,Alta Ribagorça,casos confirmats,homes,,2
+T1/2020,Alta Ribagorça,casos confirmats,dones,,2
+T1/2020,Alta Ribagorça,casos confirmats,total,,4
+T1/2020,Alta Ribagorça,casos per cada 100 habitants,homes,,0.1
+T1/2020,Alta Ribagorça,casos per cada 100 habitants,dones,,0.1
+T1/2020,Alta Ribagorça,casos per cada 100 habitants,total,,0.1
+T1/2020,Anoia,casos confirmats,homes,,374
+T1/2020,Anoia,casos confirmats,dones,,433
+T1/2020,Anoia,casos confirmats,total,,807
+T1/2020,Anoia,casos per cada 100 habitants,homes,,0.6
+T1/2020,Anoia,casos per cada 100 habitants,dones,,0.7
+T1/2020,Anoia,casos per cada 100 habitants,total,,0.7
+T1/2020,Aran,casos confirmats,homes,,25
+T1/2020,Aran,casos confirmats,dones,,37
+T1/2020,Aran,casos confirmats,total,,62
+T1/2020,Aran,casos per cada 100 habitants,homes,,0.5
+T1/2020,Aran,casos per cada 100 habitants,dones,,0.8
+T1/2020,Aran,casos per cada 100 habitants,total,,0.6
+T1/2020,Bages,casos confirmats,homes,,393
+T1/2020,Bages,casos confirmats,dones,,516
+T1/2020,Bages,casos confirmats,total,,909
+T1/2020,Bages,casos per cada 100 habitants,homes,,0.4
+T1/2020,Bages,casos per cada 100 habitants,dones,,0.6
+T1/2020,Bages,casos per cada 100 habitants,total,,0.5
+T1/2020,Baix Camp,casos confirmats,homes,,82
+T1/2020,Baix Camp,casos confirmats,dones,,61
+T1/2020,Baix Camp,casos confirmats,total,,143
+T1/2020,Baix Camp,casos per cada 100 habitants,homes,,0.1
+T1/2020,Baix Camp,casos per cada 100 habitants,dones,,0.1
+T1/2020,Baix Camp,casos per cada 100 habitants,total,,0.1
+T1/2020,Baix Ebre,casos confirmats,homes,,38
+T1/2020,Baix Ebre,casos confirmats,dones,,79
+T1/2020,Baix Ebre,casos confirmats,total,,117
+T1/2020,Baix Ebre,casos per cada 100 habitants,homes,,0.1
+T1/2020,Baix Ebre,casos per cada 100 habitants,dones,,0.2
+T1/2020,Baix Ebre,casos per cada 100 habitants,total,,0.2
+T1/2020,Baix Empordà,casos confirmats,homes,,95
+T1/2020,Baix Empordà,casos confirmats,dones,,131
+T1/2020,Baix Empordà,casos confirmats,total,,226
+T1/2020,Baix Empordà,casos per cada 100 habitants,homes,,0.1
+T1/2020,Baix Empordà,casos per cada 100 habitants,dones,,0.2
+T1/2020,Baix Empordà,casos per cada 100 habitants,total,,0.2
+T1/2020,Baix Llobregat,casos confirmats,homes,,1612
+T1/2020,Baix Llobregat,casos confirmats,dones,,1954
+T1/2020,Baix Llobregat,casos confirmats,total,,3566
+T1/2020,Baix Llobregat,casos per cada 100 habitants,homes,,0.4
+T1/2020,Baix Llobregat,casos per cada 100 habitants,dones,,0.5
+T1/2020,Baix Llobregat,casos per cada 100 habitants,total,,0.4
+T1/2020,Baix Penedès,casos confirmats,homes,,82
+T1/2020,Baix Penedès,casos confirmats,dones,,87
+T1/2020,Baix Penedès,casos confirmats,total,,169
+T1/2020,Baix Penedès,casos per cada 100 habitants,homes,,0.2
+T1/2020,Baix Penedès,casos per cada 100 habitants,dones,,0.2
+T1/2020,Baix Penedès,casos per cada 100 habitants,total,,0.2
+T1/2020,Barcelonès,casos confirmats,homes,,5312
+T1/2020,Barcelonès,casos confirmats,dones,,5535
+T1/2020,Barcelonès,casos confirmats,total,,10847
+T1/2020,Barcelonès,casos per cada 100 habitants,homes,,0.5
+T1/2020,Barcelonès,casos per cada 100 habitants,dones,,0.5
+T1/2020,Barcelonès,casos per cada 100 habitants,total,,0.5
+T1/2020,Berguedà,casos confirmats,homes,,95
+T1/2020,Berguedà,casos confirmats,dones,,106
+T1/2020,Berguedà,casos confirmats,total,,201
+T1/2020,Berguedà,casos per cada 100 habitants,homes,,0.5
+T1/2020,Berguedà,casos per cada 100 habitants,dones,,0.5
+T1/2020,Berguedà,casos per cada 100 habitants,total,,0.5
+T1/2020,Cerdanya,casos confirmats,homes,,9
+T1/2020,Cerdanya,casos confirmats,dones,,15
+T1/2020,Cerdanya,casos confirmats,total,,24
+T1/2020,Cerdanya,casos per cada 100 habitants,homes,,0.1
+T1/2020,Cerdanya,casos per cada 100 habitants,dones,,0.2
+T1/2020,Cerdanya,casos per cada 100 habitants,total,,0.1
+T1/2020,Conca de Barberà,casos confirmats,homes,,20
+T1/2020,Conca de Barberà,casos confirmats,dones,,10
+T1/2020,Conca de Barberà,casos confirmats,total,,30
+T1/2020,Conca de Barberà,casos per cada 100 habitants,homes,,0.2
+T1/2020,Conca de Barberà,casos per cada 100 habitants,dones,,0.1
+T1/2020,Conca de Barberà,casos per cada 100 habitants,total,,0.2
+T1/2020,Garraf,casos confirmats,homes,,148
+T1/2020,Garraf,casos confirmats,dones,,145
+T1/2020,Garraf,casos confirmats,total,,293
+T1/2020,Garraf,casos per cada 100 habitants,homes,,0.2
+T1/2020,Garraf,casos per cada 100 habitants,dones,,0.2
+T1/2020,Garraf,casos per cada 100 habitants,total,,0.2
+T1/2020,Garrigues,casos confirmats,homes,,12
+T1/2020,Garrigues,casos confirmats,dones,,21
+T1/2020,Garrigues,casos confirmats,total,,33
+T1/2020,Garrigues,casos per cada 100 habitants,homes,,0.1
+T1/2020,Garrigues,casos per cada 100 habitants,dones,,0.2
+T1/2020,Garrigues,casos per cada 100 habitants,total,,0.2
+T1/2020,Garrotxa,casos confirmats,homes,,67
+T1/2020,Garrotxa,casos confirmats,dones,,133
+T1/2020,Garrotxa,casos confirmats,total,,200
+T1/2020,Garrotxa,casos per cada 100 habitants,homes,,0.2
+T1/2020,Garrotxa,casos per cada 100 habitants,dones,,0.5
+T1/2020,Garrotxa,casos per cada 100 habitants,total,,0.3
+T1/2020,Gironès,casos confirmats,homes,,284
+T1/2020,Gironès,casos confirmats,dones,,387
+T1/2020,Gironès,casos confirmats,total,,671
+T1/2020,Gironès,casos per cada 100 habitants,homes,,0.3
+T1/2020,Gironès,casos per cada 100 habitants,dones,,0.4
+T1/2020,Gironès,casos per cada 100 habitants,total,,0.4
+T1/2020,Maresme,casos confirmats,homes,,521
+T1/2020,Maresme,casos confirmats,dones,,564
+T1/2020,Maresme,casos confirmats,total,,1085
+T1/2020,Maresme,casos per cada 100 habitants,homes,,0.2
+T1/2020,Maresme,casos per cada 100 habitants,dones,,0.2
+T1/2020,Maresme,casos per cada 100 habitants,total,,0.2
+T1/2020,Moianès,casos confirmats,homes,,13
+T1/2020,Moianès,casos confirmats,dones,,15
+T1/2020,Moianès,casos confirmats,total,,28
+T1/2020,Moianès,casos per cada 100 habitants,homes,,0.2
+T1/2020,Moianès,casos per cada 100 habitants,dones,,0.2
+T1/2020,Moianès,casos per cada 100 habitants,total,,0.2
+T1/2020,Montsià,casos confirmats,homes,,19
+T1/2020,Montsià,casos confirmats,dones,,27
+T1/2020,Montsià,casos confirmats,total,,46
+T1/2020,Montsià,casos per cada 100 habitants,homes,,0.1
+T1/2020,Montsià,casos per cada 100 habitants,dones,,0.1
+T1/2020,Montsià,casos per cada 100 habitants,total,,0.1
+T1/2020,Noguera,casos confirmats,homes,,63
+T1/2020,Noguera,casos confirmats,dones,,74
+T1/2020,Noguera,casos confirmats,total,,137
+T1/2020,Noguera,casos per cada 100 habitants,homes,,0.3
+T1/2020,Noguera,casos per cada 100 habitants,dones,,0.4
+T1/2020,Noguera,casos per cada 100 habitants,total,,0.4
+T1/2020,Osona,casos confirmats,homes,,254
+T1/2020,Osona,casos confirmats,dones,,387
+T1/2020,Osona,casos confirmats,total,,641
+T1/2020,Osona,casos per cada 100 habitants,homes,,0.3
+T1/2020,Osona,casos per cada 100 habitants,dones,,0.5
+T1/2020,Osona,casos per cada 100 habitants,total,,0.4
+T1/2020,Pallars Jussà,casos confirmats,homes,,27
+T1/2020,Pallars Jussà,casos confirmats,dones,,33
+T1/2020,Pallars Jussà,casos confirmats,total,,60
+T1/2020,Pallars Jussà,casos per cada 100 habitants,homes,,0.4
+T1/2020,Pallars Jussà,casos per cada 100 habitants,dones,,0.5
+T1/2020,Pallars Jussà,casos per cada 100 habitants,total,,0.5
+T1/2020,Pallars Sobirà,casos confirmats,homes,,6
+T1/2020,Pallars Sobirà,casos confirmats,dones,,6
+T1/2020,Pallars Sobirà,casos confirmats,total,,12
+T1/2020,Pallars Sobirà,casos per cada 100 habitants,homes,,0.2
+T1/2020,Pallars Sobirà,casos per cada 100 habitants,dones,,0.2
+T1/2020,Pallars Sobirà,casos per cada 100 habitants,total,,0.2
+T1/2020,Pla d'Urgell,casos confirmats,homes,,22
+T1/2020,Pla d'Urgell,casos confirmats,dones,,32
+T1/2020,Pla d'Urgell,casos confirmats,total,,54
+T1/2020,Pla d'Urgell,casos per cada 100 habitants,homes,,0.1
+T1/2020,Pla d'Urgell,casos per cada 100 habitants,dones,,0.2
+T1/2020,Pla d'Urgell,casos per cada 100 habitants,total,,0.1
+T1/2020,Pla de l'Estany,casos confirmats,homes,,47
+T1/2020,Pla de l'Estany,casos confirmats,dones,,43
+T1/2020,Pla de l'Estany,casos confirmats,total,,90
+T1/2020,Pla de l'Estany,casos per cada 100 habitants,homes,,0.3
+T1/2020,Pla de l'Estany,casos per cada 100 habitants,dones,,0.3
+T1/2020,Pla de l'Estany,casos per cada 100 habitants,total,,0.3
+T1/2020,Priorat,casos confirmats,homes,,1
+T1/2020,Priorat,casos confirmats,dones,,6
+T1/2020,Priorat,casos confirmats,total,,7
+T1/2020,Priorat,casos per cada 100 habitants,homes,,0.0
+T1/2020,Priorat,casos per cada 100 habitants,dones,,0.1
+T1/2020,Priorat,casos per cada 100 habitants,total,,0.1
+T1/2020,Ribera d'Ebre,casos confirmats,homes,,8
+T1/2020,Ribera d'Ebre,casos confirmats,dones,,15
+T1/2020,Ribera d'Ebre,casos confirmats,total,,23
+T1/2020,Ribera d'Ebre,casos per cada 100 habitants,homes,,0.1
+T1/2020,Ribera d'Ebre,casos per cada 100 habitants,dones,,0.1
+T1/2020,Ribera d'Ebre,casos per cada 100 habitants,total,,0.1
+T1/2020,Ripollès,casos confirmats,homes,,29
+T1/2020,Ripollès,casos confirmats,dones,,33
+T1/2020,Ripollès,casos confirmats,total,,62
+T1/2020,Ripollès,casos per cada 100 habitants,homes,,0.2
+T1/2020,Ripollès,casos per cada 100 habitants,dones,,0.3
+T1/2020,Ripollès,casos per cada 100 habitants,total,,0.2
+T1/2020,Segarra,casos confirmats,homes,,23
+T1/2020,Segarra,casos confirmats,dones,,30
+T1/2020,Segarra,casos confirmats,total,,53
+T1/2020,Segarra,casos per cada 100 habitants,homes,,0.2
+T1/2020,Segarra,casos per cada 100 habitants,dones,,0.3
+T1/2020,Segarra,casos per cada 100 habitants,total,,0.2
+T1/2020,Segrià,casos confirmats,homes,,224
+T1/2020,Segrià,casos confirmats,dones,,222
+T1/2020,Segrià,casos confirmats,total,,446
+T1/2020,Segrià,casos per cada 100 habitants,homes,,0.2
+T1/2020,Segrià,casos per cada 100 habitants,dones,,0.2
+T1/2020,Segrià,casos per cada 100 habitants,total,,0.2
+T1/2020,Selva,casos confirmats,homes,,172
+T1/2020,Selva,casos confirmats,dones,,197
+T1/2020,Selva,casos confirmats,total,,369
+T1/2020,Selva,casos per cada 100 habitants,homes,,0.2
+T1/2020,Selva,casos per cada 100 habitants,dones,,0.2
+T1/2020,Selva,casos per cada 100 habitants,total,,0.2
+T1/2020,Solsonès,casos confirmats,homes,,6
+T1/2020,Solsonès,casos confirmats,dones,,7
+T1/2020,Solsonès,casos confirmats,total,,13
+T1/2020,Solsonès,casos per cada 100 habitants,homes,,0.1
+T1/2020,Solsonès,casos per cada 100 habitants,dones,,0.1
+T1/2020,Solsonès,casos per cada 100 habitants,total,,0.1
+T1/2020,Tarragonès,casos confirmats,homes,,146
+T1/2020,Tarragonès,casos confirmats,dones,,192
+T1/2020,Tarragonès,casos confirmats,total,,338
+T1/2020,Tarragonès,casos per cada 100 habitants,homes,,0.1
+T1/2020,Tarragonès,casos per cada 100 habitants,dones,,0.1
+T1/2020,Tarragonès,casos per cada 100 habitants,total,,0.1
+T1/2020,Terra Alta,casos confirmats,homes,,2
+T1/2020,Terra Alta,casos confirmats,dones,,3
+T1/2020,Terra Alta,casos confirmats,total,,5
+T1/2020,Terra Alta,casos per cada 100 habitants,homes,,0.0
+T1/2020,Terra Alta,casos per cada 100 habitants,dones,,0.1
+T1/2020,Terra Alta,casos per cada 100 habitants,total,,0.0
+T1/2020,Urgell,casos confirmats,homes,,55
+T1/2020,Urgell,casos confirmats,dones,,34
+T1/2020,Urgell,casos confirmats,total,,89
+T1/2020,Urgell,casos per cada 100 habitants,homes,,0.3
+T1/2020,Urgell,casos per cada 100 habitants,dones,,0.2
+T1/2020,Urgell,casos per cada 100 habitants,total,,0.2
+T1/2020,Vallès Occidental,casos confirmats,homes,,1790
+T1/2020,Vallès Occidental,casos confirmats,dones,,1960
+T1/2020,Vallès Occidental,casos confirmats,total,,3750
+T1/2020,Vallès Occidental,casos per cada 100 habitants,homes,,0.4
+T1/2020,Vallès Occidental,casos per cada 100 habitants,dones,,0.4
+T1/2020,Vallès Occidental,casos per cada 100 habitants,total,,0.4
+T1/2020,Vallès Oriental,casos confirmats,homes,,644
+T1/2020,Vallès Oriental,casos confirmats,dones,,738
+T1/2020,Vallès Oriental,casos confirmats,total,,1382
+T1/2020,Vallès Oriental,casos per cada 100 habitants,homes,,0.3
+T1/2020,Vallès Oriental,casos per cada 100 habitants,dones,,0.4
+T1/2020,Vallès Oriental,casos per cada 100 habitants,total,,0.3
+T1/2020,Catalunya,casos confirmats,homes,,12971
+T1/2020,Catalunya,casos confirmats,dones,,14508
+T1/2020,Catalunya,casos confirmats,total,,27709
+T1/2020,Catalunya,casos per cada 100 habitants,homes,,0.3
+T1/2020,Catalunya,casos per cada 100 habitants,dones,,0.4
+T1/2020,Catalunya,casos per cada 100 habitants,total,,0.4
+T2/2020,Alt Camp,casos confirmats,homes,,38
+T2/2020,Alt Camp,casos confirmats,dones,,55
+T2/2020,Alt Camp,casos confirmats,total,,93
+T2/2020,Alt Camp,casos per cada 100 habitants,homes,,0.2
+T2/2020,Alt Camp,casos per cada 100 habitants,dones,,0.2
+T2/2020,Alt Camp,casos per cada 100 habitants,total,,0.2
+T2/2020,Alt Empordà,casos confirmats,homes,,194
+T2/2020,Alt Empordà,casos confirmats,dones,,319
+T2/2020,Alt Empordà,casos confirmats,total,,513
+T2/2020,Alt Empordà,casos per cada 100 habitants,homes,,0.3
+T2/2020,Alt Empordà,casos per cada 100 habitants,dones,,0.5
+T2/2020,Alt Empordà,casos per cada 100 habitants,total,,0.4
+T2/2020,Alt Penedès,casos confirmats,homes,,228
+T2/2020,Alt Penedès,casos confirmats,dones,,533
+T2/2020,Alt Penedès,casos confirmats,total,,761
+T2/2020,Alt Penedès,casos per cada 100 habitants,homes,,0.4
+T2/2020,Alt Penedès,casos per cada 100 habitants,dones,,1.0
+T2/2020,Alt Penedès,casos per cada 100 habitants,total,,0.7
+T2/2020,Alt Urgell,casos confirmats,homes,,22
+T2/2020,Alt Urgell,casos confirmats,dones,,23
+T2/2020,Alt Urgell,casos confirmats,total,,45
+T2/2020,Alt Urgell,casos per cada 100 habitants,homes,,0.2
+T2/2020,Alt Urgell,casos per cada 100 habitants,dones,,0.2
+T2/2020,Alt Urgell,casos per cada 100 habitants,total,,0.2
+T2/2020,Alta Ribagorça,casos confirmats,homes,,12
+T2/2020,Alta Ribagorça,casos confirmats,dones,,2
+T2/2020,Alta Ribagorça,casos confirmats,total,,14
+T2/2020,Alta Ribagorça,casos per cada 100 habitants,homes,,0.6
+T2/2020,Alta Ribagorça,casos per cada 100 habitants,dones,,0.1
+T2/2020,Alta Ribagorça,casos per cada 100 habitants,total,,0.4
+T2/2020,Anoia,casos confirmats,homes,,339
+T2/2020,Anoia,casos confirmats,dones,,701
+T2/2020,Anoia,casos confirmats,total,,1040
+T2/2020,Anoia,casos per cada 100 habitants,homes,,0.5
+T2/2020,Anoia,casos per cada 100 habitants,dones,,1.1
+T2/2020,Anoia,casos per cada 100 habitants,total,,0.8
+T2/2020,Aran,casos confirmats,homes,,53
+T2/2020,Aran,casos confirmats,dones,,64
+T2/2020,Aran,casos confirmats,total,,117
+T2/2020,Aran,casos per cada 100 habitants,homes,,1.0
+T2/2020,Aran,casos per cada 100 habitants,dones,,1.3
+T2/2020,Aran,casos per cada 100 habitants,total,,1.2
+T2/2020,Bages,casos confirmats,homes,,545
+T2/2020,Bages,casos confirmats,dones,,1216
+T2/2020,Bages,casos confirmats,total,,1761
+T2/2020,Bages,casos per cada 100 habitants,homes,,0.6
+T2/2020,Bages,casos per cada 100 habitants,dones,,1.3
+T2/2020,Bages,casos per cada 100 habitants,total,,1.0
+T2/2020,Baix Camp,casos confirmats,homes,,144
+T2/2020,Baix Camp,casos confirmats,dones,,232
+T2/2020,Baix Camp,casos confirmats,total,,376
+T2/2020,Baix Camp,casos per cada 100 habitants,homes,,0.1
+T2/2020,Baix Camp,casos per cada 100 habitants,dones,,0.2
+T2/2020,Baix Camp,casos per cada 100 habitants,total,,0.2
+T2/2020,Baix Ebre,casos confirmats,homes,,27
+T2/2020,Baix Ebre,casos confirmats,dones,,52
+T2/2020,Baix Ebre,casos confirmats,total,,79
+T2/2020,Baix Ebre,casos per cada 100 habitants,homes,,0.1
+T2/2020,Baix Ebre,casos per cada 100 habitants,dones,,0.1
+T2/2020,Baix Ebre,casos per cada 100 habitants,total,,0.1
+T2/2020,Baix Empordà,casos confirmats,homes,,236
+T2/2020,Baix Empordà,casos confirmats,dones,,359
+T2/2020,Baix Empordà,casos confirmats,total,,595
+T2/2020,Baix Empordà,casos per cada 100 habitants,homes,,0.4
+T2/2020,Baix Empordà,casos per cada 100 habitants,dones,,0.5
+T2/2020,Baix Empordà,casos per cada 100 habitants,total,,0.4
+T2/2020,Baix Llobregat,casos confirmats,homes,,1753
+T2/2020,Baix Llobregat,casos confirmats,dones,,3432
+T2/2020,Baix Llobregat,casos confirmats,total,,5185
+T2/2020,Baix Llobregat,casos per cada 100 habitants,homes,,0.4
+T2/2020,Baix Llobregat,casos per cada 100 habitants,dones,,0.8
+T2/2020,Baix Llobregat,casos per cada 100 habitants,total,,0.6
+T2/2020,Baix Penedès,casos confirmats,homes,,103
+T2/2020,Baix Penedès,casos confirmats,dones,,182
+T2/2020,Baix Penedès,casos confirmats,total,,285
+T2/2020,Baix Penedès,casos per cada 100 habitants,homes,,0.2
+T2/2020,Baix Penedès,casos per cada 100 habitants,dones,,0.3
+T2/2020,Baix Penedès,casos per cada 100 habitants,total,,0.3
+T2/2020,Barcelonès,casos confirmats,homes,,6096
+T2/2020,Barcelonès,casos confirmats,dones,,11063
+T2/2020,Barcelonès,casos confirmats,total,,17159
+T2/2020,Barcelonès,casos per cada 100 habitants,homes,,0.6
+T2/2020,Barcelonès,casos per cada 100 habitants,dones,,0.9
+T2/2020,Barcelonès,casos per cada 100 habitants,total,,0.7
+T2/2020,Berguedà,casos confirmats,homes,,121
+T2/2020,Berguedà,casos confirmats,dones,,276
+T2/2020,Berguedà,casos confirmats,total,,397
+T2/2020,Berguedà,casos per cada 100 habitants,homes,,0.6
+T2/2020,Berguedà,casos per cada 100 habitants,dones,,1.4
+T2/2020,Berguedà,casos per cada 100 habitants,total,,1.0
+T2/2020,Cerdanya,casos confirmats,homes,,17
+T2/2020,Cerdanya,casos confirmats,dones,,26
+T2/2020,Cerdanya,casos confirmats,total,,43
+T2/2020,Cerdanya,casos per cada 100 habitants,homes,,0.2
+T2/2020,Cerdanya,casos per cada 100 habitants,dones,,0.3
+T2/2020,Cerdanya,casos per cada 100 habitants,total,,0.2
+T2/2020,Conca de Barberà,casos confirmats,homes,,17
+T2/2020,Conca de Barberà,casos confirmats,dones,,57
+T2/2020,Conca de Barberà,casos confirmats,total,,74
+T2/2020,Conca de Barberà,casos per cada 100 habitants,homes,,0.2
+T2/2020,Conca de Barberà,casos per cada 100 habitants,dones,,0.6
+T2/2020,Conca de Barberà,casos per cada 100 habitants,total,,0.4
+T2/2020,Garraf,casos confirmats,homes,,206
+T2/2020,Garraf,casos confirmats,dones,,463
+T2/2020,Garraf,casos confirmats,total,,669
+T2/2020,Garraf,casos per cada 100 habitants,homes,,0.3
+T2/2020,Garraf,casos per cada 100 habitants,dones,,0.6
+T2/2020,Garraf,casos per cada 100 habitants,total,,0.4
+T2/2020,Garrigues,casos confirmats,homes,,33
+T2/2020,Garrigues,casos confirmats,dones,,28
+T2/2020,Garrigues,casos confirmats,total,,61
+T2/2020,Garrigues,casos per cada 100 habitants,homes,,0.3
+T2/2020,Garrigues,casos per cada 100 habitants,dones,,0.3
+T2/2020,Garrigues,casos per cada 100 habitants,total,,0.3
+T2/2020,Garrotxa,casos confirmats,homes,,191
+T2/2020,Garrotxa,casos confirmats,dones,,367
+T2/2020,Garrotxa,casos confirmats,total,,558
+T2/2020,Garrotxa,casos per cada 100 habitants,homes,,0.7
+T2/2020,Garrotxa,casos per cada 100 habitants,dones,,1.3
+T2/2020,Garrotxa,casos per cada 100 habitants,total,,1.0
+T2/2020,Gironès,casos confirmats,homes,,506
+T2/2020,Gironès,casos confirmats,dones,,1029
+T2/2020,Gironès,casos confirmats,total,,1535
+T2/2020,Gironès,casos per cada 100 habitants,homes,,0.5
+T2/2020,Gironès,casos per cada 100 habitants,dones,,1.1
+T2/2020,Gironès,casos per cada 100 habitants,total,,0.8
+T2/2020,Maresme,casos confirmats,homes,,817
+T2/2020,Maresme,casos confirmats,dones,,1652
+T2/2020,Maresme,casos confirmats,total,,2469
+T2/2020,Maresme,casos per cada 100 habitants,homes,,0.4
+T2/2020,Maresme,casos per cada 100 habitants,dones,,0.7
+T2/2020,Maresme,casos per cada 100 habitants,total,,0.5
+T2/2020,Moianès,casos confirmats,homes,,48
+T2/2020,Moianès,casos confirmats,dones,,100
+T2/2020,Moianès,casos confirmats,total,,148
+T2/2020,Moianès,casos per cada 100 habitants,homes,,0.7
+T2/2020,Moianès,casos per cada 100 habitants,dones,,1.5
+T2/2020,Moianès,casos per cada 100 habitants,total,,1.1
+T2/2020,Montsià,casos confirmats,homes,,13
+T2/2020,Montsià,casos confirmats,dones,,16
+T2/2020,Montsià,casos confirmats,total,,29
+T2/2020,Montsià,casos per cada 100 habitants,homes,,0.0
+T2/2020,Montsià,casos per cada 100 habitants,dones,,0.0
+T2/2020,Montsià,casos per cada 100 habitants,total,,0.0
+T2/2020,Noguera,casos confirmats,homes,,60
+T2/2020,Noguera,casos confirmats,dones,,99
+T2/2020,Noguera,casos confirmats,total,,159
+T2/2020,Noguera,casos per cada 100 habitants,homes,,0.3
+T2/2020,Noguera,casos per cada 100 habitants,dones,,0.5
+T2/2020,Noguera,casos per cada 100 habitants,total,,0.4
+T2/2020,Osona,casos confirmats,homes,,406
+T2/2020,Osona,casos confirmats,dones,,639
+T2/2020,Osona,casos confirmats,total,,1045
+T2/2020,Osona,casos per cada 100 habitants,homes,,0.5
+T2/2020,Osona,casos per cada 100 habitants,dones,,0.8
+T2/2020,Osona,casos per cada 100 habitants,total,,0.6
+T2/2020,Pallars Jussà,casos confirmats,homes,,19
+T2/2020,Pallars Jussà,casos confirmats,dones,,27
+T2/2020,Pallars Jussà,casos confirmats,total,,46
+T2/2020,Pallars Jussà,casos per cada 100 habitants,homes,,0.3
+T2/2020,Pallars Jussà,casos per cada 100 habitants,dones,,0.4
+T2/2020,Pallars Jussà,casos per cada 100 habitants,total,,0.4
+T2/2020,Pallars Sobirà,casos confirmats,homes,,10
+T2/2020,Pallars Sobirà,casos confirmats,dones,,5
+T2/2020,Pallars Sobirà,casos confirmats,total,,15
+T2/2020,Pallars Sobirà,casos per cada 100 habitants,homes,,0.3
+T2/2020,Pallars Sobirà,casos per cada 100 habitants,dones,,0.1
+T2/2020,Pallars Sobirà,casos per cada 100 habitants,total,,0.2
+T2/2020,Pla d'Urgell,casos confirmats,homes,,91
+T2/2020,Pla d'Urgell,casos confirmats,dones,,93
+T2/2020,Pla d'Urgell,casos confirmats,total,,184
+T2/2020,Pla d'Urgell,casos per cada 100 habitants,homes,,0.5
+T2/2020,Pla d'Urgell,casos per cada 100 habitants,dones,,0.5
+T2/2020,Pla d'Urgell,casos per cada 100 habitants,total,,0.5
+T2/2020,Pla de l'Estany,casos confirmats,homes,,98
+T2/2020,Pla de l'Estany,casos confirmats,dones,,153
+T2/2020,Pla de l'Estany,casos confirmats,total,,251
+T2/2020,Pla de l'Estany,casos per cada 100 habitants,homes,,0.6
+T2/2020,Pla de l'Estany,casos per cada 100 habitants,dones,,0.9
+T2/2020,Pla de l'Estany,casos per cada 100 habitants,total,,0.8
+T2/2020,Priorat,casos confirmats,homes,,7
+T2/2020,Priorat,casos confirmats,dones,,5
+T2/2020,Priorat,casos confirmats,total,,12
+T2/2020,Priorat,casos per cada 100 habitants,homes,,0.1
+T2/2020,Priorat,casos per cada 100 habitants,dones,,0.1
+T2/2020,Priorat,casos per cada 100 habitants,total,,0.1
+T2/2020,Ribera d'Ebre,casos confirmats,homes,,17
+T2/2020,Ribera d'Ebre,casos confirmats,dones,,27
+T2/2020,Ribera d'Ebre,casos confirmats,total,,44
+T2/2020,Ribera d'Ebre,casos per cada 100 habitants,homes,,0.2
+T2/2020,Ribera d'Ebre,casos per cada 100 habitants,dones,,0.3
+T2/2020,Ribera d'Ebre,casos per cada 100 habitants,total,,0.2
+T2/2020,Ripollès,casos confirmats,homes,,44
+T2/2020,Ripollès,casos confirmats,dones,,39
+T2/2020,Ripollès,casos confirmats,total,,83
+T2/2020,Ripollès,casos per cada 100 habitants,homes,,0.4
+T2/2020,Ripollès,casos per cada 100 habitants,dones,,0.3
+T2/2020,Ripollès,casos per cada 100 habitants,total,,0.3
+T2/2020,Segarra,casos confirmats,homes,,165
+T2/2020,Segarra,casos confirmats,dones,,176
+T2/2020,Segarra,casos confirmats,total,,341
+T2/2020,Segarra,casos per cada 100 habitants,homes,,1.4
+T2/2020,Segarra,casos per cada 100 habitants,dones,,1.6
+T2/2020,Segarra,casos per cada 100 habitants,total,,1.5
+T2/2020,Segrià,casos confirmats,homes,,808
+T2/2020,Segrià,casos confirmats,dones,,975
+T2/2020,Segrià,casos confirmats,total,,1783
+T2/2020,Segrià,casos per cada 100 habitants,homes,,0.8
+T2/2020,Segrià,casos per cada 100 habitants,dones,,0.9
+T2/2020,Segrià,casos per cada 100 habitants,total,,0.9
+T2/2020,Selva,casos confirmats,homes,,265
+T2/2020,Selva,casos confirmats,dones,,503
+T2/2020,Selva,casos confirmats,total,,768
+T2/2020,Selva,casos per cada 100 habitants,homes,,0.3
+T2/2020,Selva,casos per cada 100 habitants,dones,,0.6
+T2/2020,Selva,casos per cada 100 habitants,total,,0.4
+T2/2020,Solsonès,casos confirmats,homes,,12
+T2/2020,Solsonès,casos confirmats,dones,,12
+T2/2020,Solsonès,casos confirmats,total,,24
+T2/2020,Solsonès,casos per cada 100 habitants,homes,,0.2
+T2/2020,Solsonès,casos per cada 100 habitants,dones,,0.2
+T2/2020,Solsonès,casos per cada 100 habitants,total,,0.2
+T2/2020,Tarragonès,casos confirmats,homes,,278
+T2/2020,Tarragonès,casos confirmats,dones,,572
+T2/2020,Tarragonès,casos confirmats,total,,850
+T2/2020,Tarragonès,casos per cada 100 habitants,homes,,0.2
+T2/2020,Tarragonès,casos per cada 100 habitants,dones,,0.4
+T2/2020,Tarragonès,casos per cada 100 habitants,total,,0.3
+T2/2020,Terra Alta,casos confirmats,homes,,3
+T2/2020,Terra Alta,casos confirmats,dones,,4
+T2/2020,Terra Alta,casos confirmats,total,,7
+T2/2020,Terra Alta,casos per cada 100 habitants,homes,,0.1
+T2/2020,Terra Alta,casos per cada 100 habitants,dones,,0.1
+T2/2020,Terra Alta,casos per cada 100 habitants,total,,0.1
+T2/2020,Urgell,casos confirmats,homes,,80
+T2/2020,Urgell,casos confirmats,dones,,129
+T2/2020,Urgell,casos confirmats,total,,209
+T2/2020,Urgell,casos per cada 100 habitants,homes,,0.4
+T2/2020,Urgell,casos per cada 100 habitants,dones,,0.7
+T2/2020,Urgell,casos per cada 100 habitants,total,,0.6
+T2/2020,Vallès Occidental,casos confirmats,homes,,1707
+T2/2020,Vallès Occidental,casos confirmats,dones,,3274
+T2/2020,Vallès Occidental,casos confirmats,total,,4981
+T2/2020,Vallès Occidental,casos per cada 100 habitants,homes,,0.4
+T2/2020,Vallès Occidental,casos per cada 100 habitants,dones,,0.7
+T2/2020,Vallès Occidental,casos per cada 100 habitants,total,,0.5
+T2/2020,Vallès Oriental,casos confirmats,homes,,589
+T2/2020,Vallès Oriental,casos confirmats,dones,,1140
+T2/2020,Vallès Oriental,casos confirmats,total,,1729
+T2/2020,Vallès Oriental,casos per cada 100 habitants,homes,,0.3
+T2/2020,Vallès Oriental,casos per cada 100 habitants,dones,,0.6
+T2/2020,Vallès Oriental,casos per cada 100 habitants,total,,0.4
+T2/2020,Catalunya,casos confirmats,homes,,16446
+T2/2020,Catalunya,casos confirmats,dones,,30161
+T2/2020,Catalunya,casos confirmats,total,,48461
+T2/2020,Catalunya,casos per cada 100 habitants,homes,,0.4
+T2/2020,Catalunya,casos per cada 100 habitants,dones,,0.8
+T2/2020,Catalunya,casos per cada 100 habitants,total,,0.6
+T3/2020,Alt Camp,casos confirmats,homes,,135
+T3/2020,Alt Camp,casos confirmats,dones,,142
+T3/2020,Alt Camp,casos confirmats,total,,277
+T3/2020,Alt Camp,casos per cada 100 habitants,homes,,0.6
+T3/2020,Alt Camp,casos per cada 100 habitants,dones,,0.6
+T3/2020,Alt Camp,casos per cada 100 habitants,total,,0.6
+T3/2020,Alt Empordà,casos confirmats,homes,,576
+T3/2020,Alt Empordà,casos confirmats,dones,,660
+T3/2020,Alt Empordà,casos confirmats,total,,1236
+T3/2020,Alt Empordà,casos per cada 100 habitants,homes,,0.8
+T3/2020,Alt Empordà,casos per cada 100 habitants,dones,,0.9
+T3/2020,Alt Empordà,casos per cada 100 habitants,total,,0.9
+T3/2020,Alt Penedès,casos confirmats,homes,,361
+T3/2020,Alt Penedès,casos confirmats,dones,,462
+T3/2020,Alt Penedès,casos confirmats,total,,823
+T3/2020,Alt Penedès,casos per cada 100 habitants,homes,,0.7
+T3/2020,Alt Penedès,casos per cada 100 habitants,dones,,0.8
+T3/2020,Alt Penedès,casos per cada 100 habitants,total,,0.7
+T3/2020,Alt Urgell,casos confirmats,homes,,99
+T3/2020,Alt Urgell,casos confirmats,dones,,108
+T3/2020,Alt Urgell,casos confirmats,total,,207
+T3/2020,Alt Urgell,casos per cada 100 habitants,homes,,1.0
+T3/2020,Alt Urgell,casos per cada 100 habitants,dones,,1.1
+T3/2020,Alt Urgell,casos per cada 100 habitants,total,,1.0
+T3/2020,Alta Ribagorça,casos confirmats,homes,,9
+T3/2020,Alta Ribagorça,casos confirmats,dones,,10
+T3/2020,Alta Ribagorça,casos confirmats,total,,19
+T3/2020,Alta Ribagorça,casos per cada 100 habitants,homes,,0.5
+T3/2020,Alta Ribagorça,casos per cada 100 habitants,dones,,0.5
+T3/2020,Alta Ribagorça,casos per cada 100 habitants,total,,0.5
+T3/2020,Anoia,casos confirmats,homes,,462
+T3/2020,Anoia,casos confirmats,dones,,544
+T3/2020,Anoia,casos confirmats,total,,1006
+T3/2020,Anoia,casos per cada 100 habitants,homes,,0.7
+T3/2020,Anoia,casos per cada 100 habitants,dones,,0.9
+T3/2020,Anoia,casos per cada 100 habitants,total,,0.8
+T3/2020,Aran,casos confirmats,homes,,40
+T3/2020,Aran,casos confirmats,dones,,40
+T3/2020,Aran,casos confirmats,total,,80
+T3/2020,Aran,casos per cada 100 habitants,homes,,0.8
+T3/2020,Aran,casos per cada 100 habitants,dones,,0.8
+T3/2020,Aran,casos per cada 100 habitants,total,,0.8
+T3/2020,Bages,casos confirmats,homes,,693
+T3/2020,Bages,casos confirmats,dones,,853
+T3/2020,Bages,casos confirmats,total,,1546
+T3/2020,Bages,casos per cada 100 habitants,homes,,0.8
+T3/2020,Bages,casos per cada 100 habitants,dones,,0.9
+T3/2020,Bages,casos per cada 100 habitants,total,,0.9
+T3/2020,Baix Camp,casos confirmats,homes,,929
+T3/2020,Baix Camp,casos confirmats,dones,,988
+T3/2020,Baix Camp,casos confirmats,total,,1917
+T3/2020,Baix Camp,casos per cada 100 habitants,homes,,1.0
+T3/2020,Baix Camp,casos per cada 100 habitants,dones,,1.0
+T3/2020,Baix Camp,casos per cada 100 habitants,total,,1.0
+T3/2020,Baix Ebre,casos confirmats,homes,,402
+T3/2020,Baix Ebre,casos confirmats,dones,,360
+T3/2020,Baix Ebre,casos confirmats,total,,762
+T3/2020,Baix Ebre,casos per cada 100 habitants,homes,,1.0
+T3/2020,Baix Ebre,casos per cada 100 habitants,dones,,0.9
+T3/2020,Baix Ebre,casos per cada 100 habitants,total,,1.0
+T3/2020,Baix Empordà,casos confirmats,homes,,423
+T3/2020,Baix Empordà,casos confirmats,dones,,431
+T3/2020,Baix Empordà,casos confirmats,total,,854
+T3/2020,Baix Empordà,casos per cada 100 habitants,homes,,0.6
+T3/2020,Baix Empordà,casos per cada 100 habitants,dones,,0.6
+T3/2020,Baix Empordà,casos per cada 100 habitants,total,,0.6
+T3/2020,Baix Llobregat,casos confirmats,homes,,4688
+T3/2020,Baix Llobregat,casos confirmats,dones,,5314
+T3/2020,Baix Llobregat,casos confirmats,total,,10002
+T3/2020,Baix Llobregat,casos per cada 100 habitants,homes,,1.2
+T3/2020,Baix Llobregat,casos per cada 100 habitants,dones,,1.3
+T3/2020,Baix Llobregat,casos per cada 100 habitants,total,,1.2
+T3/2020,Baix Penedès,casos confirmats,homes,,290
+T3/2020,Baix Penedès,casos confirmats,dones,,328
+T3/2020,Baix Penedès,casos confirmats,total,,618
+T3/2020,Baix Penedès,casos per cada 100 habitants,homes,,0.5
+T3/2020,Baix Penedès,casos per cada 100 habitants,dones,,0.6
+T3/2020,Baix Penedès,casos per cada 100 habitants,total,,0.6
+T3/2020,Barcelonès,casos confirmats,homes,,17500
+T3/2020,Barcelonès,casos confirmats,dones,,19018
+T3/2020,Barcelonès,casos confirmats,total,,36518
+T3/2020,Barcelonès,casos per cada 100 habitants,homes,,1.6
+T3/2020,Barcelonès,casos per cada 100 habitants,dones,,1.6
+T3/2020,Barcelonès,casos per cada 100 habitants,total,,1.6
+T3/2020,Berguedà,casos confirmats,homes,,132
+T3/2020,Berguedà,casos confirmats,dones,,129
+T3/2020,Berguedà,casos confirmats,total,,261
+T3/2020,Berguedà,casos per cada 100 habitants,homes,,0.7
+T3/2020,Berguedà,casos per cada 100 habitants,dones,,0.6
+T3/2020,Berguedà,casos per cada 100 habitants,total,,0.7
+T3/2020,Cerdanya,casos confirmats,homes,,167
+T3/2020,Cerdanya,casos confirmats,dones,,179
+T3/2020,Cerdanya,casos confirmats,total,,346
+T3/2020,Cerdanya,casos per cada 100 habitants,homes,,1.8
+T3/2020,Cerdanya,casos per cada 100 habitants,dones,,2.0
+T3/2020,Cerdanya,casos per cada 100 habitants,total,,1.9
+T3/2020,Conca de Barberà,casos confirmats,homes,,43
+T3/2020,Conca de Barberà,casos confirmats,dones,,41
+T3/2020,Conca de Barberà,casos confirmats,total,,84
+T3/2020,Conca de Barberà,casos per cada 100 habitants,homes,,0.4
+T3/2020,Conca de Barberà,casos per cada 100 habitants,dones,,0.4
+T3/2020,Conca de Barberà,casos per cada 100 habitants,total,,0.4
+T3/2020,Garraf,casos confirmats,homes,,449
+T3/2020,Garraf,casos confirmats,dones,,515
+T3/2020,Garraf,casos confirmats,total,,964
+T3/2020,Garraf,casos per cada 100 habitants,homes,,0.6
+T3/2020,Garraf,casos per cada 100 habitants,dones,,0.7
+T3/2020,Garraf,casos per cada 100 habitants,total,,0.6
+T3/2020,Garrigues,casos confirmats,homes,,119
+T3/2020,Garrigues,casos confirmats,dones,,112
+T3/2020,Garrigues,casos confirmats,total,,231
+T3/2020,Garrigues,casos per cada 100 habitants,homes,,1.2
+T3/2020,Garrigues,casos per cada 100 habitants,dones,,1.2
+T3/2020,Garrigues,casos per cada 100 habitants,total,,1.2
+T3/2020,Garrotxa,casos confirmats,homes,,181
+T3/2020,Garrotxa,casos confirmats,dones,,194
+T3/2020,Garrotxa,casos confirmats,total,,375
+T3/2020,Garrotxa,casos per cada 100 habitants,homes,,0.6
+T3/2020,Garrotxa,casos per cada 100 habitants,dones,,0.7
+T3/2020,Garrotxa,casos per cada 100 habitants,total,,0.7
+T3/2020,Gironès,casos confirmats,homes,,1392
+T3/2020,Gironès,casos confirmats,dones,,1543
+T3/2020,Gironès,casos confirmats,total,,2935
+T3/2020,Gironès,casos per cada 100 habitants,homes,,1.5
+T3/2020,Gironès,casos per cada 100 habitants,dones,,1.6
+T3/2020,Gironès,casos per cada 100 habitants,total,,1.5
+T3/2020,Maresme,casos confirmats,homes,,1771
+T3/2020,Maresme,casos confirmats,dones,,1897
+T3/2020,Maresme,casos confirmats,total,,3668
+T3/2020,Maresme,casos per cada 100 habitants,homes,,0.8
+T3/2020,Maresme,casos per cada 100 habitants,dones,,0.8
+T3/2020,Maresme,casos per cada 100 habitants,total,,0.8
+T3/2020,Moianès,casos confirmats,homes,,46
+T3/2020,Moianès,casos confirmats,dones,,47
+T3/2020,Moianès,casos confirmats,total,,93
+T3/2020,Moianès,casos per cada 100 habitants,homes,,0.6
+T3/2020,Moianès,casos per cada 100 habitants,dones,,0.7
+T3/2020,Moianès,casos per cada 100 habitants,total,,0.7
+T3/2020,Montsià,casos confirmats,homes,,190
+T3/2020,Montsià,casos confirmats,dones,,208
+T3/2020,Montsià,casos confirmats,total,,398
+T3/2020,Montsià,casos per cada 100 habitants,homes,,0.5
+T3/2020,Montsià,casos per cada 100 habitants,dones,,0.6
+T3/2020,Montsià,casos per cada 100 habitants,total,,0.6
+T3/2020,Noguera,casos confirmats,homes,,519
+T3/2020,Noguera,casos confirmats,dones,,536
+T3/2020,Noguera,casos confirmats,total,,1055
+T3/2020,Noguera,casos per cada 100 habitants,homes,,2.6
+T3/2020,Noguera,casos per cada 100 habitants,dones,,2.9
+T3/2020,Noguera,casos per cada 100 habitants,total,,2.7
+T3/2020,Osona,casos confirmats,homes,,1057
+T3/2020,Osona,casos confirmats,dones,,1075
+T3/2020,Osona,casos confirmats,total,,2132
+T3/2020,Osona,casos per cada 100 habitants,homes,,1.3
+T3/2020,Osona,casos per cada 100 habitants,dones,,1.3
+T3/2020,Osona,casos per cada 100 habitants,total,,1.3
+T3/2020,Pallars Jussà,casos confirmats,homes,,22
+T3/2020,Pallars Jussà,casos confirmats,dones,,43
+T3/2020,Pallars Jussà,casos confirmats,total,,65
+T3/2020,Pallars Jussà,casos per cada 100 habitants,homes,,0.3
+T3/2020,Pallars Jussà,casos per cada 100 habitants,dones,,0.7
+T3/2020,Pallars Jussà,casos per cada 100 habitants,total,,0.5
+T3/2020,Pallars Sobirà,casos confirmats,homes,,19
+T3/2020,Pallars Sobirà,casos confirmats,dones,,11
+T3/2020,Pallars Sobirà,casos confirmats,total,,30
+T3/2020,Pallars Sobirà,casos per cada 100 habitants,homes,,0.5
+T3/2020,Pallars Sobirà,casos per cada 100 habitants,dones,,0.3
+T3/2020,Pallars Sobirà,casos per cada 100 habitants,total,,0.4
+T3/2020,Pla d'Urgell,casos confirmats,homes,,262
+T3/2020,Pla d'Urgell,casos confirmats,dones,,285
+T3/2020,Pla d'Urgell,casos confirmats,total,,547
+T3/2020,Pla d'Urgell,casos per cada 100 habitants,homes,,1.4
+T3/2020,Pla d'Urgell,casos per cada 100 habitants,dones,,1.6
+T3/2020,Pla d'Urgell,casos per cada 100 habitants,total,,1.5
+T3/2020,Pla de l'Estany,casos confirmats,homes,,130
+T3/2020,Pla de l'Estany,casos confirmats,dones,,161
+T3/2020,Pla de l'Estany,casos confirmats,total,,291
+T3/2020,Pla de l'Estany,casos per cada 100 habitants,homes,,0.8
+T3/2020,Pla de l'Estany,casos per cada 100 habitants,dones,,1.0
+T3/2020,Pla de l'Estany,casos per cada 100 habitants,total,,0.9
+T3/2020,Priorat,casos confirmats,homes,,47
+T3/2020,Priorat,casos confirmats,dones,,46
+T3/2020,Priorat,casos confirmats,total,,93
+T3/2020,Priorat,casos per cada 100 habitants,homes,,1.0
+T3/2020,Priorat,casos per cada 100 habitants,dones,,1.1
+T3/2020,Priorat,casos per cada 100 habitants,total,,1.0
+T3/2020,Ribera d'Ebre,casos confirmats,homes,,98
+T3/2020,Ribera d'Ebre,casos confirmats,dones,,92
+T3/2020,Ribera d'Ebre,casos confirmats,total,,190
+T3/2020,Ribera d'Ebre,casos per cada 100 habitants,homes,,0.9
+T3/2020,Ribera d'Ebre,casos per cada 100 habitants,dones,,0.9
+T3/2020,Ribera d'Ebre,casos per cada 100 habitants,total,,0.9
+T3/2020,Ripollès,casos confirmats,homes,,90
+T3/2020,Ripollès,casos confirmats,dones,,73
+T3/2020,Ripollès,casos confirmats,total,,163
+T3/2020,Ripollès,casos per cada 100 habitants,homes,,0.7
+T3/2020,Ripollès,casos per cada 100 habitants,dones,,0.6
+T3/2020,Ripollès,casos per cada 100 habitants,total,,0.7
+T3/2020,Segarra,casos confirmats,homes,,135
+T3/2020,Segarra,casos confirmats,dones,,195
+T3/2020,Segarra,casos confirmats,total,,330
+T3/2020,Segarra,casos per cada 100 habitants,homes,,1.1
+T3/2020,Segarra,casos per cada 100 habitants,dones,,1.8
+T3/2020,Segarra,casos per cada 100 habitants,total,,1.4
+T3/2020,Segrià,casos confirmats,homes,,2864
+T3/2020,Segrià,casos confirmats,dones,,3657
+T3/2020,Segrià,casos confirmats,total,,6521
+T3/2020,Segrià,casos per cada 100 habitants,homes,,2.7
+T3/2020,Segrià,casos per cada 100 habitants,dones,,3.5
+T3/2020,Segrià,casos per cada 100 habitants,total,,3.1
+T3/2020,Selva,casos confirmats,homes,,573
+T3/2020,Selva,casos confirmats,dones,,563
+T3/2020,Selva,casos confirmats,total,,1136
+T3/2020,Selva,casos per cada 100 habitants,homes,,0.7
+T3/2020,Selva,casos per cada 100 habitants,dones,,0.7
+T3/2020,Selva,casos per cada 100 habitants,total,,0.7
+T3/2020,Solsonès,casos confirmats,homes,,27
+T3/2020,Solsonès,casos confirmats,dones,,29
+T3/2020,Solsonès,casos confirmats,total,,56
+T3/2020,Solsonès,casos per cada 100 habitants,homes,,0.4
+T3/2020,Solsonès,casos per cada 100 habitants,dones,,0.4
+T3/2020,Solsonès,casos per cada 100 habitants,total,,0.4
+T3/2020,Tarragonès,casos confirmats,homes,,936
+T3/2020,Tarragonès,casos confirmats,dones,,1001
+T3/2020,Tarragonès,casos confirmats,total,,1937
+T3/2020,Tarragonès,casos per cada 100 habitants,homes,,0.7
+T3/2020,Tarragonès,casos per cada 100 habitants,dones,,0.8
+T3/2020,Tarragonès,casos per cada 100 habitants,total,,0.7
+T3/2020,Terra Alta,casos confirmats,homes,,28
+T3/2020,Terra Alta,casos confirmats,dones,,24
+T3/2020,Terra Alta,casos confirmats,total,,52
+T3/2020,Terra Alta,casos per cada 100 habitants,homes,,0.5
+T3/2020,Terra Alta,casos per cada 100 habitants,dones,,0.4
+T3/2020,Terra Alta,casos per cada 100 habitants,total,,0.5
+T3/2020,Urgell,casos confirmats,homes,,251
+T3/2020,Urgell,casos confirmats,dones,,256
+T3/2020,Urgell,casos confirmats,total,,507
+T3/2020,Urgell,casos per cada 100 habitants,homes,,1.3
+T3/2020,Urgell,casos per cada 100 habitants,dones,,1.4
+T3/2020,Urgell,casos per cada 100 habitants,total,,1.4
+T3/2020,Vallès Occidental,casos confirmats,homes,,5117
+T3/2020,Vallès Occidental,casos confirmats,dones,,5560
+T3/2020,Vallès Occidental,casos confirmats,total,,10677
+T3/2020,Vallès Occidental,casos per cada 100 habitants,homes,,1.1
+T3/2020,Vallès Occidental,casos per cada 100 habitants,dones,,1.2
+T3/2020,Vallès Occidental,casos per cada 100 habitants,total,,1.1
+T3/2020,Vallès Oriental,casos confirmats,homes,,2524
+T3/2020,Vallès Oriental,casos confirmats,dones,,2770
+T3/2020,Vallès Oriental,casos confirmats,total,,5294
+T3/2020,Vallès Oriental,casos per cada 100 habitants,homes,,1.2
+T3/2020,Vallès Oriental,casos per cada 100 habitants,dones,,1.3
+T3/2020,Vallès Oriental,casos per cada 100 habitants,total,,1.3
+T3/2020,Catalunya,casos confirmats,homes,,45864
+T3/2020,Catalunya,casos confirmats,dones,,50569
+T3/2020,Catalunya,casos confirmats,total,,97899
+T3/2020,Catalunya,casos per cada 100 habitants,homes,,1.2
+T3/2020,Catalunya,casos per cada 100 habitants,dones,,1.3
+T3/2020,Catalunya,casos per cada 100 habitants,total,,1.3
+T4/2020,Alt Camp,casos confirmats,homes,,434
+T4/2020,Alt Camp,casos confirmats,dones,,498
+T4/2020,Alt Camp,casos confirmats,total,,932
+T4/2020,Alt Camp,casos per cada 100 habitants,homes,,1.9
+T4/2020,Alt Camp,casos per cada 100 habitants,dones,,2.3
+T4/2020,Alt Camp,casos per cada 100 habitants,total,,2.1
+T4/2020,Alt Empordà,casos confirmats,homes,,2417
+T4/2020,Alt Empordà,casos confirmats,dones,,2723
+T4/2020,Alt Empordà,casos confirmats,total,,5140
+T4/2020,Alt Empordà,casos per cada 100 habitants,homes,,3.5
+T4/2020,Alt Empordà,casos per cada 100 habitants,dones,,3.9
+T4/2020,Alt Empordà,casos per cada 100 habitants,total,,3.7
+T4/2020,Alt Penedès,casos confirmats,homes,,1314
+T4/2020,Alt Penedès,casos confirmats,dones,,1476
+T4/2020,Alt Penedès,casos confirmats,total,,2790
+T4/2020,Alt Penedès,casos per cada 100 habitants,homes,,2.4
+T4/2020,Alt Penedès,casos per cada 100 habitants,dones,,2.7
+T4/2020,Alt Penedès,casos per cada 100 habitants,total,,2.5
+T4/2020,Alt Urgell,casos confirmats,homes,,296
+T4/2020,Alt Urgell,casos confirmats,dones,,389
+T4/2020,Alt Urgell,casos confirmats,total,,685
+T4/2020,Alt Urgell,casos per cada 100 habitants,homes,,3.0
+T4/2020,Alt Urgell,casos per cada 100 habitants,dones,,3.9
+T4/2020,Alt Urgell,casos per cada 100 habitants,total,,3.4
+T4/2020,Alta Ribagorça,casos confirmats,homes,,26
+T4/2020,Alta Ribagorça,casos confirmats,dones,,23
+T4/2020,Alta Ribagorça,casos confirmats,total,,49
+T4/2020,Alta Ribagorça,casos per cada 100 habitants,homes,,1.3
+T4/2020,Alta Ribagorça,casos per cada 100 habitants,dones,,1.2
+T4/2020,Alta Ribagorça,casos per cada 100 habitants,total,,1.3
+T4/2020,Anoia,casos confirmats,homes,,1540
+T4/2020,Anoia,casos confirmats,dones,,1685
+T4/2020,Anoia,casos confirmats,total,,3225
+T4/2020,Anoia,casos per cada 100 habitants,homes,,2.5
+T4/2020,Anoia,casos per cada 100 habitants,dones,,2.8
+T4/2020,Anoia,casos per cada 100 habitants,total,,2.6
+T4/2020,Aran,casos confirmats,homes,,121
+T4/2020,Aran,casos confirmats,dones,,112
+T4/2020,Aran,casos confirmats,total,,233
+T4/2020,Aran,casos per cada 100 habitants,homes,,2.3
+T4/2020,Aran,casos per cada 100 habitants,dones,,2.3
+T4/2020,Aran,casos per cada 100 habitants,total,,2.3
+T4/2020,Bages,casos confirmats,homes,,2551
+T4/2020,Bages,casos confirmats,dones,,2940
+T4/2020,Bages,casos confirmats,total,,5491
+T4/2020,Bages,casos per cada 100 habitants,homes,,2.9
+T4/2020,Bages,casos per cada 100 habitants,dones,,3.2
+T4/2020,Bages,casos per cada 100 habitants,total,,3.1
+T4/2020,Baix Camp,casos confirmats,homes,,3344
+T4/2020,Baix Camp,casos confirmats,dones,,3894
+T4/2020,Baix Camp,casos confirmats,total,,7238
+T4/2020,Baix Camp,casos per cada 100 habitants,homes,,3.5
+T4/2020,Baix Camp,casos per cada 100 habitants,dones,,3.9
+T4/2020,Baix Camp,casos per cada 100 habitants,total,,3.7
+T4/2020,Baix Ebre,casos confirmats,homes,,978
+T4/2020,Baix Ebre,casos confirmats,dones,,1085
+T4/2020,Baix Ebre,casos confirmats,total,,2063
+T4/2020,Baix Ebre,casos per cada 100 habitants,homes,,2.5
+T4/2020,Baix Ebre,casos per cada 100 habitants,dones,,2.8
+T4/2020,Baix Ebre,casos per cada 100 habitants,total,,2.6
+T4/2020,Baix Empordà,casos confirmats,homes,,2209
+T4/2020,Baix Empordà,casos confirmats,dones,,2540
+T4/2020,Baix Empordà,casos confirmats,total,,4749
+T4/2020,Baix Empordà,casos per cada 100 habitants,homes,,3.3
+T4/2020,Baix Empordà,casos per cada 100 habitants,dones,,3.8
+T4/2020,Baix Empordà,casos per cada 100 habitants,total,,3.6
+T4/2020,Baix Llobregat,casos confirmats,homes,,10834
+T4/2020,Baix Llobregat,casos confirmats,dones,,12214
+T4/2020,Baix Llobregat,casos confirmats,total,,23048
+T4/2020,Baix Llobregat,casos per cada 100 habitants,homes,,2.7
+T4/2020,Baix Llobregat,casos per cada 100 habitants,dones,,2.9
+T4/2020,Baix Llobregat,casos per cada 100 habitants,total,,2.8
+T4/2020,Baix Penedès,casos confirmats,homes,,1058
+T4/2020,Baix Penedès,casos confirmats,dones,,1221
+T4/2020,Baix Penedès,casos confirmats,total,,2279
+T4/2020,Baix Penedès,casos per cada 100 habitants,homes,,2.0
+T4/2020,Baix Penedès,casos per cada 100 habitants,dones,,2.3
+T4/2020,Baix Penedès,casos per cada 100 habitants,total,,2.1
+T4/2020,Barcelonès,casos confirmats,homes,,31706
+T4/2020,Barcelonès,casos confirmats,dones,,36338
+T4/2020,Barcelonès,casos confirmats,total,,68044
+T4/2020,Barcelonès,casos per cada 100 habitants,homes,,2.9
+T4/2020,Barcelonès,casos per cada 100 habitants,dones,,3.0
+T4/2020,Barcelonès,casos per cada 100 habitants,total,,3.0
+T4/2020,Berguedà,casos confirmats,homes,,725
+T4/2020,Berguedà,casos confirmats,dones,,927
+T4/2020,Berguedà,casos confirmats,total,,1652
+T4/2020,Berguedà,casos per cada 100 habitants,homes,,3.6
+T4/2020,Berguedà,casos per cada 100 habitants,dones,,4.7
+T4/2020,Berguedà,casos per cada 100 habitants,total,,4.1
+T4/2020,Cerdanya,casos confirmats,homes,,543
+T4/2020,Cerdanya,casos confirmats,dones,,628
+T4/2020,Cerdanya,casos confirmats,total,,1171
+T4/2020,Cerdanya,casos per cada 100 habitants,homes,,5.8
+T4/2020,Cerdanya,casos per cada 100 habitants,dones,,7.0
+T4/2020,Cerdanya,casos per cada 100 habitants,total,,6.4
+T4/2020,Conca de Barberà,casos confirmats,homes,,194
+T4/2020,Conca de Barberà,casos confirmats,dones,,250
+T4/2020,Conca de Barberà,casos confirmats,total,,444
+T4/2020,Conca de Barberà,casos per cada 100 habitants,homes,,1.9
+T4/2020,Conca de Barberà,casos per cada 100 habitants,dones,,2.6
+T4/2020,Conca de Barberà,casos per cada 100 habitants,total,,2.2
+T4/2020,Garraf,casos confirmats,homes,,1267
+T4/2020,Garraf,casos confirmats,dones,,1465
+T4/2020,Garraf,casos confirmats,total,,2732
+T4/2020,Garraf,casos per cada 100 habitants,homes,,1.7
+T4/2020,Garraf,casos per cada 100 habitants,dones,,1.9
+T4/2020,Garraf,casos per cada 100 habitants,total,,1.8
+T4/2020,Garrigues,casos confirmats,homes,,273
+T4/2020,Garrigues,casos confirmats,dones,,288
+T4/2020,Garrigues,casos confirmats,total,,561
+T4/2020,Garrigues,casos per cada 100 habitants,homes,,2.8
+T4/2020,Garrigues,casos per cada 100 habitants,dones,,3.2
+T4/2020,Garrigues,casos per cada 100 habitants,total,,3.0
+T4/2020,Garrotxa,casos confirmats,homes,,923
+T4/2020,Garrotxa,casos confirmats,dones,,924
+T4/2020,Garrotxa,casos confirmats,total,,1847
+T4/2020,Garrotxa,casos per cada 100 habitants,homes,,3.2
+T4/2020,Garrotxa,casos per cada 100 habitants,dones,,3.2
+T4/2020,Garrotxa,casos per cada 100 habitants,total,,3.2
+T4/2020,Gironès,casos confirmats,homes,,3452
+T4/2020,Gironès,casos confirmats,dones,,3970
+T4/2020,Gironès,casos confirmats,total,,7422
+T4/2020,Gironès,casos per cada 100 habitants,homes,,3.7
+T4/2020,Gironès,casos per cada 100 habitants,dones,,4.1
+T4/2020,Gironès,casos per cada 100 habitants,total,,3.9
+T4/2020,Maresme,casos confirmats,homes,,6064
+T4/2020,Maresme,casos confirmats,dones,,6907
+T4/2020,Maresme,casos confirmats,total,,12971
+T4/2020,Maresme,casos per cada 100 habitants,homes,,2.7
+T4/2020,Maresme,casos per cada 100 habitants,dones,,3.0
+T4/2020,Maresme,casos per cada 100 habitants,total,,2.9
+T4/2020,Moianès,casos confirmats,homes,,181
+T4/2020,Moianès,casos confirmats,dones,,191
+T4/2020,Moianès,casos confirmats,total,,372
+T4/2020,Moianès,casos per cada 100 habitants,homes,,2.6
+T4/2020,Moianès,casos per cada 100 habitants,dones,,2.8
+T4/2020,Moianès,casos per cada 100 habitants,total,,2.7
+T4/2020,Montsià,casos confirmats,homes,,766
+T4/2020,Montsià,casos confirmats,dones,,885
+T4/2020,Montsià,casos confirmats,total,,1651
+T4/2020,Montsià,casos per cada 100 habitants,homes,,2.2
+T4/2020,Montsià,casos per cada 100 habitants,dones,,2.6
+T4/2020,Montsià,casos per cada 100 habitants,total,,2.4
+T4/2020,Noguera,casos confirmats,homes,,530
+T4/2020,Noguera,casos confirmats,dones,,629
+T4/2020,Noguera,casos confirmats,total,,1159
+T4/2020,Noguera,casos per cada 100 habitants,homes,,2.7
+T4/2020,Noguera,casos per cada 100 habitants,dones,,3.4
+T4/2020,Noguera,casos per cada 100 habitants,total,,3.0
+T4/2020,Osona,casos confirmats,homes,,3630
+T4/2020,Osona,casos confirmats,dones,,4171
+T4/2020,Osona,casos confirmats,total,,7801
+T4/2020,Osona,casos per cada 100 habitants,homes,,4.5
+T4/2020,Osona,casos per cada 100 habitants,dones,,5.2
+T4/2020,Osona,casos per cada 100 habitants,total,,4.8
+T4/2020,Pallars Jussà,casos confirmats,homes,,160
+T4/2020,Pallars Jussà,casos confirmats,dones,,238
+T4/2020,Pallars Jussà,casos confirmats,total,,398
+T4/2020,Pallars Jussà,casos per cada 100 habitants,homes,,2.4
+T4/2020,Pallars Jussà,casos per cada 100 habitants,dones,,3.7
+T4/2020,Pallars Jussà,casos per cada 100 habitants,total,,3.0
+T4/2020,Pallars Sobirà,casos confirmats,homes,,52
+T4/2020,Pallars Sobirà,casos confirmats,dones,,89
+T4/2020,Pallars Sobirà,casos confirmats,total,,141
+T4/2020,Pallars Sobirà,casos per cada 100 habitants,homes,,1.5
+T4/2020,Pallars Sobirà,casos per cada 100 habitants,dones,,2.7
+T4/2020,Pallars Sobirà,casos per cada 100 habitants,total,,2.0
+T4/2020,Pla d'Urgell,casos confirmats,homes,,527
+T4/2020,Pla d'Urgell,casos confirmats,dones,,613
+T4/2020,Pla d'Urgell,casos confirmats,total,,1140
+T4/2020,Pla d'Urgell,casos per cada 100 habitants,homes,,2.8
+T4/2020,Pla d'Urgell,casos per cada 100 habitants,dones,,3.4
+T4/2020,Pla d'Urgell,casos per cada 100 habitants,total,,3.1
+T4/2020,Pla de l'Estany,casos confirmats,homes,,774
+T4/2020,Pla de l'Estany,casos confirmats,dones,,912
+T4/2020,Pla de l'Estany,casos confirmats,total,,1686
+T4/2020,Pla de l'Estany,casos per cada 100 habitants,homes,,4.8
+T4/2020,Pla de l'Estany,casos per cada 100 habitants,dones,,5.6
+T4/2020,Pla de l'Estany,casos per cada 100 habitants,total,,5.2
+T4/2020,Priorat,casos confirmats,homes,,107
+T4/2020,Priorat,casos confirmats,dones,,163
+T4/2020,Priorat,casos confirmats,total,,270
+T4/2020,Priorat,casos per cada 100 habitants,homes,,2.2
+T4/2020,Priorat,casos per cada 100 habitants,dones,,3.8
+T4/2020,Priorat,casos per cada 100 habitants,total,,3.0
+T4/2020,Ribera d'Ebre,casos confirmats,homes,,191
+T4/2020,Ribera d'Ebre,casos confirmats,dones,,217
+T4/2020,Ribera d'Ebre,casos confirmats,total,,408
+T4/2020,Ribera d'Ebre,casos per cada 100 habitants,homes,,1.7
+T4/2020,Ribera d'Ebre,casos per cada 100 habitants,dones,,2.0
+T4/2020,Ribera d'Ebre,casos per cada 100 habitants,total,,1.9
+T4/2020,Ripollès,casos confirmats,homes,,566
+T4/2020,Ripollès,casos confirmats,dones,,696
+T4/2020,Ripollès,casos confirmats,total,,1262
+T4/2020,Ripollès,casos per cada 100 habitants,homes,,4.5
+T4/2020,Ripollès,casos per cada 100 habitants,dones,,5.6
+T4/2020,Ripollès,casos per cada 100 habitants,total,,5.0
+T4/2020,Segarra,casos confirmats,homes,,486
+T4/2020,Segarra,casos confirmats,dones,,531
+T4/2020,Segarra,casos confirmats,total,,1017
+T4/2020,Segarra,casos per cada 100 habitants,homes,,4.1
+T4/2020,Segarra,casos per cada 100 habitants,dones,,4.8
+T4/2020,Segarra,casos per cada 100 habitants,total,,4.5
+T4/2020,Segrià,casos confirmats,homes,,2619
+T4/2020,Segrià,casos confirmats,dones,,2837
+T4/2020,Segrià,casos confirmats,total,,5456
+T4/2020,Segrià,casos per cada 100 habitants,homes,,2.5
+T4/2020,Segrià,casos per cada 100 habitants,dones,,2.7
+T4/2020,Segrià,casos per cada 100 habitants,total,,2.6
+T4/2020,Selva,casos confirmats,homes,,2055
+T4/2020,Selva,casos confirmats,dones,,2269
+T4/2020,Selva,casos confirmats,total,,4324
+T4/2020,Selva,casos per cada 100 habitants,homes,,2.4
+T4/2020,Selva,casos per cada 100 habitants,dones,,2.7
+T4/2020,Selva,casos per cada 100 habitants,total,,2.5
+T4/2020,Solsonès,casos confirmats,homes,,139
+T4/2020,Solsonès,casos confirmats,dones,,190
+T4/2020,Solsonès,casos confirmats,total,,329
+T4/2020,Solsonès,casos per cada 100 habitants,homes,,2.0
+T4/2020,Solsonès,casos per cada 100 habitants,dones,,2.8
+T4/2020,Solsonès,casos per cada 100 habitants,total,,2.4
+T4/2020,Tarragonès,casos confirmats,homes,,3282
+T4/2020,Tarragonès,casos confirmats,dones,,3822
+T4/2020,Tarragonès,casos confirmats,total,,7104
+T4/2020,Tarragonès,casos per cada 100 habitants,homes,,2.5
+T4/2020,Tarragonès,casos per cada 100 habitants,dones,,2.9
+T4/2020,Tarragonès,casos per cada 100 habitants,total,,2.7
+T4/2020,Terra Alta,casos confirmats,homes,,147
+T4/2020,Terra Alta,casos confirmats,dones,,158
+T4/2020,Terra Alta,casos confirmats,total,,305
+T4/2020,Terra Alta,casos per cada 100 habitants,homes,,2.5
+T4/2020,Terra Alta,casos per cada 100 habitants,dones,,2.9
+T4/2020,Terra Alta,casos per cada 100 habitants,total,,2.7
+T4/2020,Urgell,casos confirmats,homes,,555
+T4/2020,Urgell,casos confirmats,dones,,638
+T4/2020,Urgell,casos confirmats,total,,1193
+T4/2020,Urgell,casos per cada 100 habitants,homes,,3.0
+T4/2020,Urgell,casos per cada 100 habitants,dones,,3.5
+T4/2020,Urgell,casos per cada 100 habitants,total,,3.2
+T4/2020,Vallès Occidental,casos confirmats,homes,,12563
+T4/2020,Vallès Occidental,casos confirmats,dones,,13880
+T4/2020,Vallès Occidental,casos confirmats,total,,26443
+T4/2020,Vallès Occidental,casos per cada 100 habitants,homes,,2.7
+T4/2020,Vallès Occidental,casos per cada 100 habitants,dones,,2.9
+T4/2020,Vallès Occidental,casos per cada 100 habitants,total,,2.8
+T4/2020,Vallès Oriental,casos confirmats,homes,,5858
+T4/2020,Vallès Oriental,casos confirmats,dones,,6373
+T4/2020,Vallès Oriental,casos confirmats,total,,12231
+T4/2020,Vallès Oriental,casos per cada 100 habitants,homes,,2.8
+T4/2020,Vallès Oriental,casos per cada 100 habitants,dones,,3.1
+T4/2020,Vallès Oriental,casos per cada 100 habitants,total,,3.0
+T4/2020,Catalunya,casos confirmats,homes,,107758
+T4/2020,Catalunya,casos confirmats,dones,,122283
+T4/2020,Catalunya,casos confirmats,total,,234727
+T4/2020,Catalunya,casos per cada 100 habitants,homes,,2.8
+T4/2020,Catalunya,casos per cada 100 habitants,dones,,3.1
+T4/2020,Catalunya,casos per cada 100 habitants,total,,3.0
+T1/2021,Alt Camp,casos confirmats,homes,,408
+T1/2021,Alt Camp,casos confirmats,dones,,430
+T1/2021,Alt Camp,casos confirmats,total,,838
+T1/2021,Alt Camp,casos per cada 100 habitants,homes,,1.8
+T1/2021,Alt Camp,casos per cada 100 habitants,dones,,1.9
+T1/2021,Alt Camp,casos per cada 100 habitants,total,,1.9
+T1/2021,Alt Empordà,casos confirmats,homes,,1456
+T1/2021,Alt Empordà,casos confirmats,dones,,1710
+T1/2021,Alt Empordà,casos confirmats,total,,3166
+T1/2021,Alt Empordà,casos per cada 100 habitants,homes,,2.1
+T1/2021,Alt Empordà,casos per cada 100 habitants,dones,,2.5
+T1/2021,Alt Empordà,casos per cada 100 habitants,total,,2.3
+T1/2021,Alt Penedès,casos confirmats,homes,,1332
+T1/2021,Alt Penedès,casos confirmats,dones,,1381
+T1/2021,Alt Penedès,casos confirmats,total,,2713
+T1/2021,Alt Penedès,casos per cada 100 habitants,homes,,2.4
+T1/2021,Alt Penedès,casos per cada 100 habitants,dones,,2.5
+T1/2021,Alt Penedès,casos per cada 100 habitants,total,,2.5
+T1/2021,Alt Urgell,casos confirmats,homes,,213
+T1/2021,Alt Urgell,casos confirmats,dones,,237
+T1/2021,Alt Urgell,casos confirmats,total,,450
+T1/2021,Alt Urgell,casos per cada 100 habitants,homes,,2.1
+T1/2021,Alt Urgell,casos per cada 100 habitants,dones,,2.4
+T1/2021,Alt Urgell,casos per cada 100 habitants,total,,2.2
+T1/2021,Alta Ribagorça,casos confirmats,homes,,36
+T1/2021,Alta Ribagorça,casos confirmats,dones,,39
+T1/2021,Alta Ribagorça,casos confirmats,total,,75
+T1/2021,Alta Ribagorça,casos per cada 100 habitants,homes,,1.8
+T1/2021,Alta Ribagorça,casos per cada 100 habitants,dones,,2.1
+T1/2021,Alta Ribagorça,casos per cada 100 habitants,total,,1.9
+T1/2021,Anoia,casos confirmats,homes,,1549
+T1/2021,Anoia,casos confirmats,dones,,1545
+T1/2021,Anoia,casos confirmats,total,,3094
+T1/2021,Anoia,casos per cada 100 habitants,homes,,2.5
+T1/2021,Anoia,casos per cada 100 habitants,dones,,2.5
+T1/2021,Anoia,casos per cada 100 habitants,total,,2.5
+T1/2021,Aran,casos confirmats,homes,,409
+T1/2021,Aran,casos confirmats,dones,,428
+T1/2021,Aran,casos confirmats,total,,837
+T1/2021,Aran,casos per cada 100 habitants,homes,,7.9
+T1/2021,Aran,casos per cada 100 habitants,dones,,8.9
+T1/2021,Aran,casos per cada 100 habitants,total,,8.3
+T1/2021,Bages,casos confirmats,homes,,2067
+T1/2021,Bages,casos confirmats,dones,,2346
+T1/2021,Bages,casos confirmats,total,,4413
+T1/2021,Bages,casos per cada 100 habitants,homes,,2.3
+T1/2021,Bages,casos per cada 100 habitants,dones,,2.6
+T1/2021,Bages,casos per cada 100 habitants,total,,2.5
+T1/2021,Baix Camp,casos confirmats,homes,,1875
+T1/2021,Baix Camp,casos confirmats,dones,,2332
+T1/2021,Baix Camp,casos confirmats,total,,4207
+T1/2021,Baix Camp,casos per cada 100 habitants,homes,,1.9
+T1/2021,Baix Camp,casos per cada 100 habitants,dones,,2.4
+T1/2021,Baix Camp,casos per cada 100 habitants,total,,2.2
+T1/2021,Baix Ebre,casos confirmats,homes,,804
+T1/2021,Baix Ebre,casos confirmats,dones,,848
+T1/2021,Baix Ebre,casos confirmats,total,,1652
+T1/2021,Baix Ebre,casos per cada 100 habitants,homes,,2.1
+T1/2021,Baix Ebre,casos per cada 100 habitants,dones,,2.2
+T1/2021,Baix Ebre,casos per cada 100 habitants,total,,2.1
+T1/2021,Baix Empordà,casos confirmats,homes,,1249
+T1/2021,Baix Empordà,casos confirmats,dones,,1377
+T1/2021,Baix Empordà,casos confirmats,total,,2626
+T1/2021,Baix Empordà,casos per cada 100 habitants,homes,,1.9
+T1/2021,Baix Empordà,casos per cada 100 habitants,dones,,2.1
+T1/2021,Baix Empordà,casos per cada 100 habitants,total,,2.0
+T1/2021,Baix Llobregat,casos confirmats,homes,,9553
+T1/2021,Baix Llobregat,casos confirmats,dones,,10687
+T1/2021,Baix Llobregat,casos confirmats,total,,20240
+T1/2021,Baix Llobregat,casos per cada 100 habitants,homes,,2.4
+T1/2021,Baix Llobregat,casos per cada 100 habitants,dones,,2.5
+T1/2021,Baix Llobregat,casos per cada 100 habitants,total,,2.4
+T1/2021,Baix Penedès,casos confirmats,homes,,868
+T1/2021,Baix Penedès,casos confirmats,dones,,983
+T1/2021,Baix Penedès,casos confirmats,total,,1851
+T1/2021,Baix Penedès,casos per cada 100 habitants,homes,,1.6
+T1/2021,Baix Penedès,casos per cada 100 habitants,dones,,1.8
+T1/2021,Baix Penedès,casos per cada 100 habitants,total,,1.7
+T1/2021,Barcelonès,casos confirmats,homes,,27931
+T1/2021,Barcelonès,casos confirmats,dones,,31641
+T1/2021,Barcelonès,casos confirmats,total,,59572
+T1/2021,Barcelonès,casos per cada 100 habitants,homes,,2.6
+T1/2021,Barcelonès,casos per cada 100 habitants,dones,,2.6
+T1/2021,Barcelonès,casos per cada 100 habitants,total,,2.6
+T1/2021,Berguedà,casos confirmats,homes,,332
+T1/2021,Berguedà,casos confirmats,dones,,357
+T1/2021,Berguedà,casos confirmats,total,,689
+T1/2021,Berguedà,casos per cada 100 habitants,homes,,1.7
+T1/2021,Berguedà,casos per cada 100 habitants,dones,,1.8
+T1/2021,Berguedà,casos per cada 100 habitants,total,,1.7
+T1/2021,Cerdanya,casos confirmats,homes,,191
+T1/2021,Cerdanya,casos confirmats,dones,,196
+T1/2021,Cerdanya,casos confirmats,total,,387
+T1/2021,Cerdanya,casos per cada 100 habitants,homes,,2.0
+T1/2021,Cerdanya,casos per cada 100 habitants,dones,,2.2
+T1/2021,Cerdanya,casos per cada 100 habitants,total,,2.1
+T1/2021,Conca de Barberà,casos confirmats,homes,,283
+T1/2021,Conca de Barberà,casos confirmats,dones,,263
+T1/2021,Conca de Barberà,casos confirmats,total,,546
+T1/2021,Conca de Barberà,casos per cada 100 habitants,homes,,2.8
+T1/2021,Conca de Barberà,casos per cada 100 habitants,dones,,2.7
+T1/2021,Conca de Barberà,casos per cada 100 habitants,total,,2.8
+T1/2021,Garraf,casos confirmats,homes,,1544
+T1/2021,Garraf,casos confirmats,dones,,1720
+T1/2021,Garraf,casos confirmats,total,,3264
+T1/2021,Garraf,casos per cada 100 habitants,homes,,2.1
+T1/2021,Garraf,casos per cada 100 habitants,dones,,2.3
+T1/2021,Garraf,casos per cada 100 habitants,total,,2.2
+T1/2021,Garrigues,casos confirmats,homes,,273
+T1/2021,Garrigues,casos confirmats,dones,,291
+T1/2021,Garrigues,casos confirmats,total,,564
+T1/2021,Garrigues,casos per cada 100 habitants,homes,,2.8
+T1/2021,Garrigues,casos per cada 100 habitants,dones,,3.2
+T1/2021,Garrigues,casos per cada 100 habitants,total,,3.0
+T1/2021,Garrotxa,casos confirmats,homes,,1444
+T1/2021,Garrotxa,casos confirmats,dones,,1595
+T1/2021,Garrotxa,casos confirmats,total,,3039
+T1/2021,Garrotxa,casos per cada 100 habitants,homes,,5.0
+T1/2021,Garrotxa,casos per cada 100 habitants,dones,,5.5
+T1/2021,Garrotxa,casos per cada 100 habitants,total,,5.3
+T1/2021,Gironès,casos confirmats,homes,,1924
+T1/2021,Gironès,casos confirmats,dones,,2147
+T1/2021,Gironès,casos confirmats,total,,4071
+T1/2021,Gironès,casos per cada 100 habitants,homes,,2.0
+T1/2021,Gironès,casos per cada 100 habitants,dones,,2.2
+T1/2021,Gironès,casos per cada 100 habitants,total,,2.1
+T1/2021,Maresme,casos confirmats,homes,,5540
+T1/2021,Maresme,casos confirmats,dones,,6345
+T1/2021,Maresme,casos confirmats,total,,11885
+T1/2021,Maresme,casos per cada 100 habitants,homes,,2.5
+T1/2021,Maresme,casos per cada 100 habitants,dones,,2.8
+T1/2021,Maresme,casos per cada 100 habitants,total,,2.6
+T1/2021,Moianès,casos confirmats,homes,,152
+T1/2021,Moianès,casos confirmats,dones,,150
+T1/2021,Moianès,casos confirmats,total,,302
+T1/2021,Moianès,casos per cada 100 habitants,homes,,2.1
+T1/2021,Moianès,casos per cada 100 habitants,dones,,2.2
+T1/2021,Moianès,casos per cada 100 habitants,total,,2.2
+T1/2021,Montsià,casos confirmats,homes,,874
+T1/2021,Montsià,casos confirmats,dones,,884
+T1/2021,Montsià,casos confirmats,total,,1758
+T1/2021,Montsià,casos per cada 100 habitants,homes,,2.5
+T1/2021,Montsià,casos per cada 100 habitants,dones,,2.6
+T1/2021,Montsià,casos per cada 100 habitants,total,,2.5
+T1/2021,Noguera,casos confirmats,homes,,350
+T1/2021,Noguera,casos confirmats,dones,,342
+T1/2021,Noguera,casos confirmats,total,,692
+T1/2021,Noguera,casos per cada 100 habitants,homes,,1.8
+T1/2021,Noguera,casos per cada 100 habitants,dones,,1.8
+T1/2021,Noguera,casos per cada 100 habitants,total,,1.8
+T1/2021,Osona,casos confirmats,homes,,2715
+T1/2021,Osona,casos confirmats,dones,,3061
+T1/2021,Osona,casos confirmats,total,,5776
+T1/2021,Osona,casos per cada 100 habitants,homes,,3.4
+T1/2021,Osona,casos per cada 100 habitants,dones,,3.8
+T1/2021,Osona,casos per cada 100 habitants,total,,3.6
+T1/2021,Pallars Jussà,casos confirmats,homes,,68
+T1/2021,Pallars Jussà,casos confirmats,dones,,80
+T1/2021,Pallars Jussà,casos confirmats,total,,148
+T1/2021,Pallars Jussà,casos per cada 100 habitants,homes,,1.0
+T1/2021,Pallars Jussà,casos per cada 100 habitants,dones,,1.3
+T1/2021,Pallars Jussà,casos per cada 100 habitants,total,,1.1
+T1/2021,Pallars Sobirà,casos confirmats,homes,,75
+T1/2021,Pallars Sobirà,casos confirmats,dones,,91
+T1/2021,Pallars Sobirà,casos confirmats,total,,166
+T1/2021,Pallars Sobirà,casos per cada 100 habitants,homes,,2.1
+T1/2021,Pallars Sobirà,casos per cada 100 habitants,dones,,2.7
+T1/2021,Pallars Sobirà,casos per cada 100 habitants,total,,2.4
+T1/2021,Pla d'Urgell,casos confirmats,homes,,716
+T1/2021,Pla d'Urgell,casos confirmats,dones,,706
+T1/2021,Pla d'Urgell,casos confirmats,total,,1422
+T1/2021,Pla d'Urgell,casos per cada 100 habitants,homes,,3.7
+T1/2021,Pla d'Urgell,casos per cada 100 habitants,dones,,3.9
+T1/2021,Pla d'Urgell,casos per cada 100 habitants,total,,3.8
+T1/2021,Pla de l'Estany,casos confirmats,homes,,330
+T1/2021,Pla de l'Estany,casos confirmats,dones,,369
+T1/2021,Pla de l'Estany,casos confirmats,total,,699
+T1/2021,Pla de l'Estany,casos per cada 100 habitants,homes,,2.1
+T1/2021,Pla de l'Estany,casos per cada 100 habitants,dones,,2.3
+T1/2021,Pla de l'Estany,casos per cada 100 habitants,total,,2.2
+T1/2021,Priorat,casos confirmats,homes,,47
+T1/2021,Priorat,casos confirmats,dones,,37
+T1/2021,Priorat,casos confirmats,total,,84
+T1/2021,Priorat,casos per cada 100 habitants,homes,,1.0
+T1/2021,Priorat,casos per cada 100 habitants,dones,,0.9
+T1/2021,Priorat,casos per cada 100 habitants,total,,0.9
+T1/2021,Ribera d'Ebre,casos confirmats,homes,,127
+T1/2021,Ribera d'Ebre,casos confirmats,dones,,127
+T1/2021,Ribera d'Ebre,casos confirmats,total,,254
+T1/2021,Ribera d'Ebre,casos per cada 100 habitants,homes,,1.2
+T1/2021,Ribera d'Ebre,casos per cada 100 habitants,dones,,1.2
+T1/2021,Ribera d'Ebre,casos per cada 100 habitants,total,,1.2
+T1/2021,Ripollès,casos confirmats,homes,,313
+T1/2021,Ripollès,casos confirmats,dones,,368
+T1/2021,Ripollès,casos confirmats,total,,681
+T1/2021,Ripollès,casos per cada 100 habitants,homes,,2.5
+T1/2021,Ripollès,casos per cada 100 habitants,dones,,2.9
+T1/2021,Ripollès,casos per cada 100 habitants,total,,2.7
+T1/2021,Segarra,casos confirmats,homes,,147
+T1/2021,Segarra,casos confirmats,dones,,124
+T1/2021,Segarra,casos confirmats,total,,271
+T1/2021,Segarra,casos per cada 100 habitants,homes,,1.2
+T1/2021,Segarra,casos per cada 100 habitants,dones,,1.1
+T1/2021,Segarra,casos per cada 100 habitants,total,,1.2
+T1/2021,Segrià,casos confirmats,homes,,2736
+T1/2021,Segrià,casos confirmats,dones,,2839
+T1/2021,Segrià,casos confirmats,total,,5575
+T1/2021,Segrià,casos per cada 100 habitants,homes,,2.6
+T1/2021,Segrià,casos per cada 100 habitants,dones,,2.7
+T1/2021,Segrià,casos per cada 100 habitants,total,,2.7
+T1/2021,Selva,casos confirmats,homes,,1373
+T1/2021,Selva,casos confirmats,dones,,1374
+T1/2021,Selva,casos confirmats,total,,2747
+T1/2021,Selva,casos per cada 100 habitants,homes,,1.6
+T1/2021,Selva,casos per cada 100 habitants,dones,,1.6
+T1/2021,Selva,casos per cada 100 habitants,total,,1.6
+T1/2021,Solsonès,casos confirmats,homes,,179
+T1/2021,Solsonès,casos confirmats,dones,,242
+T1/2021,Solsonès,casos confirmats,total,,421
+T1/2021,Solsonès,casos per cada 100 habitants,homes,,2.6
+T1/2021,Solsonès,casos per cada 100 habitants,dones,,3.6
+T1/2021,Solsonès,casos per cada 100 habitants,total,,3.1
+T1/2021,Tarragonès,casos confirmats,homes,,2342
+T1/2021,Tarragonès,casos confirmats,dones,,2581
+T1/2021,Tarragonès,casos confirmats,total,,4923
+T1/2021,Tarragonès,casos per cada 100 habitants,homes,,1.8
+T1/2021,Tarragonès,casos per cada 100 habitants,dones,,2.0
+T1/2021,Tarragonès,casos per cada 100 habitants,total,,1.9
+T1/2021,Terra Alta,casos confirmats,homes,,76
+T1/2021,Terra Alta,casos confirmats,dones,,78
+T1/2021,Terra Alta,casos confirmats,total,,154
+T1/2021,Terra Alta,casos per cada 100 habitants,homes,,1.3
+T1/2021,Terra Alta,casos per cada 100 habitants,dones,,1.4
+T1/2021,Terra Alta,casos per cada 100 habitants,total,,1.4
+T1/2021,Urgell,casos confirmats,homes,,527
+T1/2021,Urgell,casos confirmats,dones,,519
+T1/2021,Urgell,casos confirmats,total,,1046
+T1/2021,Urgell,casos per cada 100 habitants,homes,,2.8
+T1/2021,Urgell,casos per cada 100 habitants,dones,,2.8
+T1/2021,Urgell,casos per cada 100 habitants,total,,2.8
+T1/2021,Vallès Occidental,casos confirmats,homes,,10459
+T1/2021,Vallès Occidental,casos confirmats,dones,,11485
+T1/2021,Vallès Occidental,casos confirmats,total,,21944
+T1/2021,Vallès Occidental,casos per cada 100 habitants,homes,,2.3
+T1/2021,Vallès Occidental,casos per cada 100 habitants,dones,,2.4
+T1/2021,Vallès Occidental,casos per cada 100 habitants,total,,2.3
+T1/2021,Vallès Oriental,casos confirmats,homes,,4437
+T1/2021,Vallès Oriental,casos confirmats,dones,,4829
+T1/2021,Vallès Oriental,casos confirmats,total,,9266
+T1/2021,Vallès Oriental,casos per cada 100 habitants,homes,,2.1
+T1/2021,Vallès Oriental,casos per cada 100 habitants,dones,,2.3
+T1/2021,Vallès Oriental,casos per cada 100 habitants,total,,2.2
+T1/2021,Catalunya,casos confirmats,homes,,89536
+T1/2021,Catalunya,casos confirmats,dones,,99400
+T1/2021,Catalunya,casos confirmats,total,,192944
+T1/2021,Catalunya,casos per cada 100 habitants,homes,,2.4
+T1/2021,Catalunya,casos per cada 100 habitants,dones,,2.5
+T1/2021,Catalunya,casos per cada 100 habitants,total,,2.5
+T2/2021,Alt Camp,casos confirmats,homes,,265
+T2/2021,Alt Camp,casos confirmats,dones,,230
+T2/2021,Alt Camp,casos confirmats,total,,495
+T2/2021,Alt Camp,casos per cada 100 habitants,homes,,1.2
+T2/2021,Alt Camp,casos per cada 100 habitants,dones,,1.0
+T2/2021,Alt Camp,casos per cada 100 habitants,total,,1.1
+T2/2021,Alt Empordà,casos confirmats,homes,,898
+T2/2021,Alt Empordà,casos confirmats,dones,,1011
+T2/2021,Alt Empordà,casos confirmats,total,,1909
+T2/2021,Alt Empordà,casos per cada 100 habitants,homes,,1.3
+T2/2021,Alt Empordà,casos per cada 100 habitants,dones,,1.5
+T2/2021,Alt Empordà,casos per cada 100 habitants,total,,1.4
+T2/2021,Alt Penedès,casos confirmats,homes,,589
+T2/2021,Alt Penedès,casos confirmats,dones,,540
+T2/2021,Alt Penedès,casos confirmats,total,,1129
+T2/2021,Alt Penedès,casos per cada 100 habitants,homes,,1.1
+T2/2021,Alt Penedès,casos per cada 100 habitants,dones,,1.0
+T2/2021,Alt Penedès,casos per cada 100 habitants,total,,1.0
+T2/2021,Alt Urgell,casos confirmats,homes,,197
+T2/2021,Alt Urgell,casos confirmats,dones,,157
+T2/2021,Alt Urgell,casos confirmats,total,,354
+T2/2021,Alt Urgell,casos per cada 100 habitants,homes,,2.0
+T2/2021,Alt Urgell,casos per cada 100 habitants,dones,,1.6
+T2/2021,Alt Urgell,casos per cada 100 habitants,total,,1.8
+T2/2021,Alta Ribagorça,casos confirmats,homes,,14
+T2/2021,Alta Ribagorça,casos confirmats,dones,,10
+T2/2021,Alta Ribagorça,casos confirmats,total,,24
+T2/2021,Alta Ribagorça,casos per cada 100 habitants,homes,,0.7
+T2/2021,Alta Ribagorça,casos per cada 100 habitants,dones,,0.5
+T2/2021,Alta Ribagorça,casos per cada 100 habitants,total,,0.6
+T2/2021,Anoia,casos confirmats,homes,,1098
+T2/2021,Anoia,casos confirmats,dones,,1093
+T2/2021,Anoia,casos confirmats,total,,2191
+T2/2021,Anoia,casos per cada 100 habitants,homes,,1.8
+T2/2021,Anoia,casos per cada 100 habitants,dones,,1.8
+T2/2021,Anoia,casos per cada 100 habitants,total,,1.8
+T2/2021,Aran,casos confirmats,homes,,82
+T2/2021,Aran,casos confirmats,dones,,70
+T2/2021,Aran,casos confirmats,total,,152
+T2/2021,Aran,casos per cada 100 habitants,homes,,1.6
+T2/2021,Aran,casos per cada 100 habitants,dones,,1.4
+T2/2021,Aran,casos per cada 100 habitants,total,,1.5
+T2/2021,Bages,casos confirmats,homes,,1526
+T2/2021,Bages,casos confirmats,dones,,1503
+T2/2021,Bages,casos confirmats,total,,3029
+T2/2021,Bages,casos per cada 100 habitants,homes,,1.7
+T2/2021,Bages,casos per cada 100 habitants,dones,,1.7
+T2/2021,Bages,casos per cada 100 habitants,total,,1.7
+T2/2021,Baix Camp,casos confirmats,homes,,1191
+T2/2021,Baix Camp,casos confirmats,dones,,1223
+T2/2021,Baix Camp,casos confirmats,total,,2414
+T2/2021,Baix Camp,casos per cada 100 habitants,homes,,1.2
+T2/2021,Baix Camp,casos per cada 100 habitants,dones,,1.2
+T2/2021,Baix Camp,casos per cada 100 habitants,total,,1.2
+T2/2021,Baix Ebre,casos confirmats,homes,,327
+T2/2021,Baix Ebre,casos confirmats,dones,,338
+T2/2021,Baix Ebre,casos confirmats,total,,665
+T2/2021,Baix Ebre,casos per cada 100 habitants,homes,,0.8
+T2/2021,Baix Ebre,casos per cada 100 habitants,dones,,0.9
+T2/2021,Baix Ebre,casos per cada 100 habitants,total,,0.9
+T2/2021,Baix Empordà,casos confirmats,homes,,858
+T2/2021,Baix Empordà,casos confirmats,dones,,841
+T2/2021,Baix Empordà,casos confirmats,total,,1699
+T2/2021,Baix Empordà,casos per cada 100 habitants,homes,,1.3
+T2/2021,Baix Empordà,casos per cada 100 habitants,dones,,1.3
+T2/2021,Baix Empordà,casos per cada 100 habitants,total,,1.3
+T2/2021,Baix Llobregat,casos confirmats,homes,,5294
+T2/2021,Baix Llobregat,casos confirmats,dones,,5187
+T2/2021,Baix Llobregat,casos confirmats,total,,10481
+T2/2021,Baix Llobregat,casos per cada 100 habitants,homes,,1.3
+T2/2021,Baix Llobregat,casos per cada 100 habitants,dones,,1.2
+T2/2021,Baix Llobregat,casos per cada 100 habitants,total,,1.3
+T2/2021,Baix Penedès,casos confirmats,homes,,457
+T2/2021,Baix Penedès,casos confirmats,dones,,450
+T2/2021,Baix Penedès,casos confirmats,total,,907
+T2/2021,Baix Penedès,casos per cada 100 habitants,homes,,0.8
+T2/2021,Baix Penedès,casos per cada 100 habitants,dones,,0.8
+T2/2021,Baix Penedès,casos per cada 100 habitants,total,,0.8
+T2/2021,Barcelonès,casos confirmats,homes,,16494
+T2/2021,Barcelonès,casos confirmats,dones,,16408
+T2/2021,Barcelonès,casos confirmats,total,,32902
+T2/2021,Barcelonès,casos per cada 100 habitants,homes,,1.5
+T2/2021,Barcelonès,casos per cada 100 habitants,dones,,1.4
+T2/2021,Barcelonès,casos per cada 100 habitants,total,,1.4
+T2/2021,Berguedà,casos confirmats,homes,,225
+T2/2021,Berguedà,casos confirmats,dones,,254
+T2/2021,Berguedà,casos confirmats,total,,479
+T2/2021,Berguedà,casos per cada 100 habitants,homes,,1.1
+T2/2021,Berguedà,casos per cada 100 habitants,dones,,1.3
+T2/2021,Berguedà,casos per cada 100 habitants,total,,1.2
+T2/2021,Cerdanya,casos confirmats,homes,,130
+T2/2021,Cerdanya,casos confirmats,dones,,130
+T2/2021,Cerdanya,casos confirmats,total,,260
+T2/2021,Cerdanya,casos per cada 100 habitants,homes,,1.4
+T2/2021,Cerdanya,casos per cada 100 habitants,dones,,1.4
+T2/2021,Cerdanya,casos per cada 100 habitants,total,,1.4
+T2/2021,Conca de Barberà,casos confirmats,homes,,171
+T2/2021,Conca de Barberà,casos confirmats,dones,,154
+T2/2021,Conca de Barberà,casos confirmats,total,,325
+T2/2021,Conca de Barberà,casos per cada 100 habitants,homes,,1.7
+T2/2021,Conca de Barberà,casos per cada 100 habitants,dones,,1.6
+T2/2021,Conca de Barberà,casos per cada 100 habitants,total,,1.6
+T2/2021,Garraf,casos confirmats,homes,,703
+T2/2021,Garraf,casos confirmats,dones,,737
+T2/2021,Garraf,casos confirmats,total,,1440
+T2/2021,Garraf,casos per cada 100 habitants,homes,,1.0
+T2/2021,Garraf,casos per cada 100 habitants,dones,,1.0
+T2/2021,Garraf,casos per cada 100 habitants,total,,1.0
+T2/2021,Garrigues,casos confirmats,homes,,113
+T2/2021,Garrigues,casos confirmats,dones,,120
+T2/2021,Garrigues,casos confirmats,total,,233
+T2/2021,Garrigues,casos per cada 100 habitants,homes,,1.1
+T2/2021,Garrigues,casos per cada 100 habitants,dones,,1.3
+T2/2021,Garrigues,casos per cada 100 habitants,total,,1.2
+T2/2021,Garrotxa,casos confirmats,homes,,727
+T2/2021,Garrotxa,casos confirmats,dones,,689
+T2/2021,Garrotxa,casos confirmats,total,,1416
+T2/2021,Garrotxa,casos per cada 100 habitants,homes,,2.5
+T2/2021,Garrotxa,casos per cada 100 habitants,dones,,2.4
+T2/2021,Garrotxa,casos per cada 100 habitants,total,,2.5
+T2/2021,Gironès,casos confirmats,homes,,1722
+T2/2021,Gironès,casos confirmats,dones,,1686
+T2/2021,Gironès,casos confirmats,total,,3408
+T2/2021,Gironès,casos per cada 100 habitants,homes,,1.8
+T2/2021,Gironès,casos per cada 100 habitants,dones,,1.7
+T2/2021,Gironès,casos per cada 100 habitants,total,,1.8
+T2/2021,Maresme,casos confirmats,homes,,2492
+T2/2021,Maresme,casos confirmats,dones,,2474
+T2/2021,Maresme,casos confirmats,total,,4966
+T2/2021,Maresme,casos per cada 100 habitants,homes,,1.1
+T2/2021,Maresme,casos per cada 100 habitants,dones,,1.1
+T2/2021,Maresme,casos per cada 100 habitants,total,,1.1
+T2/2021,Moianès,casos confirmats,homes,,91
+T2/2021,Moianès,casos confirmats,dones,,86
+T2/2021,Moianès,casos confirmats,total,,177
+T2/2021,Moianès,casos per cada 100 habitants,homes,,1.3
+T2/2021,Moianès,casos per cada 100 habitants,dones,,1.3
+T2/2021,Moianès,casos per cada 100 habitants,total,,1.3
+T2/2021,Montsià,casos confirmats,homes,,157
+T2/2021,Montsià,casos confirmats,dones,,180
+T2/2021,Montsià,casos confirmats,total,,337
+T2/2021,Montsià,casos per cada 100 habitants,homes,,0.4
+T2/2021,Montsià,casos per cada 100 habitants,dones,,0.5
+T2/2021,Montsià,casos per cada 100 habitants,total,,0.5
+T2/2021,Noguera,casos confirmats,homes,,360
+T2/2021,Noguera,casos confirmats,dones,,325
+T2/2021,Noguera,casos confirmats,total,,685
+T2/2021,Noguera,casos per cada 100 habitants,homes,,1.8
+T2/2021,Noguera,casos per cada 100 habitants,dones,,1.7
+T2/2021,Noguera,casos per cada 100 habitants,total,,1.8
+T2/2021,Osona,casos confirmats,homes,,1248
+T2/2021,Osona,casos confirmats,dones,,1239
+T2/2021,Osona,casos confirmats,total,,2487
+T2/2021,Osona,casos per cada 100 habitants,homes,,1.5
+T2/2021,Osona,casos per cada 100 habitants,dones,,1.5
+T2/2021,Osona,casos per cada 100 habitants,total,,1.5
+T2/2021,Pallars Jussà,casos confirmats,homes,,57
+T2/2021,Pallars Jussà,casos confirmats,dones,,61
+T2/2021,Pallars Jussà,casos confirmats,total,,118
+T2/2021,Pallars Jussà,casos per cada 100 habitants,homes,,0.9
+T2/2021,Pallars Jussà,casos per cada 100 habitants,dones,,1.0
+T2/2021,Pallars Jussà,casos per cada 100 habitants,total,,0.9
+T2/2021,Pallars Sobirà,casos confirmats,homes,,88
+T2/2021,Pallars Sobirà,casos confirmats,dones,,94
+T2/2021,Pallars Sobirà,casos confirmats,total,,182
+T2/2021,Pallars Sobirà,casos per cada 100 habitants,homes,,2.5
+T2/2021,Pallars Sobirà,casos per cada 100 habitants,dones,,2.8
+T2/2021,Pallars Sobirà,casos per cada 100 habitants,total,,2.6
+T2/2021,Pla d'Urgell,casos confirmats,homes,,381
+T2/2021,Pla d'Urgell,casos confirmats,dones,,351
+T2/2021,Pla d'Urgell,casos confirmats,total,,732
+T2/2021,Pla d'Urgell,casos per cada 100 habitants,homes,,2.0
+T2/2021,Pla d'Urgell,casos per cada 100 habitants,dones,,1.9
+T2/2021,Pla d'Urgell,casos per cada 100 habitants,total,,2.0
+T2/2021,Pla de l'Estany,casos confirmats,homes,,176
+T2/2021,Pla de l'Estany,casos confirmats,dones,,183
+T2/2021,Pla de l'Estany,casos confirmats,total,,359
+T2/2021,Pla de l'Estany,casos per cada 100 habitants,homes,,1.1
+T2/2021,Pla de l'Estany,casos per cada 100 habitants,dones,,1.1
+T2/2021,Pla de l'Estany,casos per cada 100 habitants,total,,1.1
+T2/2021,Priorat,casos confirmats,homes,,38
+T2/2021,Priorat,casos confirmats,dones,,30
+T2/2021,Priorat,casos confirmats,total,,68
+T2/2021,Priorat,casos per cada 100 habitants,homes,,0.8
+T2/2021,Priorat,casos per cada 100 habitants,dones,,0.7
+T2/2021,Priorat,casos per cada 100 habitants,total,,0.7
+T2/2021,Ribera d'Ebre,casos confirmats,homes,,100
+T2/2021,Ribera d'Ebre,casos confirmats,dones,,106
+T2/2021,Ribera d'Ebre,casos confirmats,total,,206
+T2/2021,Ribera d'Ebre,casos per cada 100 habitants,homes,,0.9
+T2/2021,Ribera d'Ebre,casos per cada 100 habitants,dones,,1.0
+T2/2021,Ribera d'Ebre,casos per cada 100 habitants,total,,1.0
+T2/2021,Ripollès,casos confirmats,homes,,154
+T2/2021,Ripollès,casos confirmats,dones,,153
+T2/2021,Ripollès,casos confirmats,total,,307
+T2/2021,Ripollès,casos per cada 100 habitants,homes,,1.2
+T2/2021,Ripollès,casos per cada 100 habitants,dones,,1.2
+T2/2021,Ripollès,casos per cada 100 habitants,total,,1.2
+T2/2021,Segarra,casos confirmats,homes,,106
+T2/2021,Segarra,casos confirmats,dones,,94
+T2/2021,Segarra,casos confirmats,total,,200
+T2/2021,Segarra,casos per cada 100 habitants,homes,,0.9
+T2/2021,Segarra,casos per cada 100 habitants,dones,,0.9
+T2/2021,Segarra,casos per cada 100 habitants,total,,0.9
+T2/2021,Segrià,casos confirmats,homes,,1608
+T2/2021,Segrià,casos confirmats,dones,,1552
+T2/2021,Segrià,casos confirmats,total,,3160
+T2/2021,Segrià,casos per cada 100 habitants,homes,,1.5
+T2/2021,Segrià,casos per cada 100 habitants,dones,,1.5
+T2/2021,Segrià,casos per cada 100 habitants,total,,1.5
+T2/2021,Selva,casos confirmats,homes,,1191
+T2/2021,Selva,casos confirmats,dones,,1237
+T2/2021,Selva,casos confirmats,total,,2428
+T2/2021,Selva,casos per cada 100 habitants,homes,,1.4
+T2/2021,Selva,casos per cada 100 habitants,dones,,1.5
+T2/2021,Selva,casos per cada 100 habitants,total,,1.4
+T2/2021,Solsonès,casos confirmats,homes,,222
+T2/2021,Solsonès,casos confirmats,dones,,170
+T2/2021,Solsonès,casos confirmats,total,,392
+T2/2021,Solsonès,casos per cada 100 habitants,homes,,3.2
+T2/2021,Solsonès,casos per cada 100 habitants,dones,,2.5
+T2/2021,Solsonès,casos per cada 100 habitants,total,,2.9
+T2/2021,Tarragonès,casos confirmats,homes,,1242
+T2/2021,Tarragonès,casos confirmats,dones,,1144
+T2/2021,Tarragonès,casos confirmats,total,,2386
+T2/2021,Tarragonès,casos per cada 100 habitants,homes,,1.0
+T2/2021,Tarragonès,casos per cada 100 habitants,dones,,0.9
+T2/2021,Tarragonès,casos per cada 100 habitants,total,,0.9
+T2/2021,Terra Alta,casos confirmats,homes,,87
+T2/2021,Terra Alta,casos confirmats,dones,,95
+T2/2021,Terra Alta,casos confirmats,total,,182
+T2/2021,Terra Alta,casos per cada 100 habitants,homes,,1.5
+T2/2021,Terra Alta,casos per cada 100 habitants,dones,,1.7
+T2/2021,Terra Alta,casos per cada 100 habitants,total,,1.6
+T2/2021,Urgell,casos confirmats,homes,,285
+T2/2021,Urgell,casos confirmats,dones,,299
+T2/2021,Urgell,casos confirmats,total,,584
+T2/2021,Urgell,casos per cada 100 habitants,homes,,1.5
+T2/2021,Urgell,casos per cada 100 habitants,dones,,1.6
+T2/2021,Urgell,casos per cada 100 habitants,total,,1.6
+T2/2021,Vallès Occidental,casos confirmats,homes,,7053
+T2/2021,Vallès Occidental,casos confirmats,dones,,6845
+T2/2021,Vallès Occidental,casos confirmats,total,,13898
+T2/2021,Vallès Occidental,casos per cada 100 habitants,homes,,1.5
+T2/2021,Vallès Occidental,casos per cada 100 habitants,dones,,1.4
+T2/2021,Vallès Occidental,casos per cada 100 habitants,total,,1.5
+T2/2021,Vallès Oriental,casos confirmats,homes,,3132
+T2/2021,Vallès Oriental,casos confirmats,dones,,3031
+T2/2021,Vallès Oriental,casos confirmats,total,,6163
+T2/2021,Vallès Oriental,casos per cada 100 habitants,homes,,1.5
+T2/2021,Vallès Oriental,casos per cada 100 habitants,dones,,1.5
+T2/2021,Vallès Oriental,casos per cada 100 habitants,total,,1.5
+T2/2021,Catalunya,casos confirmats,homes,,53510
+T2/2021,Catalunya,casos confirmats,dones,,52730
+T2/2021,Catalunya,casos confirmats,total,,108279
+T2/2021,Catalunya,casos per cada 100 habitants,homes,,1.4
+T2/2021,Catalunya,casos per cada 100 habitants,dones,,1.3
+T2/2021,Catalunya,casos per cada 100 habitants,total,,1.4
+T3/2021,Alt Camp,casos confirmats,homes,,595
+T3/2021,Alt Camp,casos confirmats,dones,,620
+T3/2021,Alt Camp,casos confirmats,total,,1215
+T3/2021,Alt Camp,casos per cada 100 habitants,homes,,2.6
+T3/2021,Alt Camp,casos per cada 100 habitants,dones,,2.8
+T3/2021,Alt Camp,casos per cada 100 habitants,total,,2.7
+T3/2021,Alt Empordà,casos confirmats,homes,,1608
+T3/2021,Alt Empordà,casos confirmats,dones,,1755
+T3/2021,Alt Empordà,casos confirmats,total,,3363
+T3/2021,Alt Empordà,casos per cada 100 habitants,homes,,2.3
+T3/2021,Alt Empordà,casos per cada 100 habitants,dones,,2.5
+T3/2021,Alt Empordà,casos per cada 100 habitants,total,,2.4
+T3/2021,Alt Penedès,casos confirmats,homes,,1683
+T3/2021,Alt Penedès,casos confirmats,dones,,1670
+T3/2021,Alt Penedès,casos confirmats,total,,3353
+T3/2021,Alt Penedès,casos per cada 100 habitants,homes,,3.1
+T3/2021,Alt Penedès,casos per cada 100 habitants,dones,,3.0
+T3/2021,Alt Penedès,casos per cada 100 habitants,total,,3.1
+T3/2021,Alt Urgell,casos confirmats,homes,,289
+T3/2021,Alt Urgell,casos confirmats,dones,,319
+T3/2021,Alt Urgell,casos confirmats,total,,608
+T3/2021,Alt Urgell,casos per cada 100 habitants,homes,,2.9
+T3/2021,Alt Urgell,casos per cada 100 habitants,dones,,3.2
+T3/2021,Alt Urgell,casos per cada 100 habitants,total,,3.0
+T3/2021,Alta Ribagorça,casos confirmats,homes,,23
+T3/2021,Alta Ribagorça,casos confirmats,dones,,25
+T3/2021,Alta Ribagorça,casos confirmats,total,,48
+T3/2021,Alta Ribagorça,casos per cada 100 habitants,homes,,1.2
+T3/2021,Alta Ribagorça,casos per cada 100 habitants,dones,,1.3
+T3/2021,Alta Ribagorça,casos per cada 100 habitants,total,,1.2
+T3/2021,Anoia,casos confirmats,homes,,1389
+T3/2021,Anoia,casos confirmats,dones,,1422
+T3/2021,Anoia,casos confirmats,total,,2811
+T3/2021,Anoia,casos per cada 100 habitants,homes,,2.2
+T3/2021,Anoia,casos per cada 100 habitants,dones,,2.3
+T3/2021,Anoia,casos per cada 100 habitants,total,,2.3
+T3/2021,Aran,casos confirmats,homes,,58
+T3/2021,Aran,casos confirmats,dones,,64
+T3/2021,Aran,casos confirmats,total,,122
+T3/2021,Aran,casos per cada 100 habitants,homes,,1.1
+T3/2021,Aran,casos per cada 100 habitants,dones,,1.3
+T3/2021,Aran,casos per cada 100 habitants,total,,1.2
+T3/2021,Bages,casos confirmats,homes,,2295
+T3/2021,Bages,casos confirmats,dones,,2383
+T3/2021,Bages,casos confirmats,total,,4678
+T3/2021,Bages,casos per cada 100 habitants,homes,,2.6
+T3/2021,Bages,casos per cada 100 habitants,dones,,2.6
+T3/2021,Bages,casos per cada 100 habitants,total,,2.6
+T3/2021,Baix Camp,casos confirmats,homes,,3189
+T3/2021,Baix Camp,casos confirmats,dones,,3413
+T3/2021,Baix Camp,casos confirmats,total,,6602
+T3/2021,Baix Camp,casos per cada 100 habitants,homes,,3.3
+T3/2021,Baix Camp,casos per cada 100 habitants,dones,,3.4
+T3/2021,Baix Camp,casos per cada 100 habitants,total,,3.4
+T3/2021,Baix Ebre,casos confirmats,homes,,756
+T3/2021,Baix Ebre,casos confirmats,dones,,740
+T3/2021,Baix Ebre,casos confirmats,total,,1496
+T3/2021,Baix Ebre,casos per cada 100 habitants,homes,,1.9
+T3/2021,Baix Ebre,casos per cada 100 habitants,dones,,1.9
+T3/2021,Baix Ebre,casos per cada 100 habitants,total,,1.9
+T3/2021,Baix Empordà,casos confirmats,homes,,1900
+T3/2021,Baix Empordà,casos confirmats,dones,,2018
+T3/2021,Baix Empordà,casos confirmats,total,,3918
+T3/2021,Baix Empordà,casos per cada 100 habitants,homes,,2.8
+T3/2021,Baix Empordà,casos per cada 100 habitants,dones,,3.0
+T3/2021,Baix Empordà,casos per cada 100 habitants,total,,2.9
+T3/2021,Baix Llobregat,casos confirmats,homes,,12762
+T3/2021,Baix Llobregat,casos confirmats,dones,,13237
+T3/2021,Baix Llobregat,casos confirmats,total,,25999
+T3/2021,Baix Llobregat,casos per cada 100 habitants,homes,,3.1
+T3/2021,Baix Llobregat,casos per cada 100 habitants,dones,,3.1
+T3/2021,Baix Llobregat,casos per cada 100 habitants,total,,3.1
+T3/2021,Baix Penedès,casos confirmats,homes,,1422
+T3/2021,Baix Penedès,casos confirmats,dones,,1353
+T3/2021,Baix Penedès,casos confirmats,total,,2775
+T3/2021,Baix Penedès,casos per cada 100 habitants,homes,,2.6
+T3/2021,Baix Penedès,casos per cada 100 habitants,dones,,2.5
+T3/2021,Baix Penedès,casos per cada 100 habitants,total,,2.6
+T3/2021,Barcelonès,casos confirmats,homes,,42844
+T3/2021,Barcelonès,casos confirmats,dones,,44622
+T3/2021,Barcelonès,casos confirmats,total,,87466
+T3/2021,Barcelonès,casos per cada 100 habitants,homes,,3.9
+T3/2021,Barcelonès,casos per cada 100 habitants,dones,,3.7
+T3/2021,Barcelonès,casos per cada 100 habitants,total,,3.8
+T3/2021,Berguedà,casos confirmats,homes,,413
+T3/2021,Berguedà,casos confirmats,dones,,364
+T3/2021,Berguedà,casos confirmats,total,,777
+T3/2021,Berguedà,casos per cada 100 habitants,homes,,2.1
+T3/2021,Berguedà,casos per cada 100 habitants,dones,,1.8
+T3/2021,Berguedà,casos per cada 100 habitants,total,,2.0
+T3/2021,Cerdanya,casos confirmats,homes,,189
+T3/2021,Cerdanya,casos confirmats,dones,,186
+T3/2021,Cerdanya,casos confirmats,total,,375
+T3/2021,Cerdanya,casos per cada 100 habitants,homes,,2.0
+T3/2021,Cerdanya,casos per cada 100 habitants,dones,,2.1
+T3/2021,Cerdanya,casos per cada 100 habitants,total,,2.0
+T3/2021,Conca de Barberà,casos confirmats,homes,,208
+T3/2021,Conca de Barberà,casos confirmats,dones,,223
+T3/2021,Conca de Barberà,casos confirmats,total,,431
+T3/2021,Conca de Barberà,casos per cada 100 habitants,homes,,2.0
+T3/2021,Conca de Barberà,casos per cada 100 habitants,dones,,2.3
+T3/2021,Conca de Barberà,casos per cada 100 habitants,total,,2.2
+T3/2021,Garraf,casos confirmats,homes,,2358
+T3/2021,Garraf,casos confirmats,dones,,2435
+T3/2021,Garraf,casos confirmats,total,,4793
+T3/2021,Garraf,casos per cada 100 habitants,homes,,3.2
+T3/2021,Garraf,casos per cada 100 habitants,dones,,3.2
+T3/2021,Garraf,casos per cada 100 habitants,total,,3.2
+T3/2021,Garrigues,casos confirmats,homes,,196
+T3/2021,Garrigues,casos confirmats,dones,,182
+T3/2021,Garrigues,casos confirmats,total,,378
+T3/2021,Garrigues,casos per cada 100 habitants,homes,,2.0
+T3/2021,Garrigues,casos per cada 100 habitants,dones,,2.0
+T3/2021,Garrigues,casos per cada 100 habitants,total,,2.0
+T3/2021,Garrotxa,casos confirmats,homes,,612
+T3/2021,Garrotxa,casos confirmats,dones,,578
+T3/2021,Garrotxa,casos confirmats,total,,1190
+T3/2021,Garrotxa,casos per cada 100 habitants,homes,,2.1
+T3/2021,Garrotxa,casos per cada 100 habitants,dones,,2.0
+T3/2021,Garrotxa,casos per cada 100 habitants,total,,2.1
+T3/2021,Gironès,casos confirmats,homes,,3136
+T3/2021,Gironès,casos confirmats,dones,,3373
+T3/2021,Gironès,casos confirmats,total,,6509
+T3/2021,Gironès,casos per cada 100 habitants,homes,,3.3
+T3/2021,Gironès,casos per cada 100 habitants,dones,,3.5
+T3/2021,Gironès,casos per cada 100 habitants,total,,3.4
+T3/2021,Maresme,casos confirmats,homes,,6580
+T3/2021,Maresme,casos confirmats,dones,,7024
+T3/2021,Maresme,casos confirmats,total,,13604
+T3/2021,Maresme,casos per cada 100 habitants,homes,,2.9
+T3/2021,Maresme,casos per cada 100 habitants,dones,,3.1
+T3/2021,Maresme,casos per cada 100 habitants,total,,3.0
+T3/2021,Moianès,casos confirmats,homes,,173
+T3/2021,Moianès,casos confirmats,dones,,166
+T3/2021,Moianès,casos confirmats,total,,339
+T3/2021,Moianès,casos per cada 100 habitants,homes,,2.4
+T3/2021,Moianès,casos per cada 100 habitants,dones,,2.5
+T3/2021,Moianès,casos per cada 100 habitants,total,,2.5
+T3/2021,Montsià,casos confirmats,homes,,692
+T3/2021,Montsià,casos confirmats,dones,,661
+T3/2021,Montsià,casos confirmats,total,,1353
+T3/2021,Montsià,casos per cada 100 habitants,homes,,2.0
+T3/2021,Montsià,casos per cada 100 habitants,dones,,1.9
+T3/2021,Montsià,casos per cada 100 habitants,total,,2.0
+T3/2021,Noguera,casos confirmats,homes,,516
+T3/2021,Noguera,casos confirmats,dones,,475
+T3/2021,Noguera,casos confirmats,total,,991
+T3/2021,Noguera,casos per cada 100 habitants,homes,,2.6
+T3/2021,Noguera,casos per cada 100 habitants,dones,,2.6
+T3/2021,Noguera,casos per cada 100 habitants,total,,2.6
+T3/2021,Osona,casos confirmats,homes,,1930
+T3/2021,Osona,casos confirmats,dones,,1895
+T3/2021,Osona,casos confirmats,total,,3825
+T3/2021,Osona,casos per cada 100 habitants,homes,,2.4
+T3/2021,Osona,casos per cada 100 habitants,dones,,2.3
+T3/2021,Osona,casos per cada 100 habitants,total,,2.4
+T3/2021,Pallars Jussà,casos confirmats,homes,,128
+T3/2021,Pallars Jussà,casos confirmats,dones,,121
+T3/2021,Pallars Jussà,casos confirmats,total,,249
+T3/2021,Pallars Jussà,casos per cada 100 habitants,homes,,1.9
+T3/2021,Pallars Jussà,casos per cada 100 habitants,dones,,1.9
+T3/2021,Pallars Jussà,casos per cada 100 habitants,total,,1.9
+T3/2021,Pallars Sobirà,casos confirmats,homes,,93
+T3/2021,Pallars Sobirà,casos confirmats,dones,,96
+T3/2021,Pallars Sobirà,casos confirmats,total,,189
+T3/2021,Pallars Sobirà,casos per cada 100 habitants,homes,,2.6
+T3/2021,Pallars Sobirà,casos per cada 100 habitants,dones,,2.9
+T3/2021,Pallars Sobirà,casos per cada 100 habitants,total,,2.7
+T3/2021,Pla d'Urgell,casos confirmats,homes,,472
+T3/2021,Pla d'Urgell,casos confirmats,dones,,485
+T3/2021,Pla d'Urgell,casos confirmats,total,,957
+T3/2021,Pla d'Urgell,casos per cada 100 habitants,homes,,2.5
+T3/2021,Pla d'Urgell,casos per cada 100 habitants,dones,,2.7
+T3/2021,Pla d'Urgell,casos per cada 100 habitants,total,,2.6
+T3/2021,Pla de l'Estany,casos confirmats,homes,,433
+T3/2021,Pla de l'Estany,casos confirmats,dones,,422
+T3/2021,Pla de l'Estany,casos confirmats,total,,855
+T3/2021,Pla de l'Estany,casos per cada 100 habitants,homes,,2.7
+T3/2021,Pla de l'Estany,casos per cada 100 habitants,dones,,2.6
+T3/2021,Pla de l'Estany,casos per cada 100 habitants,total,,2.6
+T3/2021,Priorat,casos confirmats,homes,,75
+T3/2021,Priorat,casos confirmats,dones,,75
+T3/2021,Priorat,casos confirmats,total,,150
+T3/2021,Priorat,casos per cada 100 habitants,homes,,1.6
+T3/2021,Priorat,casos per cada 100 habitants,dones,,1.7
+T3/2021,Priorat,casos per cada 100 habitants,total,,1.6
+T3/2021,Ribera d'Ebre,casos confirmats,homes,,142
+T3/2021,Ribera d'Ebre,casos confirmats,dones,,160
+T3/2021,Ribera d'Ebre,casos confirmats,total,,302
+T3/2021,Ribera d'Ebre,casos per cada 100 habitants,homes,,1.3
+T3/2021,Ribera d'Ebre,casos per cada 100 habitants,dones,,1.5
+T3/2021,Ribera d'Ebre,casos per cada 100 habitants,total,,1.4
+T3/2021,Ripollès,casos confirmats,homes,,170
+T3/2021,Ripollès,casos confirmats,dones,,208
+T3/2021,Ripollès,casos confirmats,total,,378
+T3/2021,Ripollès,casos per cada 100 habitants,homes,,1.4
+T3/2021,Ripollès,casos per cada 100 habitants,dones,,1.7
+T3/2021,Ripollès,casos per cada 100 habitants,total,,1.5
+T3/2021,Segarra,casos confirmats,homes,,223
+T3/2021,Segarra,casos confirmats,dones,,241
+T3/2021,Segarra,casos confirmats,total,,464
+T3/2021,Segarra,casos per cada 100 habitants,homes,,1.9
+T3/2021,Segarra,casos per cada 100 habitants,dones,,2.2
+T3/2021,Segarra,casos per cada 100 habitants,total,,2.0
+T3/2021,Segrià,casos confirmats,homes,,2835
+T3/2021,Segrià,casos confirmats,dones,,2759
+T3/2021,Segrià,casos confirmats,total,,5594
+T3/2021,Segrià,casos per cada 100 habitants,homes,,2.7
+T3/2021,Segrià,casos per cada 100 habitants,dones,,2.7
+T3/2021,Segrià,casos per cada 100 habitants,total,,2.7
+T3/2021,Selva,casos confirmats,homes,,2747
+T3/2021,Selva,casos confirmats,dones,,2894
+T3/2021,Selva,casos confirmats,total,,5641
+T3/2021,Selva,casos per cada 100 habitants,homes,,3.2
+T3/2021,Selva,casos per cada 100 habitants,dones,,3.4
+T3/2021,Selva,casos per cada 100 habitants,total,,3.3
+T3/2021,Solsonès,casos confirmats,homes,,190
+T3/2021,Solsonès,casos confirmats,dones,,168
+T3/2021,Solsonès,casos confirmats,total,,358
+T3/2021,Solsonès,casos per cada 100 habitants,homes,,2.7
+T3/2021,Solsonès,casos per cada 100 habitants,dones,,2.5
+T3/2021,Solsonès,casos per cada 100 habitants,total,,2.6
+T3/2021,Tarragonès,casos confirmats,homes,,3608
+T3/2021,Tarragonès,casos confirmats,dones,,3703
+T3/2021,Tarragonès,casos confirmats,total,,7311
+T3/2021,Tarragonès,casos per cada 100 habitants,homes,,2.8
+T3/2021,Tarragonès,casos per cada 100 habitants,dones,,2.8
+T3/2021,Tarragonès,casos per cada 100 habitants,total,,2.8
+T3/2021,Terra Alta,casos confirmats,homes,,77
+T3/2021,Terra Alta,casos confirmats,dones,,86
+T3/2021,Terra Alta,casos confirmats,total,,163
+T3/2021,Terra Alta,casos per cada 100 habitants,homes,,1.3
+T3/2021,Terra Alta,casos per cada 100 habitants,dones,,1.6
+T3/2021,Terra Alta,casos per cada 100 habitants,total,,1.4
+T3/2021,Urgell,casos confirmats,homes,,410
+T3/2021,Urgell,casos confirmats,dones,,336
+T3/2021,Urgell,casos confirmats,total,,746
+T3/2021,Urgell,casos per cada 100 habitants,homes,,2.2
+T3/2021,Urgell,casos per cada 100 habitants,dones,,1.8
+T3/2021,Urgell,casos per cada 100 habitants,total,,2.0
+T3/2021,Vallès Occidental,casos confirmats,homes,,13589
+T3/2021,Vallès Occidental,casos confirmats,dones,,14237
+T3/2021,Vallès Occidental,casos confirmats,total,,27826
+T3/2021,Vallès Occidental,casos per cada 100 habitants,homes,,3.0
+T3/2021,Vallès Occidental,casos per cada 100 habitants,dones,,3.0
+T3/2021,Vallès Occidental,casos per cada 100 habitants,total,,3.0
+T3/2021,Vallès Oriental,casos confirmats,homes,,5932
+T3/2021,Vallès Oriental,casos confirmats,dones,,6179
+T3/2021,Vallès Oriental,casos confirmats,total,,12111
+T3/2021,Vallès Oriental,casos per cada 100 habitants,homes,,2.9
+T3/2021,Vallès Oriental,casos per cada 100 habitants,dones,,3.0
+T3/2021,Vallès Oriental,casos per cada 100 habitants,total,,2.9
+T3/2021,Catalunya,casos confirmats,homes,,119182
+T3/2021,Catalunya,casos confirmats,dones,,123583
+T3/2021,Catalunya,casos confirmats,total,,251346
+T3/2021,Catalunya,casos per cada 100 habitants,homes,,3.1
+T3/2021,Catalunya,casos per cada 100 habitants,dones,,3.1
+T3/2021,Catalunya,casos per cada 100 habitants,total,,3.3
+T4/2021,Alt Camp,casos confirmats,homes,,558
+T4/2021,Alt Camp,casos confirmats,dones,,669
+T4/2021,Alt Camp,casos confirmats,total,,1227
+T4/2021,Alt Camp,casos per cada 100 habitants,homes,,2.4
+T4/2021,Alt Camp,casos per cada 100 habitants,dones,,3.0
+T4/2021,Alt Camp,casos per cada 100 habitants,total,,2.7
+T4/2021,Alt Empordà,casos confirmats,homes,,2934
+T4/2021,Alt Empordà,casos confirmats,dones,,3347
+T4/2021,Alt Empordà,casos confirmats,total,,6281
+T4/2021,Alt Empordà,casos per cada 100 habitants,homes,,4.2
+T4/2021,Alt Empordà,casos per cada 100 habitants,dones,,4.8
+T4/2021,Alt Empordà,casos per cada 100 habitants,total,,4.5
+T4/2021,Alt Penedès,casos confirmats,homes,,2762
+T4/2021,Alt Penedès,casos confirmats,dones,,2963
+T4/2021,Alt Penedès,casos confirmats,total,,5725
+T4/2021,Alt Penedès,casos per cada 100 habitants,homes,,5.0
+T4/2021,Alt Penedès,casos per cada 100 habitants,dones,,5.4
+T4/2021,Alt Penedès,casos per cada 100 habitants,total,,5.2
+T4/2021,Alt Urgell,casos confirmats,homes,,426
+T4/2021,Alt Urgell,casos confirmats,dones,,453
+T4/2021,Alt Urgell,casos confirmats,total,,879
+T4/2021,Alt Urgell,casos per cada 100 habitants,homes,,4.2
+T4/2021,Alt Urgell,casos per cada 100 habitants,dones,,4.5
+T4/2021,Alt Urgell,casos per cada 100 habitants,total,,4.4
+T4/2021,Alta Ribagorça,casos confirmats,homes,,84
+T4/2021,Alta Ribagorça,casos confirmats,dones,,74
+T4/2021,Alta Ribagorça,casos confirmats,total,,158
+T4/2021,Alta Ribagorça,casos per cada 100 habitants,homes,,4.2
+T4/2021,Alta Ribagorça,casos per cada 100 habitants,dones,,4.0
+T4/2021,Alta Ribagorça,casos per cada 100 habitants,total,,4.1
+T4/2021,Anoia,casos confirmats,homes,,2506
+T4/2021,Anoia,casos confirmats,dones,,2782
+T4/2021,Anoia,casos confirmats,total,,5288
+T4/2021,Anoia,casos per cada 100 habitants,homes,,4.0
+T4/2021,Anoia,casos per cada 100 habitants,dones,,4.5
+T4/2021,Anoia,casos per cada 100 habitants,total,,4.3
+T4/2021,Aran,casos confirmats,homes,,167
+T4/2021,Aran,casos confirmats,dones,,247
+T4/2021,Aran,casos confirmats,total,,414
+T4/2021,Aran,casos per cada 100 habitants,homes,,3.2
+T4/2021,Aran,casos per cada 100 habitants,dones,,5.1
+T4/2021,Aran,casos per cada 100 habitants,total,,4.1
+T4/2021,Bages,casos confirmats,homes,,4213
+T4/2021,Bages,casos confirmats,dones,,4704
+T4/2021,Bages,casos confirmats,total,,8917
+T4/2021,Bages,casos per cada 100 habitants,homes,,4.8
+T4/2021,Bages,casos per cada 100 habitants,dones,,5.2
+T4/2021,Bages,casos per cada 100 habitants,total,,5.0
+T4/2021,Baix Camp,casos confirmats,homes,,3130
+T4/2021,Baix Camp,casos confirmats,dones,,3472
+T4/2021,Baix Camp,casos confirmats,total,,6602
+T4/2021,Baix Camp,casos per cada 100 habitants,homes,,3.2
+T4/2021,Baix Camp,casos per cada 100 habitants,dones,,3.5
+T4/2021,Baix Camp,casos per cada 100 habitants,total,,3.4
+T4/2021,Baix Ebre,casos confirmats,homes,,1614
+T4/2021,Baix Ebre,casos confirmats,dones,,1661
+T4/2021,Baix Ebre,casos confirmats,total,,3275
+T4/2021,Baix Ebre,casos per cada 100 habitants,homes,,4.1
+T4/2021,Baix Ebre,casos per cada 100 habitants,dones,,4.3
+T4/2021,Baix Ebre,casos per cada 100 habitants,total,,4.2
+T4/2021,Baix Empordà,casos confirmats,homes,,1818
+T4/2021,Baix Empordà,casos confirmats,dones,,2135
+T4/2021,Baix Empordà,casos confirmats,total,,3953
+T4/2021,Baix Empordà,casos per cada 100 habitants,homes,,2.7
+T4/2021,Baix Empordà,casos per cada 100 habitants,dones,,3.2
+T4/2021,Baix Empordà,casos per cada 100 habitants,total,,3.0
+T4/2021,Baix Llobregat,casos confirmats,homes,,17289
+T4/2021,Baix Llobregat,casos confirmats,dones,,19294
+T4/2021,Baix Llobregat,casos confirmats,total,,36583
+T4/2021,Baix Llobregat,casos per cada 100 habitants,homes,,4.3
+T4/2021,Baix Llobregat,casos per cada 100 habitants,dones,,4.6
+T4/2021,Baix Llobregat,casos per cada 100 habitants,total,,4.4
+T4/2021,Baix Penedès,casos confirmats,homes,,1601
+T4/2021,Baix Penedès,casos confirmats,dones,,1757
+T4/2021,Baix Penedès,casos confirmats,total,,3358
+T4/2021,Baix Penedès,casos per cada 100 habitants,homes,,3.0
+T4/2021,Baix Penedès,casos per cada 100 habitants,dones,,3.3
+T4/2021,Baix Penedès,casos per cada 100 habitants,total,,3.1
+T4/2021,Barcelonès,casos confirmats,homes,,45878
+T4/2021,Barcelonès,casos confirmats,dones,,53616
+T4/2021,Barcelonès,casos confirmats,total,,99494
+T4/2021,Barcelonès,casos per cada 100 habitants,homes,,4.2
+T4/2021,Barcelonès,casos per cada 100 habitants,dones,,4.5
+T4/2021,Barcelonès,casos per cada 100 habitants,total,,4.3
+T4/2021,Berguedà,casos confirmats,homes,,976
+T4/2021,Berguedà,casos confirmats,dones,,1038
+T4/2021,Berguedà,casos confirmats,total,,2014
+T4/2021,Berguedà,casos per cada 100 habitants,homes,,4.9
+T4/2021,Berguedà,casos per cada 100 habitants,dones,,5.2
+T4/2021,Berguedà,casos per cada 100 habitants,total,,5.1
+T4/2021,Cerdanya,casos confirmats,homes,,333
+T4/2021,Cerdanya,casos confirmats,dones,,331
+T4/2021,Cerdanya,casos confirmats,total,,664
+T4/2021,Cerdanya,casos per cada 100 habitants,homes,,3.5
+T4/2021,Cerdanya,casos per cada 100 habitants,dones,,3.7
+T4/2021,Cerdanya,casos per cada 100 habitants,total,,3.6
+T4/2021,Conca de Barberà,casos confirmats,homes,,411
+T4/2021,Conca de Barberà,casos confirmats,dones,,405
+T4/2021,Conca de Barberà,casos confirmats,total,,816
+T4/2021,Conca de Barberà,casos per cada 100 habitants,homes,,4.0
+T4/2021,Conca de Barberà,casos per cada 100 habitants,dones,,4.2
+T4/2021,Conca de Barberà,casos per cada 100 habitants,total,,4.1
+T4/2021,Garraf,casos confirmats,homes,,3297
+T4/2021,Garraf,casos confirmats,dones,,3737
+T4/2021,Garraf,casos confirmats,total,,7034
+T4/2021,Garraf,casos per cada 100 habitants,homes,,4.5
+T4/2021,Garraf,casos per cada 100 habitants,dones,,4.9
+T4/2021,Garraf,casos per cada 100 habitants,total,,4.7
+T4/2021,Garrigues,casos confirmats,homes,,449
+T4/2021,Garrigues,casos confirmats,dones,,459
+T4/2021,Garrigues,casos confirmats,total,,908
+T4/2021,Garrigues,casos per cada 100 habitants,homes,,4.5
+T4/2021,Garrigues,casos per cada 100 habitants,dones,,5.1
+T4/2021,Garrigues,casos per cada 100 habitants,total,,4.8
+T4/2021,Garrotxa,casos confirmats,homes,,1382
+T4/2021,Garrotxa,casos confirmats,dones,,1526
+T4/2021,Garrotxa,casos confirmats,total,,2908
+T4/2021,Garrotxa,casos per cada 100 habitants,homes,,4.8
+T4/2021,Garrotxa,casos per cada 100 habitants,dones,,5.3
+T4/2021,Garrotxa,casos per cada 100 habitants,total,,5.1
+T4/2021,Gironès,casos confirmats,homes,,4399
+T4/2021,Gironès,casos confirmats,dones,,4973
+T4/2021,Gironès,casos confirmats,total,,9372
+T4/2021,Gironès,casos per cada 100 habitants,homes,,4.7
+T4/2021,Gironès,casos per cada 100 habitants,dones,,5.1
+T4/2021,Gironès,casos per cada 100 habitants,total,,4.9
+T4/2021,Maresme,casos confirmats,homes,,8828
+T4/2021,Maresme,casos confirmats,dones,,10118
+T4/2021,Maresme,casos confirmats,total,,18946
+T4/2021,Maresme,casos per cada 100 habitants,homes,,4.0
+T4/2021,Maresme,casos per cada 100 habitants,dones,,4.4
+T4/2021,Maresme,casos per cada 100 habitants,total,,4.2
+T4/2021,Moianès,casos confirmats,homes,,306
+T4/2021,Moianès,casos confirmats,dones,,330
+T4/2021,Moianès,casos confirmats,total,,636
+T4/2021,Moianès,casos per cada 100 habitants,homes,,4.3
+T4/2021,Moianès,casos per cada 100 habitants,dones,,4.9
+T4/2021,Moianès,casos per cada 100 habitants,total,,4.6
+T4/2021,Montsià,casos confirmats,homes,,1351
+T4/2021,Montsià,casos confirmats,dones,,1546
+T4/2021,Montsià,casos confirmats,total,,2897
+T4/2021,Montsià,casos per cada 100 habitants,homes,,3.9
+T4/2021,Montsià,casos per cada 100 habitants,dones,,4.5
+T4/2021,Montsià,casos per cada 100 habitants,total,,4.2
+T4/2021,Noguera,casos confirmats,homes,,947
+T4/2021,Noguera,casos confirmats,dones,,1010
+T4/2021,Noguera,casos confirmats,total,,1957
+T4/2021,Noguera,casos per cada 100 habitants,homes,,4.7
+T4/2021,Noguera,casos per cada 100 habitants,dones,,5.4
+T4/2021,Noguera,casos per cada 100 habitants,total,,5.1
+T4/2021,Osona,casos confirmats,homes,,4156
+T4/2021,Osona,casos confirmats,dones,,4538
+T4/2021,Osona,casos confirmats,total,,8694
+T4/2021,Osona,casos per cada 100 habitants,homes,,5.1
+T4/2021,Osona,casos per cada 100 habitants,dones,,5.6
+T4/2021,Osona,casos per cada 100 habitants,total,,5.4
+T4/2021,Pallars Jussà,casos confirmats,homes,,288
+T4/2021,Pallars Jussà,casos confirmats,dones,,302
+T4/2021,Pallars Jussà,casos confirmats,total,,590
+T4/2021,Pallars Jussà,casos per cada 100 habitants,homes,,4.3
+T4/2021,Pallars Jussà,casos per cada 100 habitants,dones,,4.7
+T4/2021,Pallars Jussà,casos per cada 100 habitants,total,,4.5
+T4/2021,Pallars Sobirà,casos confirmats,homes,,103
+T4/2021,Pallars Sobirà,casos confirmats,dones,,107
+T4/2021,Pallars Sobirà,casos confirmats,total,,210
+T4/2021,Pallars Sobirà,casos per cada 100 habitants,homes,,2.9
+T4/2021,Pallars Sobirà,casos per cada 100 habitants,dones,,3.2
+T4/2021,Pallars Sobirà,casos per cada 100 habitants,total,,3.0
+T4/2021,Pla d'Urgell,casos confirmats,homes,,746
+T4/2021,Pla d'Urgell,casos confirmats,dones,,852
+T4/2021,Pla d'Urgell,casos confirmats,total,,1598
+T4/2021,Pla d'Urgell,casos per cada 100 habitants,homes,,3.9
+T4/2021,Pla d'Urgell,casos per cada 100 habitants,dones,,4.7
+T4/2021,Pla d'Urgell,casos per cada 100 habitants,total,,4.3
+T4/2021,Pla de l'Estany,casos confirmats,homes,,688
+T4/2021,Pla de l'Estany,casos confirmats,dones,,805
+T4/2021,Pla de l'Estany,casos confirmats,total,,1493
+T4/2021,Pla de l'Estany,casos per cada 100 habitants,homes,,4.3
+T4/2021,Pla de l'Estany,casos per cada 100 habitants,dones,,4.9
+T4/2021,Pla de l'Estany,casos per cada 100 habitants,total,,4.6
+T4/2021,Priorat,casos confirmats,homes,,121
+T4/2021,Priorat,casos confirmats,dones,,138
+T4/2021,Priorat,casos confirmats,total,,259
+T4/2021,Priorat,casos per cada 100 habitants,homes,,2.5
+T4/2021,Priorat,casos per cada 100 habitants,dones,,3.2
+T4/2021,Priorat,casos per cada 100 habitants,total,,2.8
+T4/2021,Ribera d'Ebre,casos confirmats,homes,,411
+T4/2021,Ribera d'Ebre,casos confirmats,dones,,425
+T4/2021,Ribera d'Ebre,casos confirmats,total,,836
+T4/2021,Ribera d'Ebre,casos per cada 100 habitants,homes,,3.7
+T4/2021,Ribera d'Ebre,casos per cada 100 habitants,dones,,4.0
+T4/2021,Ribera d'Ebre,casos per cada 100 habitants,total,,3.9
+T4/2021,Ripollès,casos confirmats,homes,,834
+T4/2021,Ripollès,casos confirmats,dones,,959
+T4/2021,Ripollès,casos confirmats,total,,1793
+T4/2021,Ripollès,casos per cada 100 habitants,homes,,6.6
+T4/2021,Ripollès,casos per cada 100 habitants,dones,,7.7
+T4/2021,Ripollès,casos per cada 100 habitants,total,,7.2
+T4/2021,Segarra,casos confirmats,homes,,395
+T4/2021,Segarra,casos confirmats,dones,,389
+T4/2021,Segarra,casos confirmats,total,,784
+T4/2021,Segarra,casos per cada 100 habitants,homes,,3.3
+T4/2021,Segarra,casos per cada 100 habitants,dones,,3.6
+T4/2021,Segarra,casos per cada 100 habitants,total,,3.4
+T4/2021,Segrià,casos confirmats,homes,,4381
+T4/2021,Segrià,casos confirmats,dones,,4765
+T4/2021,Segrià,casos confirmats,total,,9146
+T4/2021,Segrià,casos per cada 100 habitants,homes,,4.2
+T4/2021,Segrià,casos per cada 100 habitants,dones,,4.6
+T4/2021,Segrià,casos per cada 100 habitants,total,,4.4
+T4/2021,Selva,casos confirmats,homes,,3604
+T4/2021,Selva,casos confirmats,dones,,4077
+T4/2021,Selva,casos confirmats,total,,7681
+T4/2021,Selva,casos per cada 100 habitants,homes,,4.2
+T4/2021,Selva,casos per cada 100 habitants,dones,,4.8
+T4/2021,Selva,casos per cada 100 habitants,total,,4.5
+T4/2021,Solsonès,casos confirmats,homes,,305
+T4/2021,Solsonès,casos confirmats,dones,,349
+T4/2021,Solsonès,casos confirmats,total,,654
+T4/2021,Solsonès,casos per cada 100 habitants,homes,,4.4
+T4/2021,Solsonès,casos per cada 100 habitants,dones,,5.1
+T4/2021,Solsonès,casos per cada 100 habitants,total,,4.8
+T4/2021,Tarragonès,casos confirmats,homes,,4039
+T4/2021,Tarragonès,casos confirmats,dones,,4550
+T4/2021,Tarragonès,casos confirmats,total,,8589
+T4/2021,Tarragonès,casos per cada 100 habitants,homes,,3.1
+T4/2021,Tarragonès,casos per cada 100 habitants,dones,,3.4
+T4/2021,Tarragonès,casos per cada 100 habitants,total,,3.3
+T4/2021,Terra Alta,casos confirmats,homes,,298
+T4/2021,Terra Alta,casos confirmats,dones,,281
+T4/2021,Terra Alta,casos confirmats,total,,579
+T4/2021,Terra Alta,casos per cada 100 habitants,homes,,5.2
+T4/2021,Terra Alta,casos per cada 100 habitants,dones,,5.1
+T4/2021,Terra Alta,casos per cada 100 habitants,total,,5.1
+T4/2021,Urgell,casos confirmats,homes,,866
+T4/2021,Urgell,casos confirmats,dones,,950
+T4/2021,Urgell,casos confirmats,total,,1816
+T4/2021,Urgell,casos per cada 100 habitants,homes,,4.6
+T4/2021,Urgell,casos per cada 100 habitants,dones,,5.2
+T4/2021,Urgell,casos per cada 100 habitants,total,,4.9
+T4/2021,Vallès Occidental,casos confirmats,homes,,21203
+T4/2021,Vallès Occidental,casos confirmats,dones,,24082
+T4/2021,Vallès Occidental,casos confirmats,total,,45285
+T4/2021,Vallès Occidental,casos per cada 100 habitants,homes,,4.6
+T4/2021,Vallès Occidental,casos per cada 100 habitants,dones,,5.1
+T4/2021,Vallès Occidental,casos per cada 100 habitants,total,,4.8
+T4/2021,Vallès Oriental,casos confirmats,homes,,8505
+T4/2021,Vallès Oriental,casos confirmats,dones,,9580
+T4/2021,Vallès Oriental,casos confirmats,total,,18085
+T4/2021,Vallès Oriental,casos per cada 100 habitants,homes,,4.1
+T4/2021,Vallès Oriental,casos per cada 100 habitants,dones,,4.6
+T4/2021,Vallès Oriental,casos per cada 100 habitants,total,,4.4
+T4/2021,Catalunya,casos confirmats,homes,,159148
+T4/2021,Catalunya,casos confirmats,dones,,180346
+T4/2021,Catalunya,casos confirmats,total,,350111
+T4/2021,Catalunya,casos per cada 100 habitants,homes,,4.2
+T4/2021,Catalunya,casos per cada 100 habitants,dones,,4.6
+T4/2021,Catalunya,casos per cada 100 habitants,total,,4.5
+T1/2022,Alt Camp,casos confirmats,homes,,3539
+T1/2022,Alt Camp,casos confirmats,dones,,3966
+T1/2022,Alt Camp,casos confirmats,total,,7505
+T1/2022,Alt Camp,casos per cada 100 habitants,homes,,15.5
+T1/2022,Alt Camp,casos per cada 100 habitants,dones,,18.0
+T1/2022,Alt Camp,casos per cada 100 habitants,total,,16.7
+T1/2022,Alt Empordà,casos confirmats,homes,,8354
+T1/2022,Alt Empordà,casos confirmats,dones,,9998
+T1/2022,Alt Empordà,casos confirmats,total,,18352
+T1/2022,Alt Empordà,casos per cada 100 habitants,homes,,12.0
+T1/2022,Alt Empordà,casos per cada 100 habitants,dones,,14.4
+T1/2022,Alt Empordà,casos per cada 100 habitants,total,,13.2
+T1/2022,Alt Penedès,casos confirmats,homes,,8252
+T1/2022,Alt Penedès,casos confirmats,dones,,9207
+T1/2022,Alt Penedès,casos confirmats,total,,17459
+T1/2022,Alt Penedès,casos per cada 100 habitants,homes,,15.1
+T1/2022,Alt Penedès,casos per cada 100 habitants,dones,,16.7
+T1/2022,Alt Penedès,casos per cada 100 habitants,total,,15.9
+T1/2022,Alt Urgell,casos confirmats,homes,,1187
+T1/2022,Alt Urgell,casos confirmats,dones,,1427
+T1/2022,Alt Urgell,casos confirmats,total,,2614
+T1/2022,Alt Urgell,casos per cada 100 habitants,homes,,11.8
+T1/2022,Alt Urgell,casos per cada 100 habitants,dones,,14.3
+T1/2022,Alt Urgell,casos per cada 100 habitants,total,,13.1
+T1/2022,Alta Ribagorça,casos confirmats,homes,,311
+T1/2022,Alta Ribagorça,casos confirmats,dones,,347
+T1/2022,Alta Ribagorça,casos confirmats,total,,658
+T1/2022,Alta Ribagorça,casos per cada 100 habitants,homes,,15.6
+T1/2022,Alta Ribagorça,casos per cada 100 habitants,dones,,18.7
+T1/2022,Alta Ribagorça,casos per cada 100 habitants,total,,17.1
+T1/2022,Anoia,casos confirmats,homes,,8969
+T1/2022,Anoia,casos confirmats,dones,,9967
+T1/2022,Anoia,casos confirmats,total,,18936
+T1/2022,Anoia,casos per cada 100 habitants,homes,,14.5
+T1/2022,Anoia,casos per cada 100 habitants,dones,,16.3
+T1/2022,Anoia,casos per cada 100 habitants,total,,15.4
+T1/2022,Aran,casos confirmats,homes,,593
+T1/2022,Aran,casos confirmats,dones,,695
+T1/2022,Aran,casos confirmats,total,,1288
+T1/2022,Aran,casos per cada 100 habitants,homes,,11.4
+T1/2022,Aran,casos per cada 100 habitants,dones,,14.4
+T1/2022,Aran,casos per cada 100 habitants,total,,12.8
+T1/2022,Bages,casos confirmats,homes,,13150
+T1/2022,Bages,casos confirmats,dones,,15113
+T1/2022,Bages,casos confirmats,total,,28263
+T1/2022,Bages,casos per cada 100 habitants,homes,,14.8
+T1/2022,Bages,casos per cada 100 habitants,dones,,16.7
+T1/2022,Bages,casos per cada 100 habitants,total,,15.8
+T1/2022,Baix Camp,casos confirmats,homes,,14789
+T1/2022,Baix Camp,casos confirmats,dones,,17113
+T1/2022,Baix Camp,casos confirmats,total,,31902
+T1/2022,Baix Camp,casos per cada 100 habitants,homes,,15.4
+T1/2022,Baix Camp,casos per cada 100 habitants,dones,,17.3
+T1/2022,Baix Camp,casos per cada 100 habitants,total,,16.3
+T1/2022,Baix Ebre,casos confirmats,homes,,5435
+T1/2022,Baix Ebre,casos confirmats,dones,,6227
+T1/2022,Baix Ebre,casos confirmats,total,,11662
+T1/2022,Baix Ebre,casos per cada 100 habitants,homes,,13.9
+T1/2022,Baix Ebre,casos per cada 100 habitants,dones,,16.1
+T1/2022,Baix Ebre,casos per cada 100 habitants,total,,15.0
+T1/2022,Baix Empordà,casos confirmats,homes,,8636
+T1/2022,Baix Empordà,casos confirmats,dones,,10264
+T1/2022,Baix Empordà,casos confirmats,total,,18900
+T1/2022,Baix Empordà,casos per cada 100 habitants,homes,,12.9
+T1/2022,Baix Empordà,casos per cada 100 habitants,dones,,15.3
+T1/2022,Baix Empordà,casos per cada 100 habitants,total,,14.1
+T1/2022,Baix Llobregat,casos confirmats,homes,,57961
+T1/2022,Baix Llobregat,casos confirmats,dones,,66125
+T1/2022,Baix Llobregat,casos confirmats,total,,124086
+T1/2022,Baix Llobregat,casos per cada 100 habitants,homes,,14.3
+T1/2022,Baix Llobregat,casos per cada 100 habitants,dones,,15.7
+T1/2022,Baix Llobregat,casos per cada 100 habitants,total,,15.0
+T1/2022,Baix Penedès,casos confirmats,homes,,6925
+T1/2022,Baix Penedès,casos confirmats,dones,,8094
+T1/2022,Baix Penedès,casos confirmats,total,,15019
+T1/2022,Baix Penedès,casos per cada 100 habitants,homes,,12.8
+T1/2022,Baix Penedès,casos per cada 100 habitants,dones,,15.2
+T1/2022,Baix Penedès,casos per cada 100 habitants,total,,14.0
+T1/2022,Barcelonès,casos confirmats,homes,,131230
+T1/2022,Barcelonès,casos confirmats,dones,,158941
+T1/2022,Barcelonès,casos confirmats,total,,290171
+T1/2022,Barcelonès,casos per cada 100 habitants,homes,,12.0
+T1/2022,Barcelonès,casos per cada 100 habitants,dones,,13.2
+T1/2022,Barcelonès,casos per cada 100 habitants,total,,12.6
+T1/2022,Berguedà,casos confirmats,homes,,2671
+T1/2022,Berguedà,casos confirmats,dones,,2891
+T1/2022,Berguedà,casos confirmats,total,,5562
+T1/2022,Berguedà,casos per cada 100 habitants,homes,,13.4
+T1/2022,Berguedà,casos per cada 100 habitants,dones,,14.5
+T1/2022,Berguedà,casos per cada 100 habitants,total,,14.0
+T1/2022,Cerdanya,casos confirmats,homes,,857
+T1/2022,Cerdanya,casos confirmats,dones,,978
+T1/2022,Cerdanya,casos confirmats,total,,1835
+T1/2022,Cerdanya,casos per cada 100 habitants,homes,,9.1
+T1/2022,Cerdanya,casos per cada 100 habitants,dones,,10.8
+T1/2022,Cerdanya,casos per cada 100 habitants,total,,10.0
+T1/2022,Conca de Barberà,casos confirmats,homes,,1533
+T1/2022,Conca de Barberà,casos confirmats,dones,,1779
+T1/2022,Conca de Barberà,casos confirmats,total,,3312
+T1/2022,Conca de Barberà,casos per cada 100 habitants,homes,,15.1
+T1/2022,Conca de Barberà,casos per cada 100 habitants,dones,,18.4
+T1/2022,Conca de Barberà,casos per cada 100 habitants,total,,16.7
+T1/2022,Garraf,casos confirmats,homes,,10915
+T1/2022,Garraf,casos confirmats,dones,,12857
+T1/2022,Garraf,casos confirmats,total,,23772
+T1/2022,Garraf,casos per cada 100 habitants,homes,,14.8
+T1/2022,Garraf,casos per cada 100 habitants,dones,,16.9
+T1/2022,Garraf,casos per cada 100 habitants,total,,15.8
+T1/2022,Garrigues,casos confirmats,homes,,1210
+T1/2022,Garrigues,casos confirmats,dones,,1328
+T1/2022,Garrigues,casos confirmats,total,,2538
+T1/2022,Garrigues,casos per cada 100 habitants,homes,,12.2
+T1/2022,Garrigues,casos per cada 100 habitants,dones,,14.7
+T1/2022,Garrigues,casos per cada 100 habitants,total,,13.4
+T1/2022,Garrotxa,casos confirmats,homes,,3879
+T1/2022,Garrotxa,casos confirmats,dones,,4451
+T1/2022,Garrotxa,casos confirmats,total,,8330
+T1/2022,Garrotxa,casos per cada 100 habitants,homes,,13.5
+T1/2022,Garrotxa,casos per cada 100 habitants,dones,,15.5
+T1/2022,Garrotxa,casos per cada 100 habitants,total,,14.5
+T1/2022,Gironès,casos confirmats,homes,,14045
+T1/2022,Gironès,casos confirmats,dones,,16309
+T1/2022,Gironès,casos confirmats,total,,30354
+T1/2022,Gironès,casos per cada 100 habitants,homes,,14.9
+T1/2022,Gironès,casos per cada 100 habitants,dones,,16.8
+T1/2022,Gironès,casos per cada 100 habitants,total,,15.9
+T1/2022,Maresme,casos confirmats,homes,,32842
+T1/2022,Maresme,casos confirmats,dones,,38218
+T1/2022,Maresme,casos confirmats,total,,71060
+T1/2022,Maresme,casos per cada 100 habitants,homes,,14.7
+T1/2022,Maresme,casos per cada 100 habitants,dones,,16.6
+T1/2022,Maresme,casos per cada 100 habitants,total,,15.7
+T1/2022,Moianès,casos confirmats,homes,,1173
+T1/2022,Moianès,casos confirmats,dones,,1387
+T1/2022,Moianès,casos confirmats,total,,2560
+T1/2022,Moianès,casos per cada 100 habitants,homes,,16.5
+T1/2022,Moianès,casos per cada 100 habitants,dones,,20.7
+T1/2022,Moianès,casos per cada 100 habitants,total,,18.5
+T1/2022,Montsià,casos confirmats,homes,,4718
+T1/2022,Montsià,casos confirmats,dones,,5358
+T1/2022,Montsià,casos confirmats,total,,10076
+T1/2022,Montsià,casos per cada 100 habitants,homes,,13.5
+T1/2022,Montsià,casos per cada 100 habitants,dones,,15.6
+T1/2022,Montsià,casos per cada 100 habitants,total,,14.6
+T1/2022,Noguera,casos confirmats,homes,,2598
+T1/2022,Noguera,casos confirmats,dones,,2930
+T1/2022,Noguera,casos confirmats,total,,5528
+T1/2022,Noguera,casos per cada 100 habitants,homes,,13.0
+T1/2022,Noguera,casos per cada 100 habitants,dones,,15.8
+T1/2022,Noguera,casos per cada 100 habitants,total,,14.3
+T1/2022,Osona,casos confirmats,homes,,10271
+T1/2022,Osona,casos confirmats,dones,,11741
+T1/2022,Osona,casos confirmats,total,,22012
+T1/2022,Osona,casos per cada 100 habitants,homes,,12.7
+T1/2022,Osona,casos per cada 100 habitants,dones,,14.5
+T1/2022,Osona,casos per cada 100 habitants,total,,13.6
+T1/2022,Pallars Jussà,casos confirmats,homes,,885
+T1/2022,Pallars Jussà,casos confirmats,dones,,1001
+T1/2022,Pallars Jussà,casos confirmats,total,,1886
+T1/2022,Pallars Jussà,casos per cada 100 habitants,homes,,13.3
+T1/2022,Pallars Jussà,casos per cada 100 habitants,dones,,15.7
+T1/2022,Pallars Jussà,casos per cada 100 habitants,total,,14.5
+T1/2022,Pallars Sobirà,casos confirmats,homes,,434
+T1/2022,Pallars Sobirà,casos confirmats,dones,,462
+T1/2022,Pallars Sobirà,casos confirmats,total,,896
+T1/2022,Pallars Sobirà,casos per cada 100 habitants,homes,,12.2
+T1/2022,Pallars Sobirà,casos per cada 100 habitants,dones,,13.8
+T1/2022,Pallars Sobirà,casos per cada 100 habitants,total,,13.0
+T1/2022,Pla d'Urgell,casos confirmats,homes,,2684
+T1/2022,Pla d'Urgell,casos confirmats,dones,,2989
+T1/2022,Pla d'Urgell,casos confirmats,total,,5673
+T1/2022,Pla d'Urgell,casos per cada 100 habitants,homes,,14.1
+T1/2022,Pla d'Urgell,casos per cada 100 habitants,dones,,16.4
+T1/2022,Pla d'Urgell,casos per cada 100 habitants,total,,15.2
+T1/2022,Pla de l'Estany,casos confirmats,homes,,2636
+T1/2022,Pla de l'Estany,casos confirmats,dones,,2965
+T1/2022,Pla de l'Estany,casos confirmats,total,,5601
+T1/2022,Pla de l'Estany,casos per cada 100 habitants,homes,,16.4
+T1/2022,Pla de l'Estany,casos per cada 100 habitants,dones,,18.2
+T1/2022,Pla de l'Estany,casos per cada 100 habitants,total,,17.3
+T1/2022,Priorat,casos confirmats,homes,,634
+T1/2022,Priorat,casos confirmats,dones,,666
+T1/2022,Priorat,casos confirmats,total,,1300
+T1/2022,Priorat,casos per cada 100 habitants,homes,,13.2
+T1/2022,Priorat,casos per cada 100 habitants,dones,,15.3
+T1/2022,Priorat,casos per cada 100 habitants,total,,14.2
+T1/2022,Ribera d'Ebre,casos confirmats,homes,,1276
+T1/2022,Ribera d'Ebre,casos confirmats,dones,,1409
+T1/2022,Ribera d'Ebre,casos confirmats,total,,2685
+T1/2022,Ribera d'Ebre,casos per cada 100 habitants,homes,,11.6
+T1/2022,Ribera d'Ebre,casos per cada 100 habitants,dones,,13.2
+T1/2022,Ribera d'Ebre,casos per cada 100 habitants,total,,12.4
+T1/2022,Ripollès,casos confirmats,homes,,1441
+T1/2022,Ripollès,casos confirmats,dones,,1701
+T1/2022,Ripollès,casos confirmats,total,,3142
+T1/2022,Ripollès,casos per cada 100 habitants,homes,,11.5
+T1/2022,Ripollès,casos per cada 100 habitants,dones,,13.6
+T1/2022,Ripollès,casos per cada 100 habitants,total,,12.5
+T1/2022,Segarra,casos confirmats,homes,,1832
+T1/2022,Segarra,casos confirmats,dones,,1879
+T1/2022,Segarra,casos confirmats,total,,3711
+T1/2022,Segarra,casos per cada 100 habitants,homes,,15.4
+T1/2022,Segarra,casos per cada 100 habitants,dones,,17.2
+T1/2022,Segarra,casos per cada 100 habitants,total,,16.3
+T1/2022,Segrià,casos confirmats,homes,,14318
+T1/2022,Segrià,casos confirmats,dones,,16606
+T1/2022,Segrià,casos confirmats,total,,30924
+T1/2022,Segrià,casos per cada 100 habitants,homes,,13.6
+T1/2022,Segrià,casos per cada 100 habitants,dones,,16.0
+T1/2022,Segrià,casos per cada 100 habitants,total,,14.8
+T1/2022,Selva,casos confirmats,homes,,11589
+T1/2022,Selva,casos confirmats,dones,,13157
+T1/2022,Selva,casos confirmats,total,,24746
+T1/2022,Selva,casos per cada 100 habitants,homes,,13.4
+T1/2022,Selva,casos per cada 100 habitants,dones,,15.5
+T1/2022,Selva,casos per cada 100 habitants,total,,14.5
+T1/2022,Solsonès,casos confirmats,homes,,987
+T1/2022,Solsonès,casos confirmats,dones,,1218
+T1/2022,Solsonès,casos confirmats,total,,2205
+T1/2022,Solsonès,casos per cada 100 habitants,homes,,14.2
+T1/2022,Solsonès,casos per cada 100 habitants,dones,,18.0
+T1/2022,Solsonès,casos per cada 100 habitants,total,,16.0
+T1/2022,Tarragonès,casos confirmats,homes,,18956
+T1/2022,Tarragonès,casos confirmats,dones,,21723
+T1/2022,Tarragonès,casos confirmats,total,,40679
+T1/2022,Tarragonès,casos per cada 100 habitants,homes,,14.6
+T1/2022,Tarragonès,casos per cada 100 habitants,dones,,16.4
+T1/2022,Tarragonès,casos per cada 100 habitants,total,,15.5
+T1/2022,Terra Alta,casos confirmats,homes,,760
+T1/2022,Terra Alta,casos confirmats,dones,,861
+T1/2022,Terra Alta,casos confirmats,total,,1621
+T1/2022,Terra Alta,casos per cada 100 habitants,homes,,13.1
+T1/2022,Terra Alta,casos per cada 100 habitants,dones,,15.7
+T1/2022,Terra Alta,casos per cada 100 habitants,total,,14.4
+T1/2022,Urgell,casos confirmats,homes,,2630
+T1/2022,Urgell,casos confirmats,dones,,3079
+T1/2022,Urgell,casos confirmats,total,,5709
+T1/2022,Urgell,casos per cada 100 habitants,homes,,14.1
+T1/2022,Urgell,casos per cada 100 habitants,dones,,16.9
+T1/2022,Urgell,casos per cada 100 habitants,total,,15.4
+T1/2022,Vallès Occidental,casos confirmats,homes,,71666
+T1/2022,Vallès Occidental,casos confirmats,dones,,82004
+T1/2022,Vallès Occidental,casos confirmats,total,,153670
+T1/2022,Vallès Occidental,casos per cada 100 habitants,homes,,15.6
+T1/2022,Vallès Occidental,casos per cada 100 habitants,dones,,17.2
+T1/2022,Vallès Occidental,casos per cada 100 habitants,total,,16.4
+T1/2022,Vallès Oriental,casos confirmats,homes,,31306
+T1/2022,Vallès Oriental,casos confirmats,dones,,35253
+T1/2022,Vallès Oriental,casos confirmats,total,,66559
+T1/2022,Vallès Oriental,casos per cada 100 habitants,homes,,15.2
+T1/2022,Vallès Oriental,casos per cada 100 habitants,dones,,17.0
+T1/2022,Vallès Oriental,casos per cada 100 habitants,total,,16.1
+T1/2022,Catalunya,casos confirmats,homes,,521720
+T1/2022,Catalunya,casos confirmats,dones,,606355
+T1/2022,Catalunya,casos confirmats,total,,1150898
+T1/2022,Catalunya,casos per cada 100 habitants,homes,,13.8
+T1/2022,Catalunya,casos per cada 100 habitants,dones,,15.4
+T1/2022,Catalunya,casos per cada 100 habitants,total,,14.9
+T2/2022,Alt Camp,casos confirmats,homes,,352
+T2/2022,Alt Camp,casos confirmats,dones,,490
+T2/2022,Alt Camp,casos confirmats,total,,842
+T2/2022,Alt Camp,casos per cada 100 habitants,homes,,1.5
+T2/2022,Alt Camp,casos per cada 100 habitants,dones,,2.2
+T2/2022,Alt Camp,casos per cada 100 habitants,total,,1.9
+T2/2022,Alt Empordà,casos confirmats,homes,,815
+T2/2022,Alt Empordà,casos confirmats,dones,,1199
+T2/2022,Alt Empordà,casos confirmats,total,,2014
+T2/2022,Alt Empordà,casos per cada 100 habitants,homes,,1.2
+T2/2022,Alt Empordà,casos per cada 100 habitants,dones,,1.7
+T2/2022,Alt Empordà,casos per cada 100 habitants,total,,1.4
+T2/2022,Alt Penedès,casos confirmats,homes,,957
+T2/2022,Alt Penedès,casos confirmats,dones,,1344
+T2/2022,Alt Penedès,casos confirmats,total,,2301
+T2/2022,Alt Penedès,casos per cada 100 habitants,homes,,1.7
+T2/2022,Alt Penedès,casos per cada 100 habitants,dones,,2.4
+T2/2022,Alt Penedès,casos per cada 100 habitants,total,,2.1
+T2/2022,Alt Urgell,casos confirmats,homes,,220
+T2/2022,Alt Urgell,casos confirmats,dones,,344
+T2/2022,Alt Urgell,casos confirmats,total,,564
+T2/2022,Alt Urgell,casos per cada 100 habitants,homes,,2.2
+T2/2022,Alt Urgell,casos per cada 100 habitants,dones,,3.4
+T2/2022,Alt Urgell,casos per cada 100 habitants,total,,2.8
+T2/2022,Alta Ribagorça,casos confirmats,homes,,26
+T2/2022,Alta Ribagorça,casos confirmats,dones,,46
+T2/2022,Alta Ribagorça,casos confirmats,total,,72
+T2/2022,Alta Ribagorça,casos per cada 100 habitants,homes,,1.3
+T2/2022,Alta Ribagorça,casos per cada 100 habitants,dones,,2.5
+T2/2022,Alta Ribagorça,casos per cada 100 habitants,total,,1.9
+T2/2022,Anoia,casos confirmats,homes,,955
+T2/2022,Anoia,casos confirmats,dones,,1295
+T2/2022,Anoia,casos confirmats,total,,2250
+T2/2022,Anoia,casos per cada 100 habitants,homes,,1.5
+T2/2022,Anoia,casos per cada 100 habitants,dones,,2.1
+T2/2022,Anoia,casos per cada 100 habitants,total,,1.8
+T2/2022,Aran,casos confirmats,homes,,50
+T2/2022,Aran,casos confirmats,dones,,67
+T2/2022,Aran,casos confirmats,total,,117
+T2/2022,Aran,casos per cada 100 habitants,homes,,1.0
+T2/2022,Aran,casos per cada 100 habitants,dones,,1.4
+T2/2022,Aran,casos per cada 100 habitants,total,,1.2
+T2/2022,Bages,casos confirmats,homes,,2506
+T2/2022,Bages,casos confirmats,dones,,3561
+T2/2022,Bages,casos confirmats,total,,6067
+T2/2022,Bages,casos per cada 100 habitants,homes,,2.8
+T2/2022,Bages,casos per cada 100 habitants,dones,,3.9
+T2/2022,Bages,casos per cada 100 habitants,total,,3.4
+T2/2022,Baix Camp,casos confirmats,homes,,1978
+T2/2022,Baix Camp,casos confirmats,dones,,2727
+T2/2022,Baix Camp,casos confirmats,total,,4705
+T2/2022,Baix Camp,casos per cada 100 habitants,homes,,2.1
+T2/2022,Baix Camp,casos per cada 100 habitants,dones,,2.8
+T2/2022,Baix Camp,casos per cada 100 habitants,total,,2.4
+T2/2022,Baix Ebre,casos confirmats,homes,,551
+T2/2022,Baix Ebre,casos confirmats,dones,,865
+T2/2022,Baix Ebre,casos confirmats,total,,1416
+T2/2022,Baix Ebre,casos per cada 100 habitants,homes,,1.4
+T2/2022,Baix Ebre,casos per cada 100 habitants,dones,,2.2
+T2/2022,Baix Ebre,casos per cada 100 habitants,total,,1.8
+T2/2022,Baix Empordà,casos confirmats,homes,,889
+T2/2022,Baix Empordà,casos confirmats,dones,,1403
+T2/2022,Baix Empordà,casos confirmats,total,,2292
+T2/2022,Baix Empordà,casos per cada 100 habitants,homes,,1.3
+T2/2022,Baix Empordà,casos per cada 100 habitants,dones,,2.1
+T2/2022,Baix Empordà,casos per cada 100 habitants,total,,1.7
+T2/2022,Baix Llobregat,casos confirmats,homes,,8036
+T2/2022,Baix Llobregat,casos confirmats,dones,,11676
+T2/2022,Baix Llobregat,casos confirmats,total,,19712
+T2/2022,Baix Llobregat,casos per cada 100 habitants,homes,,2.0
+T2/2022,Baix Llobregat,casos per cada 100 habitants,dones,,2.8
+T2/2022,Baix Llobregat,casos per cada 100 habitants,total,,2.4
+T2/2022,Baix Penedès,casos confirmats,homes,,1428
+T2/2022,Baix Penedès,casos confirmats,dones,,1937
+T2/2022,Baix Penedès,casos confirmats,total,,3365
+T2/2022,Baix Penedès,casos per cada 100 habitants,homes,,2.6
+T2/2022,Baix Penedès,casos per cada 100 habitants,dones,,3.6
+T2/2022,Baix Penedès,casos per cada 100 habitants,total,,3.1
+T2/2022,Barcelonès,casos confirmats,homes,,23222
+T2/2022,Barcelonès,casos confirmats,dones,,35640
+T2/2022,Barcelonès,casos confirmats,total,,58862
+T2/2022,Barcelonès,casos per cada 100 habitants,homes,,2.1
+T2/2022,Barcelonès,casos per cada 100 habitants,dones,,3.0
+T2/2022,Barcelonès,casos per cada 100 habitants,total,,2.6
+T2/2022,Berguedà,casos confirmats,homes,,550
+T2/2022,Berguedà,casos confirmats,dones,,750
+T2/2022,Berguedà,casos confirmats,total,,1300
+T2/2022,Berguedà,casos per cada 100 habitants,homes,,2.8
+T2/2022,Berguedà,casos per cada 100 habitants,dones,,3.8
+T2/2022,Berguedà,casos per cada 100 habitants,total,,3.3
+T2/2022,Cerdanya,casos confirmats,homes,,116
+T2/2022,Cerdanya,casos confirmats,dones,,171
+T2/2022,Cerdanya,casos confirmats,total,,287
+T2/2022,Cerdanya,casos per cada 100 habitants,homes,,1.2
+T2/2022,Cerdanya,casos per cada 100 habitants,dones,,1.9
+T2/2022,Cerdanya,casos per cada 100 habitants,total,,1.6
+T2/2022,Conca de Barberà,casos confirmats,homes,,350
+T2/2022,Conca de Barberà,casos confirmats,dones,,463
+T2/2022,Conca de Barberà,casos confirmats,total,,813
+T2/2022,Conca de Barberà,casos per cada 100 habitants,homes,,3.4
+T2/2022,Conca de Barberà,casos per cada 100 habitants,dones,,4.8
+T2/2022,Conca de Barberà,casos per cada 100 habitants,total,,4.1
+T2/2022,Garraf,casos confirmats,homes,,1193
+T2/2022,Garraf,casos confirmats,dones,,1635
+T2/2022,Garraf,casos confirmats,total,,2828
+T2/2022,Garraf,casos per cada 100 habitants,homes,,1.6
+T2/2022,Garraf,casos per cada 100 habitants,dones,,2.1
+T2/2022,Garraf,casos per cada 100 habitants,total,,1.9
+T2/2022,Garrigues,casos confirmats,homes,,373
+T2/2022,Garrigues,casos confirmats,dones,,474
+T2/2022,Garrigues,casos confirmats,total,,847
+T2/2022,Garrigues,casos per cada 100 habitants,homes,,3.8
+T2/2022,Garrigues,casos per cada 100 habitants,dones,,5.2
+T2/2022,Garrigues,casos per cada 100 habitants,total,,4.5
+T2/2022,Garrotxa,casos confirmats,homes,,554
+T2/2022,Garrotxa,casos confirmats,dones,,803
+T2/2022,Garrotxa,casos confirmats,total,,1357
+T2/2022,Garrotxa,casos per cada 100 habitants,homes,,1.9
+T2/2022,Garrotxa,casos per cada 100 habitants,dones,,2.8
+T2/2022,Garrotxa,casos per cada 100 habitants,total,,2.4
+T2/2022,Gironès,casos confirmats,homes,,1799
+T2/2022,Gironès,casos confirmats,dones,,2518
+T2/2022,Gironès,casos confirmats,total,,4317
+T2/2022,Gironès,casos per cada 100 habitants,homes,,1.9
+T2/2022,Gironès,casos per cada 100 habitants,dones,,2.6
+T2/2022,Gironès,casos per cada 100 habitants,total,,2.3
+T2/2022,Maresme,casos confirmats,homes,,3918
+T2/2022,Maresme,casos confirmats,dones,,5668
+T2/2022,Maresme,casos confirmats,total,,9586
+T2/2022,Maresme,casos per cada 100 habitants,homes,,1.8
+T2/2022,Maresme,casos per cada 100 habitants,dones,,2.5
+T2/2022,Maresme,casos per cada 100 habitants,total,,2.1
+T2/2022,Moianès,casos confirmats,homes,,166
+T2/2022,Moianès,casos confirmats,dones,,213
+T2/2022,Moianès,casos confirmats,total,,379
+T2/2022,Moianès,casos per cada 100 habitants,homes,,2.3
+T2/2022,Moianès,casos per cada 100 habitants,dones,,3.2
+T2/2022,Moianès,casos per cada 100 habitants,total,,2.7
+T2/2022,Montsià,casos confirmats,homes,,463
+T2/2022,Montsià,casos confirmats,dones,,768
+T2/2022,Montsià,casos confirmats,total,,1231
+T2/2022,Montsià,casos per cada 100 habitants,homes,,1.3
+T2/2022,Montsià,casos per cada 100 habitants,dones,,2.2
+T2/2022,Montsià,casos per cada 100 habitants,total,,1.8
+T2/2022,Noguera,casos confirmats,homes,,388
+T2/2022,Noguera,casos confirmats,dones,,433
+T2/2022,Noguera,casos confirmats,total,,821
+T2/2022,Noguera,casos per cada 100 habitants,homes,,1.9
+T2/2022,Noguera,casos per cada 100 habitants,dones,,2.3
+T2/2022,Noguera,casos per cada 100 habitants,total,,2.1
+T2/2022,Osona,casos confirmats,homes,,1343
+T2/2022,Osona,casos confirmats,dones,,1905
+T2/2022,Osona,casos confirmats,total,,3248
+T2/2022,Osona,casos per cada 100 habitants,homes,,1.7
+T2/2022,Osona,casos per cada 100 habitants,dones,,2.4
+T2/2022,Osona,casos per cada 100 habitants,total,,2.0
+T2/2022,Pallars Jussà,casos confirmats,homes,,136
+T2/2022,Pallars Jussà,casos confirmats,dones,,218
+T2/2022,Pallars Jussà,casos confirmats,total,,354
+T2/2022,Pallars Jussà,casos per cada 100 habitants,homes,,2.0
+T2/2022,Pallars Jussà,casos per cada 100 habitants,dones,,3.4
+T2/2022,Pallars Jussà,casos per cada 100 habitants,total,,2.7
+T2/2022,Pallars Sobirà,casos confirmats,homes,,34
+T2/2022,Pallars Sobirà,casos confirmats,dones,,77
+T2/2022,Pallars Sobirà,casos confirmats,total,,111
+T2/2022,Pallars Sobirà,casos per cada 100 habitants,homes,,1.0
+T2/2022,Pallars Sobirà,casos per cada 100 habitants,dones,,2.3
+T2/2022,Pallars Sobirà,casos per cada 100 habitants,total,,1.6
+T2/2022,Pla d'Urgell,casos confirmats,homes,,418
+T2/2022,Pla d'Urgell,casos confirmats,dones,,565
+T2/2022,Pla d'Urgell,casos confirmats,total,,983
+T2/2022,Pla d'Urgell,casos per cada 100 habitants,homes,,2.2
+T2/2022,Pla d'Urgell,casos per cada 100 habitants,dones,,3.1
+T2/2022,Pla d'Urgell,casos per cada 100 habitants,total,,2.6
+T2/2022,Pla de l'Estany,casos confirmats,homes,,260
+T2/2022,Pla de l'Estany,casos confirmats,dones,,371
+T2/2022,Pla de l'Estany,casos confirmats,total,,631
+T2/2022,Pla de l'Estany,casos per cada 100 habitants,homes,,1.6
+T2/2022,Pla de l'Estany,casos per cada 100 habitants,dones,,2.3
+T2/2022,Pla de l'Estany,casos per cada 100 habitants,total,,1.9
+T2/2022,Priorat,casos confirmats,homes,,87
+T2/2022,Priorat,casos confirmats,dones,,96
+T2/2022,Priorat,casos confirmats,total,,183
+T2/2022,Priorat,casos per cada 100 habitants,homes,,1.8
+T2/2022,Priorat,casos per cada 100 habitants,dones,,2.2
+T2/2022,Priorat,casos per cada 100 habitants,total,,2.0
+T2/2022,Ribera d'Ebre,casos confirmats,homes,,170
+T2/2022,Ribera d'Ebre,casos confirmats,dones,,237
+T2/2022,Ribera d'Ebre,casos confirmats,total,,407
+T2/2022,Ribera d'Ebre,casos per cada 100 habitants,homes,,1.5
+T2/2022,Ribera d'Ebre,casos per cada 100 habitants,dones,,2.2
+T2/2022,Ribera d'Ebre,casos per cada 100 habitants,total,,1.9
+T2/2022,Ripollès,casos confirmats,homes,,284
+T2/2022,Ripollès,casos confirmats,dones,,351
+T2/2022,Ripollès,casos confirmats,total,,635
+T2/2022,Ripollès,casos per cada 100 habitants,homes,,2.3
+T2/2022,Ripollès,casos per cada 100 habitants,dones,,2.8
+T2/2022,Ripollès,casos per cada 100 habitants,total,,2.5
+T2/2022,Segarra,casos confirmats,homes,,266
+T2/2022,Segarra,casos confirmats,dones,,366
+T2/2022,Segarra,casos confirmats,total,,632
+T2/2022,Segarra,casos per cada 100 habitants,homes,,2.2
+T2/2022,Segarra,casos per cada 100 habitants,dones,,3.3
+T2/2022,Segarra,casos per cada 100 habitants,total,,2.8
+T2/2022,Segrià,casos confirmats,homes,,2160
+T2/2022,Segrià,casos confirmats,dones,,3144
+T2/2022,Segrià,casos confirmats,total,,5304
+T2/2022,Segrià,casos per cada 100 habitants,homes,,2.1
+T2/2022,Segrià,casos per cada 100 habitants,dones,,3.0
+T2/2022,Segrià,casos per cada 100 habitants,total,,2.5
+T2/2022,Selva,casos confirmats,homes,,1670
+T2/2022,Selva,casos confirmats,dones,,2377
+T2/2022,Selva,casos confirmats,total,,4047
+T2/2022,Selva,casos per cada 100 habitants,homes,,1.9
+T2/2022,Selva,casos per cada 100 habitants,dones,,2.8
+T2/2022,Selva,casos per cada 100 habitants,total,,2.4
+T2/2022,Solsonès,casos confirmats,homes,,66
+T2/2022,Solsonès,casos confirmats,dones,,82
+T2/2022,Solsonès,casos confirmats,total,,148
+T2/2022,Solsonès,casos per cada 100 habitants,homes,,0.9
+T2/2022,Solsonès,casos per cada 100 habitants,dones,,1.2
+T2/2022,Solsonès,casos per cada 100 habitants,total,,1.1
+T2/2022,Tarragonès,casos confirmats,homes,,2357
+T2/2022,Tarragonès,casos confirmats,dones,,3464
+T2/2022,Tarragonès,casos confirmats,total,,5821
+T2/2022,Tarragonès,casos per cada 100 habitants,homes,,1.8
+T2/2022,Tarragonès,casos per cada 100 habitants,dones,,2.6
+T2/2022,Tarragonès,casos per cada 100 habitants,total,,2.2
+T2/2022,Terra Alta,casos confirmats,homes,,61
+T2/2022,Terra Alta,casos confirmats,dones,,63
+T2/2022,Terra Alta,casos confirmats,total,,124
+T2/2022,Terra Alta,casos per cada 100 habitants,homes,,1.1
+T2/2022,Terra Alta,casos per cada 100 habitants,dones,,1.1
+T2/2022,Terra Alta,casos per cada 100 habitants,total,,1.1
+T2/2022,Urgell,casos confirmats,homes,,461
+T2/2022,Urgell,casos confirmats,dones,,629
+T2/2022,Urgell,casos confirmats,total,,1090
+T2/2022,Urgell,casos per cada 100 habitants,homes,,2.5
+T2/2022,Urgell,casos per cada 100 habitants,dones,,3.4
+T2/2022,Urgell,casos per cada 100 habitants,total,,2.9
+T2/2022,Vallès Occidental,casos confirmats,homes,,10007
+T2/2022,Vallès Occidental,casos confirmats,dones,,14312
+T2/2022,Vallès Occidental,casos confirmats,total,,24319
+T2/2022,Vallès Occidental,casos per cada 100 habitants,homes,,2.2
+T2/2022,Vallès Occidental,casos per cada 100 habitants,dones,,3.0
+T2/2022,Vallès Occidental,casos per cada 100 habitants,total,,2.6
+T2/2022,Vallès Oriental,casos confirmats,homes,,3801
+T2/2022,Vallès Oriental,casos confirmats,dones,,5274
+T2/2022,Vallès Oriental,casos confirmats,total,,9075
+T2/2022,Vallès Oriental,casos per cada 100 habitants,homes,,1.8
+T2/2022,Vallès Oriental,casos per cada 100 habitants,dones,,2.5
+T2/2022,Vallès Oriental,casos per cada 100 habitants,total,,2.2
+T2/2022,Catalunya,casos confirmats,homes,,75696
+T2/2022,Catalunya,casos confirmats,dones,,110310
+T2/2022,Catalunya,casos confirmats,total,,193487
+T2/2022,Catalunya,casos per cada 100 habitants,homes,,2.0
+T2/2022,Catalunya,casos per cada 100 habitants,dones,,2.8
+T2/2022,Catalunya,casos per cada 100 habitants,total,,2.5
