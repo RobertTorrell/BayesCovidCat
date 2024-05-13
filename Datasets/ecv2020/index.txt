@@ -1,0 +1,39 @@
+*ecv2020d.data.csv*
+Microdades de les dades bàsiques de la llar
+Microdatos de los datos básicos del hogar
+Microdata of basic household data
+
+*ecv2020d.var.csv*
+Variables de les dades bàsiques de la llar
+Variables de los datos básicos del hogar
+Variables of basic household data
+
+*ecv2020h.data.csv*
+Microdades de les dades detallades de la llar
+Microdatos de los datos detallados del hogar
+Microdata of detailed household data
+
+*ecv2020h.var.csv*
+Variables de les dades detallades de la llar
+Variables de los datos detallados del hogar
+Variables of detailed household data
+
+*ecv2020p.data.csv*
+Microdades de les dades detallades d'adults (>=16 anys)
+Microdatos de los datos detallados de adultos (>=16 años)
+Microdata of detailed adult data (>=16 years)
+
+*ecv2020p.var.csv*
+Variables de les dades detallades d'adults (>=16 anys)
+Variables de los datos detallados de adultos (>=16 años)
+Variables of detailed adult data (>=16 years)
+
+*ecv2020r.data.csv*
+Microdades de les dades bàsiques de persones
+Microdatos de los datos básicos de personas
+Microdata of the basic data of people
+
+*ecv2020r.var.csv*
+Variables de les dades bàsiques de persones
+Variables de los datos básicos de personas
+Variables of the basic data of people

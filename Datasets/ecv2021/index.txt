@@ -1,0 +1,49 @@
+﻿*ecv2021d.data.csv*
+Microdades de les dades bàsiques de la llar
+Microdatos de los datos básicos del hogar
+Microdata of basic household data
+
+*ecv2021d.var.csv*
+Variables de les dades bàsiques de la llar
+Variables de los datos básicos del hogar
+Variables of basic household data
+
+*ecv2021h.data.csv*
+Microdades de les dades detallades de la llar
+Microdatos de los datos detallados del hogar
+Microdata of detailed household data
+
+*ecv2021h.var.csv*
+Variables de les dades detallades de la llar
+Variables de los datos detallados del hogar
+Variables of detailed household data
+
+*ecv2021p.data.csv*
+Microdades de les dades detallades d'adults (>=16 anys)
+Microdatos de los datos detallados de adultos (>=16 años)
+Microdata of detailed adult data (>=16 years)
+
+*ecv2021p.var.csv*
+Variables de les dades detallades d'adults (>=16 anys)
+Variables de los datos detallados de adultos (>=16 años)
+Variables of detailed adult data (>=16 years)
+
+*ecv2021r.data.csv*
+Microdades de les dades bàsiques de persones
+Microdatos de los datos básicos de personas
+Microdata of the basic data of people
+
+*ecv2021r.var.csv*
+Variables de les dades bàsiques de persones
+Variables de los datos básicos de personas
+Variables of the basic data of people
+
+*ecv2021rk.data.csv*
+Microdades de les dades bàsiques de menors que no són membres de la llar
+Microdatos de los datos básicos de menores que no son miembros del hogar
+Microdata for the basic data on children who are not household members
+
+*ecv2021rk.var.csv*
+Variables de les dades bàsiques de menors que no són membres de la llar
+Variables de los datos básicos de menores que no son miembros del hogar
+Variables for the basic data on children who are not household members

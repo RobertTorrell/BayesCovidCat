@@ -1,0 +1,172 @@
+Variable	DescrCA	DescrES	DescrEN	Valor_Value	LabelCA	LabelES	LabelEN
+RB010	Any de l'enquesta	Año de la encuesta	Survey year				
+RB020	País	País	Country				
+RB020				ES	Espanya	España	Spain
+RB030	Factor transversal de la persona	Identificador transversal de la persona	Cross-sectional person factor				
+RB050	Factor de ponderació transversal multiplicat per 100.000 (factor de ponderació real = RB050 / 100.000)	Factor de ponderación transversal multiplicado por 100.000 (factor de ponderación real = RB050 / 100.000)	Cross-sectional weighting factor multiplied by 100,000 (real weighting factor = RB050 / 100,000)				
+RB050_F	Variable que indica si RB050 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si RB050 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if RB050 is complete, if it is missing or if it is not applicable in the record in question.				
+RB050_F				1	Variable completada	Variable completada	Variable completed
+RB080	Any de naixement	Año de nacimiento	Year of birth				
+RB080_F	Variable que indica si RB080 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si RB080 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if RB080 is complete, if it is missing or if it is not applicable in the record in question.				
+RB080_F				1	Variable completada	Variable completada	Variable completed
+RB081	Edat a 31 de desembre de l'any anterior al de l'enquesta	Edad a 31 de diciembre del año anterior al de la encuesta	Age on 31 December of the year preceding the survey year				
+RB081_F	Variable que indica si RB081 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si RB081 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if RB081 is complete, if it is missing or if it is not applicable in the record in question.				
+RB081_F				1	Variable completada	Variable completada	Variable completed
+RB082	Edat a la data de l'entrevista	Edad en la fecha de la entrevista	Age on the date of the interview				
+RB082_F	Variable que indica si RB082 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si RB082 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if RB082 is complete, if it is missing or if it is not applicable in the record in question.				
+RB082_F				1	Variable completada	Variable completada	Variable completed
+RB090	Sexe	Sexo	Sex				
+RB090				1	Home	Varón	Man
+RB090				2	Dona	Mujer	Woman
+RB090_F	Variable que indica si RB090 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si RB090 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if RB090 is complete, if it is missing or if it is not applicable in the record in question.				
+RB090_F				1	Variable completada	Variable completada	Variable completed
+RB200	Situació pel que fa a la residència a la llar	Situación respecto a la residencia en el hogar	Household residence situation				
+RB200				1	Actualment viu a la llar	Vive actualmente en el hogar	Currently lives in the household
+RB200				2	Absent temporalment	Ausente temporalmente	Temporarily absent
+RB200_F	Variable que indica si RB200 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si RB200 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if RB200 is complete, if it is missing or if it is not applicable in the record in question.				
+RB200_F				1	Variable completada	Variable completada	Variable completed
+RB200_F				97	No hi consta	No consta	No answer
+RB211	Quina de les següents va ser la seva situació a l'activitat actualment?	¿Cuál de las siguientes fue su situación en la actividad actualmente?	Which of the following was your employment status?				
+RB211				1	Treballant	Trabajando	Working
+RB211				2	Aturat	Parado	Unemployed
+RB211				3	Jubilat o jubilat anticipadament	Jubilado o jubilado anticipadamente	Retired or early-retired 
+RB211				4	Incapacitat permanent per treballar	Incapacitado permanente para trabajar	Permanently unable to work
+RB211				5	Estudiant, escolar o en formació	Estudiante, escolar o en formación	Student, school pupil or trainee
+RB211				6	Dedicat a les feines de la llar, cura de nens o altres persones	Dedicado a las labores del hogar, cuidado de niños u otras personas	Homemaker, stay-at-home mother or carer for other persons
+RB211				8	Una altra classe d'activitat econòmica	Otra clase de inactividad económica	Other class of economic activity
+RB211_F	Variable que indica si RB211 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si RB211 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if RB211 is complete, if it is missing or if it is not applicable in the record in question.				
+RB211_F				1	Variable completada	Variable completada	Variable completed
+RB211_F				97	No hi consta	No consta	No answer
+RB220	Identificador del pare	Identificador del padre	Father’s ID				
+RB220_F	Variable que indica si RB220 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si RB220 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if RB220 is complete, if it is missing or if it is not applicable in the record in question.				
+RB220_F				1	Variable completada	Variable completada	Variable completed
+RB220_F				96	El pare no és membre de la llar o no té pare	El padre no es miembro del hogar o no tiene padre	The father is not a member of the household or he/she has no father
+RB230	Identificador de la mare	Identificador de la madre	Mother’s ID				
+RB230_F	Variable que indica si RB230 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si RB230 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if RB230 is complete, if it is missing or if it is not applicable in the record in question.				
+RB230_F				1	Variable completada	Variable completada	Variable completed
+RB230_F				96	La mare no és membre de la llar o no té mare	La madre no es miembro del hogar o no tiene madre	The mother is not a member of the household or he/she has no mother
+RB240	Identificador del cònjugue o parella	Identificador del cónyuge o pareja	Spouse’s or partner’s ID				
+RB240_F	Variable que indica si RB240 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si RB240 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if RB240 is complete, if it is missing or if it is not applicable in the record in question.				
+RB240_F				1	Variable completada	Variable completada	Variable completed
+RB240_F				96	No té cònjugue o parella o no és membre de la llar	No tiene cónyuge o pareja o ésta no es miembro del hogar	Has no spouse or partner or he/she is not a member of the household
+RB280	País de naixement	País de nacimiento	Country of birth				
+RB280				1	Espanya	España	Spain
+RB280				2	Estranger (resta de la Unió Europea -a partir d'ECV2020, UE-27, després de la sortida del Regne Unit de la UE)	Extranjero (resto de la Unión Europea -a partir de ECV2020, UE-27, tras la salida del Reino Unido de la UE )	Foreign (rest of the European Union - from SLC2020 onwards, EU-27, after UK withdrawal from the EU)
+RB280				3	Estranger (resta del món)	Extranjero (resto del mundo)	Foreign (rest of the world)
+RB280_F	Variable que indica si RB280 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si RB280 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if RB280 is complete, if it is missing or if it is not applicable in the record in question.				
+RB280_F				1	Variable completada	Variable completada	Variable completed
+RB280_F				97	No hi consta	No consta	No answer
+RB290	Nacionalitat	Nacionalidad	Nationality				
+RB290				1	Espanya	España	Spain
+RB290				2	Estranger (resta de la Unió Europea -a partir d'ECV2020, UE-27, després de la sortida del Regne Unit de la UE)	Extranjero (resto de la Unión Europea -a partir de ECV2020, UE-27, tras la salida del Reino Unido de la UE )	Foreign (rest of the European Union - from SLC2020 onwards, EU-27, after UK withdrawal from the EU)
+RB290				3	Estranger (resta del món)	Extranjero (resto del mundo)	Foreign (rest of the world)
+RB290_F	Variable que indica si RB290 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si RB290 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if RB290 is complete, if it is missing or if it is not applicable in the record in question.				
+RB290_F				1	Variable completada	Variable completada	Variable completed
+RB290_F				97	No hi consta	No consta	No answer
+RL010	Nombre d'hores en una setmana normal que ha estat cuidat o ha assistit a centres d'educació preescolar o infantil	Número de horas en una semana normal que ha sido cuidado o ha asistido a centros de educación preescolar o infantil	Number of hours in a normal week he/she was looked after in or attended preschool or infant school				
+RL010_F	Variable que indica si RL010 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si RL010 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if RL010 is complete, if it is missing or if it is not applicable in the record in question.				
+RL010_F				1	Variable completada	Variable completada	Variable completed
+RL010_F				96	No aplicable (N.A.) (perquè no té l'edat per ser admesa en aquests centres o cursa estudis primaris o té més de 12 anys)	No aplicable (N.A.) (ya que no tiene la edad para ser admitida en estos centros o cursa estudios primarios o tiene más de 12 años)	Not applicable (N/A) (because he/she is not old enough to be admitted to these centres, is in primary school or is over 12 years old)
+RL010_F				97	No hi consta	No consta	No answer
+RL020	Nombre d'hores en una setmana normal que ha estat cuidat en centres d'educació obligatòria (primària o secundària)	Número de horas en una semana normal que ha sido cuidado en centros de educación obligatoria (primaria o secundaria)	Number of hours in a normal week that he/she was looked after in compulsory education centres (primary or secondary)				
+RL020_F	Variable que indica si RL020 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si RL020 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if RL020 is complete, if it is missing or if it is not applicable in the record in question.				
+RL020_F				1	Variable completada	Variable completada	Variable completed
+RL020_F				96	No aplicable (N.A.) (perquè no té l'edat per ser admesa en aquests centres o cursa estudis primaris o té més de 12 anys)	No aplicable (N.A.) (ya que no tiene la edad para ser admitida en estos centros o cursa estudios primarios o tiene más de 12 años) 	No aplicable (N/A) (because he/she is not old enough to be admitted to these centres or is in primary school or is over 12 years old)
+RL030	Nombre d'hores en una setmana normal que ha estat cuidat en centres de cura d'infants fora de l'horari escolar (abans o després de l'horari escolar, encara que sigui dins del mateix centre)	Número de horas en una semana normal que ha sido cuidado en centros de cuidado de niños fuera del horario escolar (antes o después del horario escolar, aunque sea dentro del mismo centro)	Number of hours in a normal week that he/she was looked after in childcare centres outside of school hours (before or after school hours, including in the same school)			No aplicable (N.A.) (ya que no tiene la edad para ser admitida en estos centros o cursa estudios primarios o tiene más de 12 años)	Not applicable (N/A) (because he/she is not old enough to be admitted to these centres, is in primary school or is over 12 years old)
+RL030_F	Variable que indica si RL030 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si RL030 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if RL030 is complete, if it is missing or if it is not applicable in the record in question.				
+RL030_F				1	Variable completada	Variable completada	Variable completed
+RL030_F				96	N.A. (la persona no està en educació infantil ni primària, o té més de 12 anys	N.A. (la persona no está en educación infantil, ni primaria, o tiene más de 12 años)	N/A (the person is not in early childhood or primary education or is over 12 years old)
+RL040	Nombre d'hores en una setmana normal que ha estat cuidat en altres centres de cura d'infants.	Número de horas en una semana normal que ha sido cuidado en otros centros de cuidado de niños.	Number of hours in a normal week that he/she was looked after in other childcare centres.				
+RL040_F	Variable que indica si RL040 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si RL040 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if RL040 is complete, if it is missing or if it is not applicable in the record in question.				
+RL040_F				1	Variable completada	Variable completada	Variable completed
+RL040_F				96	N.A. (la persona té més de 12 anys)	N.A. (la persona tiene más de 12 años)	N/A (the person is over 12 years old)
+RL040_F				97	No hi consta	No consta	No answer
+RL050	Nombre d'hores en una setmana normal que ha estat cuidat per cuidadors professionals remunerats a casa de l'infant o del cuidador (mainaderes, assistentes, etc.)	Número de horas en una semana normal que ha sido cuidado por cuidadores profesionales remunerados en casa del niño o del cuidador (niñeras, asistentas, etc.)	Number of hours in a normal week that he/she was looked after by paid professional caregivers at the child's or caregiver's home (babysitters, assistants, etc.)				
+RL050_F	Variable que indica si RL050 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si RL050 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if RL050 is complete, if it is missing or if it is not applicable in the record in question.				
+RL050_F				1	Variable completada	Variable completada	Variable completed
+RL050_F				96	N.A. (la persona té més de 12 anys)	N.A. (la persona tiene más de 12 años)	N/A (the person is over 12 years old)
+RL050_F				97	No hi consta	No consta	No answer
+RL060	Nombre d'hores en una setmana normal que ha estat cuidat per altres persones sense remunerar (avis, altres membres que no siguin els pares, altres familiars, amics, veïns, etc.)	Número de horas en una semana normal que ha sido cuidado por otras personas sin remunerar (abuelos, otros miembros que no sean los padres, otros parientes, amigos, vecinos, etc.)	Number of hours in a normal week that he/she was looked after by other unpaid people (grandparents, other members who are not the parents, other relatives, friends, neighbours, etc.)				
+RL060_F	Variable que indica si RL060 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si RL060 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if RL060 is complete, if it is missing or if it is not applicable in the record in question.				
+RL060_F				1	Variable completada	Variable completada	Variable completed
+RL060_F				96	N.A. (la persona té més de 12 anys)	N.A. (la persona tiene más de 12 años)	N/A (the person is over 12 years old)
+RL060_F				97	No hi consta	No consta	No answer
+RL070	Pes transversal per als infants (per a la cura d'infants)	Peso transversal para los niños (para el cuidado de niños)	Cross-sectional weight for children (for childcare)				
+RL070_F	Variable que indica si RL070 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si RL070 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if RL070 is complete, if it is missing or if it is not applicable in the record in question.				
+RL070_F				1	Variable completada	Variable completada	Variable completed
+RL070_F				96	N.A. (la persona té més de 12 anys en el moment de l'entrevista)	N.A. (la persona tiene más de 12 años en el momento de la entrevista)	N/A (the person is over 12 years old at the time of the interview)
+RCH010	Estat de salut del menor	Estado de salud del menor	Health of the child				
+RCH010				1	Molt bo	Muy bueno	Very good
+RCH010				2	Bo	Bueno	Good
+RCH010				3	Regular	Regular	Regular
+RCH010				4	Dolent	Malo	Bad
+RCH010				5	Molt dolent	Muy malo	Very bad
+RCH010_F	Variable que indica si RCH010 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si RCH010 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if RCH010 is complete, if it is missing or if it is not applicable in the record in question.				
+RCH010_F				1	Variable completada	Variable completada	Variable completed
+RCH010_F				96	N.A.	N.A.	N/A
+RCH010_F				97	No hi consta	No consta	No answer
+RCH020	Limitació en les activitats que els nens fan habitualment	Limitación en las actividades que los niños hacen habitualmente	Limitations affecting the children’s regular activities				
+RCH020				1	Greument limitat	Gravemente limitado	Severely limited
+RCH020				2	Limitat però no greument	Limitado pero no gravemente	Limited but not severely
+RCH020				3	Gens limitat	Nada limitado	Not limited
+RCH020_F	Variable que indica si RCH020 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si RCH020 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if RCH020 is complete, if it is missing or if it is not applicable in the record in question.				
+RCH020_F				1	Variable completada	Variable completada	Variable completed
+RCH020_F				96	N.A.	N.A.	N/A
+RCH020_F				97	No hi consta	No consta	No answer
+RK050	Si el menor té una habitació fixa on dormi, amb llit propi	Si el menor tiene una habitación fija en la que duerma, con cama propia	If the child has a fixed bedroom with their own bed				
+RK050				1	Sí	Sí	Yes
+RK050				2	No, perquè la llar no s'ho pot permetre	No, porque el hogar no puede permitírselo	No, because the household couldn't afford it
+RK050				3	No, per altres raons	No, por otras razones	No, for other reasons
+RK050_F	Variable que indica si RK050 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si RK050 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if RK050 is complete, if it is missing or if it is not applicable in the record in question.				
+RK050_F				1	Variable completada	Variable completada	Variable completed
+RK050_F				96	No aplicable (persona de 18 anys o més)	No aplicable (persona de 18 o más años)	Not applicable (person over 18 years old)
+RK050_F				97	No hi consta	No consta	No answer
+RK060	Durant els darrers 12 mesos, amb quina freqüència passa temps amb el seu fill/a quan aquest és present?	Durante los últimos 12 meses ¿con qué frecuencia pasa tiempo con su hijo/a cuando éste está presente?	During the last 12 months, how often do you spend time with your child when they are present?				
+RK060				1	Dos o més cops al dia	Dos o más veces al día	Two or more times a day
+RK060				2	Una vegada al dia	Una vez al día	Once a day
+RK060				3	Cada setmana, però no cada dia	Todas las semanas, pero no todos los días	Every week, but not every day
+RK060				4	Diverses vegades al mes, però no cada setmana	Varias veces al mes, pero no todas las semanas	Several times a month, but not every week
+RK060				5	Una vegada al dia	Una vez al mes 	Once a month
+RK060				6	Menys d´una vegada al mes	Menos de una vez al mes	Less than once a month
+RK060				7	Mai	Nunca	Never
+RK060_F	Variable que indica si RK060 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si RK060 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if RK060 is complete, if it is missing or if it is not applicable in the record in question.				
+RK060_F				1	Variable completada	Variable completada	Variable completed
+RK060_F				96	No aplicable (persona de 18 anys o més)	No aplicable (persona de 18 o más años)	Not applicable (person over 18 years old)
+RK060_F				97	No hi consta	No consta	No answer
+RK070	Durant un mes normal quantes nits dorm el seu fill/a en aquest habitatge?	Durante un mes normal ¿cuántas noches duerme su hijo/a en esta vivienda?	How many nights does your child sleep in this property during a typical month?				
+RK070_F	Variable que indica si RK070 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si RK070 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if RK070 is complete, if it is missing or if it is not applicable in the record in question.				
+RK070_F				1	Variable completada	Variable completada	Variable completed
+RK070_F				96	No aplicable (persona de 18 anys o més, o menor amb ambdós pares membres de la llar)	No aplicable (persona de 18 o más años, o menor con ambos padres miembros del hogar)	Not applicable (person over 18 years old or child with both parents in the household)
+RK070_F				97	No hi consta	No consta	No answer
+RK080	Qui té la custòdia del fill/a?	¿Quién tiene la custodia de su hijo/a?	Who has custody of the child?				#N/D
+RK080				1	Exclusivament la mare	Exclusivamente la madre	Exclusively the mother
+RK080				2	Exclusivament el pare	Exclusivamente el padre	Exclusively the father
+RK080				3	Custòdia compartida	Custodia compartida	Shared custody
+RK080				4	Custòdia exercida per un tercer	Custodia ejercida por un tercero	Custody granted to third party
+RK080_F	Variable que indica si RK080 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si RK080 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if RK080 is complete, if it is missing or if it is not applicable in the record in question.				
+RK080_F				1	Variable completada	Variable completada	Variable completed
+RK080_F				96	No aplicable (persona de 18 anys o més, o menor amb ambdós pares membres de la llar)	No aplicable (persona de 18 o más años, o menor con ambos padres miembros del hogar)	Not applicable (person over 18 years old or child with both parents in the household)
+RK080_F				97	No hi consta	No consta	No answer
+VRLOWJOB	Persones en llars sense feina o amb baixa intensitat a la feina	Personas en hogares sin empleo o con baja intensidad en el empleo	People in households without work or with low work intensity				
+VRLOWJOB				0	No	No	No
+VRLOWJOB				1	Sí	Sí	Yes
+VRLOWJOB				9	N.A.	N.A.	N/A
+VREU2020	Persones en risc de pobresa o exclusió social (estratègia Europa 2020). Calculat d'acord amb la distribució d'ingressos de la població a Espanya	Personas en riesgo de pobreza o exclusión social (estrategia Europa 2020). Calculado de acuerdo con la distribución de ingresos de la población en España	People at risk of poverty or social exclusion (Europe 2020 strategy). Calculated according to the income distribution of the population in Spain				
+VREU2020				0	No	No	No
+VREU2020				1	Sí	Sí	Yes
+VRMATSOCDEP	Persones en carència material i social severa	Personas en carencia material y social severa	Persons suffering severe material and social deprivation				
+VRMATSOCDEP				0	No	No	No
+VRMATSOCDEP				1	Sí	Sí	Yes
+VRLOWJOB_N	Persones en llars sense feina o amb baixa intensitat a la feina	Personas en hogares sin empleo o con baja intensidad en el empleo	People in households without work or with low work intensity				
+VRLOWJOB_N				0	No	No	No
+VRLOWJOB_N				1	Sí	Sí	Yes
+VRLOWJOB_N				9	No aplicable	No aplicable	Not applicable
+VREU2020_N	Persones en risc de pobresa o exclusió social	Personas en riesgo de pobreza o exclusión social	People at risk of poverty or social exclusion				
+VREU2020_N				0	No	No	No
+VREU2020_N				1	Sí	Sí	Yes
+AROPE	Persones en risc de pobresa o exclusió social (Estratègia UE 2020). Calculat d'acord amb la distribució d'ingressos de la població a Catalunya	Personas en riesgo de pobreza o exclusión social (Estrategia UE 2020). Calculado de acuerdo con la distribución de ingresos de la población en Cataluña	People at risk of poverty or social exclusion (EU 2020 strategy). Calculated according to the income distribution of the population in Catalonia				
+AROPE				0	No	No	No
+AROPE				1	Sí	Sí	Yes
+AROPE_N	Persones en risc de pobresa o exclusió social (Objectiu Europa 2030). Calculat d'acord amb la distribució d'ingressos de la població a Catalunya	Personas en riesgo de pobreza o exclusión social (Objectiu UE 2030). Calculado de acuerdo con la distribución de ingresos de la población en Cataluña	People at risk of poverty or social exclusion (EU 2030 target). Calculated according to the income distribution of the population in Catalonia				
+AROPE_N				0	No	No	No
+AROPE_N				1	Sí	Sí	Yes

@@ -1,0 +1,50 @@
+Variable	DescrCA	DescrES	DescrEN	Valor_Value	LabelCA	LabelES	LabelEN
+RK010	Identificador del menor que no és membre de la llar (és l'identificador del pare/mare membre de la llar, seguit d'un seqüencial de dos dígits)	Identificador del menor que no es miembro del hogar (es el identificador de su padre/madre miembro del hogar, seguido de un secuencial de dos dígitos)	Identifier of the child who is not a household member (identifier of the parent household member, followed by two digits)				
+RK020	Edat del fill/a	Edad del hijo/hija	Age of child				
+RK020_F	Variable que indica si RK020 està completa, si falta o si no és aplicable al registre en qüestió.	Variable que indica si la variable RK020 esta completa, falta o simplemente no es aplicable en el registro en cuestión.	Variable that indicates if RK020 is complete, if it is missing or if it is not applicable in the record in question.				
+RK020_F				1	Variable completada	Variable completada	Variable completed
+RK020_F				97	No hi consta	No consta	No answer
+RK030	Quant de temps triga a anar des de casa seva fins a la llar on resideix el seu fill/a?	¿Cuánto tiempo tarda en ir desde su vivienda hasta el hogar en el que reside su hijo/a?	How long does it take you to get from your home to the household where your child resides?				
+RK030_F	Variable que indica si RK030 està completa, si falta o si no és aplicable al registre en qüestió.	Variable que indica si la variable RK030 esta completa, falta o simplemente no es aplicable en el registro en cuestión.	Variable that indicates if RK030 is complete, if it is missing or if it is not applicable in the record in question.				
+RK030_F				1	Variable completada	Variable completada	Variable completed
+RK030_F				97	No hi consta	No consta	No answer
+RK040	Durant els darrers 12 mesos, amb quina freqüència ha tingut contacte amb el seu fill/a a través del telèfon, xarxes socials, etc.?	Durante los últimos 12 meses ¿con qué frecuencia ha tenido contacto con su hijo/a a través del teléfono, redes sociales, etc.?	During the last 12 months, how often have you had contact with your child via telephone, social media, etc.?				
+RK040				1	Cada dia	Todos los días	Every day
+RK040				2	Cada setmana, però no cada dia	Todas las semanas, pero no todos los días	Every week, but not every day
+RK040				3	Diverses vegades al mes, però no cada setmana	Varias veces al mes, pero no todas las semanas	Several times a month, but not every week
+RK040				4	Un cop al mes	Una vez al mes	Once a month
+RK040				5	Menys d´una vegada al mes	Menos de una vez al mes	Less than once a month
+RK040				6	Mai	Nunca	Never
+RK040_F	Variable que indica si RK040 està completa, si falta o si no és aplicable al registre en qüestió.	Variable que indica si la variable RK040 esta completa, falta o simplemente no es aplicable en el registro en cuestión.	Variable that indicates if RK040 is complete, if it is missing or if it is not applicable in the record in question.				
+RK040_F				1	Variable completada	Variable completada	Variable completed
+RK040_F				97	No hi consta	No consta	No answer
+RK050	Si el menor té una habitació fixa on dormi, amb llit propi	Si el menor tiene una habitación fija en la que duerma, con cama propia	If the child has a fixed bedroom with their own bed				
+RK050				1	Sí	Si	Yes
+RK050				2	No, perquè la llar no s'ho pot permetre	No, porque el hogar no puede permitírselo	No, because the household couldn't afford it
+RK050				3	No, per altres raons	No, por otras razones	No, for other reasons
+RK050_F	Variable que indica si RK050 està completa, si falta o si no és aplicable al registre en qüestió.	Variable que indica si la variable RK050 esta completa, falta o simplemente no es aplicable en el registro en cuestión.	Variable that indicates if RK050 is complete, if it is missing or if it is not applicable in the record in question.				
+RK050_F				1	Variable completada	Variable completada	Variable completed
+RK050_F				97	No hi consta	No consta	No answer
+RK060	Durant els darrers 12 mesos, amb quina freqüència passa temps amb el seu fill/a quan aquest és present?	Durante los últimos 12 meses ¿con qué frecuencia pasa tiempo con su hijo/a cuando éste está presente?	During the last 12 months, how often do you spend time with your child when they are present?				
+RK060				1	Dos o més cops al dia	Dos o más veces al día	Two or more times a day
+RK060				2	Una vegada al dia	Una vez al día	Once a day
+RK060				3	Cada setmana, però no cada dia	Todas las semanas, pero no todos los días	Every week, but not every day
+RK060				4	Diverses vegades al mes, però no cada setmana	Varias veces al mes, pero no todas las semanas	Several times a month, but not every week
+RK060				5	Una vegada al dia	Una vez al mes 	Once a month
+RK060				6	Menys d´una vegada al mes	Menos de una vez al mes	Less than once a month
+RK060				7	Mai	Nunca	Never
+RK060_F	Variable que indica si RK060 està completa, si falta o si no és aplicable al registre en qüestió.	Variable que indica si la variable RK060 esta completa, falta o simplemente no es aplicable en el registro en cuestión.	Variable that indicates if RK060 is complete, if it is missing or if it is not applicable in the record in question.				
+RK060_F				1	Variable completada	Variable completada	Variable completed
+RK060_F				97	No hi consta	No consta	No answer
+RK070	Durant un mes normal quantes nits dorm el seu fill/a en aquest habitatge?	Durante un mes normal ¿cuántas noches duerme su hijo/a en esta vivienda?	How many nights does your child sleep in this property during a typical month?				
+RK070_F	Variable que indica si RK070 està completa, si falta o si no és aplicable al registre en qüestió.	Variable que indica si la variable RK070 esta completa, falta o simplemente no es aplicable en el registro en cuestión.	Variable that indicates if RK070 is complete, if it is missing or if it is not applicable in the record in question.				
+RK070_F				1	Variable completada	Variable completada	Variable completed
+RK070_F				97	No hi consta	No consta	No answer
+RK080	Qui té la custòdia del fill/a?	¿Quién tiene la custodia de su hijo/a?	Who has custody of the child?				
+RK080				1	Exclusivament la mare	Exclusivamente la madre	Exclusively the mother
+RK080				2	Exclusivament el pare	Exclusivamente el padre	Exclusively the father
+RK080				3	Custòdia compartida	Custodia compartida	Shared custody
+RK080				4	Custòdia exercida per un tercer	Custodia ejercida por un tercero	Custody granted to third party
+RK080_F	Variable que indica si RK080 està completa, si falta o si no és aplicable al registre en qüestió.	Variable que indica si la variable RK080 esta completa, falta o simplemente no es aplicable en el registro en cuestión.	Variable that indicates if RK080 is complete, if it is missing or if it is not applicable in the record in question.				
+RK080_F				1	Variable completada	Variable completada	Variable completed
+RK080_F				97	No hi consta	No consta	No answer
