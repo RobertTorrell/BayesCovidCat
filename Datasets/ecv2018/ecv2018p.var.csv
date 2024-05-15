@@ -1,0 +1,1372 @@
+Variable	DescrCA	DescrES	DescrEN	Valor_Value	LabelCA	LabelES	LabelEN
+PB010	Any de l'enquesta	Año de la encuesta	Survey year				
+PB020	País	País	Country				
+PB020				ES	Codi del país	Código de país	Country code
+PB030 	Identificació transversal de la persona	Identificación transversal de la persona	Cross-sectional person identification				
+PB040	Factor de ponderació personal transversal multiplicat per 100.000 (tots els membres de la llar de 16 anys o més) (factor de ponderació = PB040 / 100.000)	Factor de ponderación personal transversal multiplicado por 100.000 (todos los miembros del hogar de 16 años o más) (factor de ponderación = PB040 / 100.000)	Cross-sectional personal weighting factor multiplied by 100,000 (all household members aged 16 and over) (weighting factor = PB040 / 100,000)				
+PB040_F 				1	Variable completada	Variable completada	Variable completed
+PB100	Mes de l'entrevista	Mes de la entrevista	Month of the interview				
+PB100				01	Gener	Enero	January
+PB100				02	Febrer	Febrero	February
+PB100				03	Març	Marzo	March
+PB100				04	Abril	Abril	April
+PB100				05	Maig	Mayo	May
+PB100				06	Juny	Junio	June
+PB100				07	Juliol	Julio	July
+PB100				08	Agost	Agosto	August
+PB100				09	Setembre	Septiembre	September
+PB100				10	Octubre	Octubre	October
+PB100				11	Novembre	Noviembre	November
+PB100				12	Desembre	Diciembre	December
+PB100_F	Variable que indica si PB100 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PB100 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PB100 is complete, if it is missing or if it is not applicable in the record in question.				
+PB100_F				97	No hi consta	No consta	No answer
+PB100_F				01	Variable completada	Variable completada	Variable completed
+PB110 	Any de l'entrevista	Año de la entrevista	Year of the interview				
+PB110_F	Variable que indica si PB110 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PB110 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PB110 is complete, if it is missing or if it is not applicable in the record in question.				
+PB110_F				97	No hi consta	No consta	No answer
+PB110_F				01	Variable completada	Variable completada	Variable completed
+PB120	Nombre de minuts emprats a emplenar el qüestionari sobre la llar	Número de minutos empleados en cumplimentar el cuestionario	Number of minutes taken to complete the household questionnaire				
+PB120_F 				97	No hi consta	No consta	No answer
+PB120_F 				01	Variable completada	Variable completada	Variable completed
+PB130	Mes de naixement	Mes de nacimiento	Month of birth				
+PB130				01	Gener	Enero	January
+PB130				02	Febrer	Febrero	February
+PB130				03	Març	Marzo	March
+PB130				04	Abril	Abril	April
+PB130				05	Maig	Mayo	May
+PB130				06	Juny	Junio	June
+PB130				07	Juliol	Julio	July
+PB130				08	Agost	Agosto	August
+PB130				09	Setembre	Septiembre	September
+PB130				10	Octubre	Octubre	October
+PB130				11	Novembre	Noviembre	November
+PB130				12	Desembre	Diciembre	December
+PB130_F 				97	No hi consta	No consta	No answer
+PB130_F 				01	Variable completada	Variable completada	Variable completed
+PB140 	Any de naixement	Año de nacimiento	Year of birth				
+PB140 				(PB010)-86	Persones de 85 anys o més	Personas de 85 o más años	People aged 85 or over
+PB140 				((PB010)-85) a PB010	Resta: Any de naixement	Resto: Año de nacimiento	Other: Year of birth
+PB140_F	Variable que indica si PB140 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PB140 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PB140 is complete, if it is missing or if it is not applicable in the record in question.				
+PB140_F				97	No hi consta	No consta	No answer
+PB140_F				01	Variable completada	Variable completada	Variable completed
+PB150 	Sexe	Sexo	Sex				
+PB150 				1	Home	Varón	Man
+PB150 				2	Dona	Mujer	Woman
+PB150_F 				97	No hi consta	No consta	No answer
+PB150_F 				01	Variable completada	Variable completada	Variable completed
+PB160 	Identificació del pare	Identificación del padre	Identification of the father				
+PB160_F 				96	El pare no és membre de la llar o no té pare	El padre no es miembro del hogar o no tiene padre	The father is not a member of the household or he/she has no father
+PB160_F 				97	No hi consta	No consta	No answer
+PB160_F 				01	Variable completada	Variable completada	Variable completed
+PB170 	Identificació de la mare	Identificación de la madre	Identification of the mother				
+PB170_F	Variable que indica si PB170 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PB170 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PB170 is complete, if it is missing or if it is not applicable in the record in question.				
+PB170_F				96	La mare no és membre de la llar o no té mare	La madre no es miembro del hogar o no tiene madre	The mother is not a member of the household or he/she has no mother
+PB170_F				97	No hi consta	No consta	No answer
+PB170_F				01	Variable completada	Variable completada	Variable completed
+PB180 	Identificació del cònjugue/parella	Identificación del cónyuge/pareja	Identification of spouse/partner				
+PB180_F 				96	No té cònjuge o parella o no és membre de la llar	No tiene cónyuge o pareja o ésta no es miembro del hogar	He/she has no spouse or partner or he/she is not a member of the household
+PB180_F 				97	No hi consta	No consta	No answer
+PB180_F 				01	Variable completada	Variable completada	Variable completed
+PB190 	Estat civil	Estado civil	Marital status				
+PB190 				1	Solter	Soltero	Single
+PB190 				2	Casat	Casado	Married
+PB190 				3	Separat	Separado	Separate
+PB190 				4	Vidu	Viudo	Widower
+PB190 				5	Divorciat	Divorciado	Divorced
+PB190_F 				97	No hi consta	No consta	No answer
+PB190_F 				01	Variable completada	Variable completada	Variable completed
+PB200 	Cònjugue o parella de fet	Cónyuge o pareja de hecho	Spouse or common-law partner				
+PB200 				1	Sí, amb base jurídica	Sí, con base jurídica	Yes, with a legal basis
+PB200 				2	Sí, sense base jurídica	Sí, sin base jurídica	Yes, without a legal basis
+PB200 				3	No	No	No
+PB200_F 				97	No hi consta	No consta	No answer
+PB200_F 				01	Variable completada	Variable completada	Variable completed
+PB210 	País de naixement	País de nacimiento	Country of birth				
+PB210 				1	Espanya	España	Spain
+PB210 				2	Estranger (resta de la Unió Europea – UE-28)	Extranjero (resto de la Unión Europea – UE-28) 	Foreigner (rest of the European Union - EU-28)
+PB210 				3	Estranger (resta del món)	Extranjero (resto del mundo)	Foreigner (rest of the world)
+PB210_F	Variable que indica si PB210 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PB210 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PB210 is complete, if it is missing or if it is not applicable in the record in question.				
+PB210_F				97	No hi consta	No consta	No answer
+PB210_F				01	Variable completada	Variable completada	Variable completed
+PB220A 	Nacionalitat	Nacionalidad	Nationality				
+PB220A 				1	Espanya	España	Spain
+PB220A 				2	Estranger (resta de la Unió Europea – UE-28)	Extranjero (resto de la Unión Europea – UE-28) 	Foreigner (rest of the European Union - EU-28)
+PB220A 				3	Estranger (resta del món)	Extranjero (resto del mundo)	Foreigner (rest of the world)
+PB220A_F	Variable que indica si PB220A està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PB220A está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PB220A is complete, if it is missing or if it is not applicable in the record in question.				
+PB220A_F				97	No hi consta	No consta	No answer
+PB220A_F				01	Variable completada	Variable completada	Variable completed
+PE010 	Actualment està cursant algun tipus d'estudis o de formació?	¿Está cursando actualmente algún tipo de estudios o de formación?	Are you currently studying or training?				
+PE010 				1	Sí	Sí	Yes
+PE010 				2	No	No	No
+PE010_F	Variable que indica si PE010 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PE010 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PE010 is complete, if it is missing or if it is not applicable in the record in question.				
+PE010_F				97	No hi consta	No consta	No answer
+PE010_F				01	Variable completada	Variable completada	Variable completed
+PE020	Nivell d'estudis que està cursant	Nivel de los estudios que está realizando	Level of education he/she is studying				
+PE020				00	Menys que primària	Menos que primaria	Less than primary
+PE020				10	Educació primària	Educación primaria	Primary education
+PE020				20	Primera etapa d'educació secundària	Primera etapa de educación secundaria	First stage of secondary education
+PE020				30	Segona etapa d'educació secundària	Segunda etapa de educación secundaria	Second stage of secondary education
+PE020				34	Per a persones d'entre 16 i 34 anys: Orientació general	Para personas de 16 a 34 años: Orientación general 	For people aged 16 to 34: General guidance
+PE020				35	Per a persones d'entre 16 i 34 anys: Orientació professional	Para personas de 16 a 34 años: Orientación profesional 	For people aged 16 to 34: Career guidance
+PE020				40	Educació postsecundària no superior	Educación postsecundaria no superior	Non-higher post-secondary education
+PE020				45	Per a persones d'entre 16 i 34 anys: Orientació professional	Para personas de 16 a 34 años: Orientación profesional 	For people aged 16 to 34: Career guidance
+PE020				50	Per a persones d'entre 16 i 34 anys: Educació superior	Para personas de 16 a 34 años: Educación superior	For people aged 16 to 34: Higher education
+PE020_F	Variable que indica si PE020 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PE020 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PE020 is complete, if it is missing or if it is not applicable in the record in question.				
+PE020_F				96	NA (si PE010 ≠ 1)	NA (si PE010 ≠ 1)	NA (if PE010 ≠ 1)
+PE020_F				97	No hi consta	No consta	No answer
+PE020_F				01	Variable completada	Variable completada	Variable completed
+PE030	Any en què va aconseguir el nivell més elevat d'educació	Año en que se consiguió el nivel más elevado de educación	Year in which he/she reached his/her highest level of education				
+PE030_F	Variable que indica si PE030 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PE030 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PE030 is complete, if it is missing or if it is not applicable in the record in question.				
+PE030_F				96	NA (si PE040 = 000)	NA (si PE040 = 000)	NA (if PE040 = 000)
+PE030_F				97	No hi consta	No consta	No answer
+PE030_F				01	Variable completada	Variable completada	Variable completed
+PE040	Nivell dels estudis finalitzats	Nivel de los estudios terminados 	Level of studies completed				
+PE040				000	Menys que primària	Menos que primaria	Less than primary
+PE040				100	Educació primària	Educación primaria	Primary education
+PE040				200	Primera etapa d'educació secundària	Primera etapa de educación secundaria	First stage of secondary education
+PE040				300	Segona etapa d'educació secundària	Segunda etapa de educación secundaria	Second stage of secondary education
+PE040				344	Per a persones d'entre 16 i 34 anys: Orientació general	Para personas de 16 a 34 años: Orientación general 	For people aged 16 to 34: General guidance
+PE040				353	Per a persones d'entre 16 i 34 anys: Orientació professional (sense accés directe a educació superior)	Para personas de 16 a 34 años: Orientación profesional (sin acceso directo a educación superior) 	For people aged 16 to 34: Career guidance (without direct access to higher education)
+PE040				354	Per a persones d'entre 16 i 34 anys: Orientació professional (amb accés directe a educació superior)	Para personas de 16 a 34 años: Orientación profesional (con acceso directo a educación superior)	For people aged 16 to 34: Career guidance (with direct access to higher education)
+PE040				400	Educació postsecundària no superior	Educación postsecundaria no superior	Non-higher post-secondary education
+PE040				450	Per a persones d'entre 16 i 34 anys: Orientació professional	Para personas de 16 a 34 años: Orientación profesional 	For people aged 16 to 34: Career guidance
+PE040				500	Per a persones d'entre 16 i 34 anys: Educació superior	Para personas de 16 a 34 años: Educación superior	For people aged 16 to 34: Higher education
+PE040_F	Variable que indica si PE040 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PE040 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PE040 is complete, if it is missing or if it is not applicable in the record in question.				
+PE040_F				97	No hi consta	No consta	No answer
+PE040_F				1	Variable completada	Variable completada	Variable completed
+PL031 	Situació en relació amb l'activitat definida per l'interessat (2a classificació)	Situación en relación con la actividad definida por el interesado (2ª clasificación)	Situation in relation to the activity defined by the interested party (2nd classification)				
+PL031 				01	Assalariat a temps complet	Asalariado a tiempo completo	Full-time employee
+PL031 				02	Assalariat a temps parcial	Asalariado a tiempo parcial	Part-time employee
+PL031 				03	Treballador per compte propi a temps complet	Trabajador por cuenta propia a tiempo completo	Full-time self-employed worker 
+PL031 				04	Treballador per compte propi a temps parcial	Trabajador por cuenta propia a tiempo parcial	Part-time self-employed worker
+PL031 				05	Aturat	Parado	Unemployed
+PL031 				06	Estudiant, escolar o en formació	Estudiante, escolar o en formación	Student, school pupil or trainee
+PL031 				07	Jubilat, retirat, jubilat anticipat o ha tancat un negoci	Jubilado, retirado, jubilado anticipado o ha cerrado un negocio	Retired, early retired or has closed a business
+PL031 				08	Incapacitat permanent per treballar	Incapacitado permanente para trabajar	Permanent incapacity to work
+PL031 				09	Servei militar obligatori o prestació social substitutòria	Servicio militar obligatorio o prestación social sustitutoria	Compulsory military service or substitute social service
+PL031 				10	Dedicat a les feines de la llar, a la cura de nens o altres persones	Dedicado a las labores del hogar, al cuidado de niños u otras personas	Dedicated to homemaking or caring for children or other people
+PL031 				11	Una altra classe d'inactivitat econòmica	Otra clase de inactividad económica	Other class of economic inactivity
+PL031_F	Variable que indica si PL031 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PL031 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PL031 is complete, if it is missing or if it is not applicable in the record in question.				
+PL031_F				97	No hi consta	No consta	No answer
+PL031_F				01	Variable completada	Variable completada	Variable completed
+PL015 	Ha treballat algua vegada?	¿Ha trabajado alguna vez?	Have you ever worked?				
+PL015 				1	Sí	Sí	Yes
+PL015 				2	No	No	No
+PL015_F	Variable que indica si PL015 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PL015 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PL015 is complete, if it is missing or if it is not applicable in the record in question.				
+PL015_F				96	NA (si PL031 ≠ 1 o 2 o 3 o 4)	NA (si PL031 ≠ 1 o 2 o 3 o 4)	NA (if PL031 ≠ 1 or 2 or 3 or 4)
+PL015_F				97	No hi consta	No consta	No answer
+PL015_F				01	Variable completada	Variable completada	Variable completed
+PL020 	Va buscar una feina activament durant les 4 setmanes anteriors?	¿Buscó un trabajo activamente durante las 4 semanas anteriores?	Have you been actively looking for a job for the last 4 weeks?				
+PL020 				1	Sí	Sí	Yes
+PL020 				2	No	No	No
+PL020_F	Variable que indica si PL020 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PL020 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PL020 is complete, if it is missing or if it is not applicable in the record in question.				
+PL020_F				96	NA (si PL031 = 1 o 2 o 3 o 4)	NA (si PL031 = 1 o 2 o 3 o 4)	NA (if PL031 = 1 or 2 or 3 or 4)
+PL020_F				97	No hi consta	No consta	No answer
+PL020_F				01	Variable completada	Variable completada	Variable completed
+PL025	Està disponible per treballar en les properes 2 setmanes?	¿Está disponible para trabajar en las próximas 2 semanas?	Are you available to work in the next 2 weeks?				
+PL025				1	Sí	Sí	Yes
+PL025				2	No	No	No
+PL025_F	Variable que indica si PL025 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PL025 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PL025 is complete, if it is missing or if it is not applicable in the record in question.				
+PL025_F				96	NA (si PL020 = 2)	NA (si PL020 = 2)	NA (if PL020 = 2)
+PL025_F				97	No hi consta	No consta	No answer
+PL025_F				01	Variable completada	Variable completada	Variable completed
+PL040	Situació professional	Situación profesional	Professional situation				
+PL040				1	Ocupador	Empleador	Employer
+PL040				2	Empresari sense assalariats o treballador independent	Empresario sin asalariados o trabajador independiente	Sole trader
+PL040				3	Assalariat	Asalariado	Employee
+PL040				4	Ajuda familiar	Ayuda familiar	Domestic help
+PL040_F	Variable que indica si PL040 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PL040 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PL040 is complete, if it is missing or if it is not applicable in the record in question.				
+PL040_F				96	NA (Si PL031 ≠ 1 o 2 o 3 o 4 i PL015 ≠ 1)	NA (si PL031 ≠ 1 o 2 o 3 o 4 y PL015 ≠ 1)	NA (If PL031 ≠ 1 or 2 or 3 or 4 and PL015 ≠ 1)
+PL040_F				97	No hi consta	No consta	No answer
+PL040_F				01	Variable completada	Variable completada	Variable completed
+PL051 	Ocupació de la feina principal actual o de l'última feina principal	Ocupación del empleo principal actual o del último empleo principal	Occupation of current or last main job				
+PL051 				01	Oficials de les forces armades	Oficiales de las fuerzas armadas	Armed forces officers
+PL051 				02	Suboficials de les forces armades	Suboficiales de las fuerzas armadas	Non-commissioned officers in the armed forces
+PL051 				03	Altres membres de les forces armades	Otros miembros de las fuerzas armadas	Other members of the armed forces
+PL051 				11	Directors executius, personal directiu de l'administració pública i membres del poder executiu i dels cossos legislatius	Directores ejecutivos, personal directivo de la administración pública y miembros del poder ejecutivo y de los cuerpos legislativos	Executive directors, management personnel of the public administration and members of the executive branch and the legislature
+PL051 				12	Directors administratius i comercials	Directores administradores y comerciales	Administrative and commercial directors
+PL051 				13	Directors i gerents de producció i operacions	Directores y gerentes de producción y operaciones	Production and operations directors and managers
+PL051 				14	Gerents d'hotels, restaurants, comerços i altres serveis	Gerentes de hoteles, restaurantes, comercios y otros servicios	Managers of hotels, restaurants, shops and other services
+PL051 				15	Gerents de sistemes de comptabilitat	Gerentes de sistemas de contabilidad	Accounting system managers
+PL051 				21	Professionals de les ciències i de l'enginyeria	Profesionales de las ciencias y de la ingeniería	Science and engineering professionals
+PL051 				22	Professionals de la salut	Profesionales de la salud	Health professionals
+PL051 				23	Professionals de l'ensenyament	Profesionales de la enseñanza	Education professionals
+PL051 				24	Especialistes en organització de l'administració pública i empreses	Especialistas en organización de la administración pública y de empresas	Specialists in public administration and business organisation
+PL051 				25	Professionals de tecnologia de la informació i les comunicacions	Profesionales de tecnología de la información y las comunicaciones	Information and communication technology professionals
+PL051 				26	Professionals en dret, en ciències socials i culturals	Profesionales en derecho, en ciencias sociales y culturales	Professionals in law, social and cultural sciences
+PL051 				27	Professionals de HSEQ (SST)	Profesionales de HSEQ (SST)	HSEQ Professionals (HSW)
+PL051 				31	Professionals de les ciències i l'enginyeria de nivell mitjà	Profesionales de las ciencias y la ingeniería de nivel medio	Medium-level science and engineering professionals
+PL051 				32	Professionals de nivell mitjà de la salut	Profesionales de nivel medio de la salud	Medium-level health professionals
+PL051 				33	Professionals de nivell mitjà en operacions financeres i administratives	Profesionales de nivel medio en operaciones financieras y administrativas	Medium-level professionals in financial and administrative operations
+PL051 				34	Professionals de nivell mitjà de serveis jurídics, socials, culturals i afins	Profesionales de nivel medio de servicios jurídicos, sociales, culturales y afines	Medium-level professionals in legal, social, cultural and related services
+PL051 				35	Tècnics de la tecnologia de la informació i les comunicacions	Técnicos de la tecnología de la información y las comunicaciones	Information and communication technology technicians
+PL051 				41	Oficinistes	Oficinistas	Office workers
+PL051 				42	Empleats en tracte directe amb el públic	Empleados en trato directo con el público	Employees in direct contact with the public
+PL051 				43	Empleats comptables i encarregats del registre de materials	Empleados contables y encargados del registro de materiales	Accounting employees and persons responsible for registering materials
+PL051 				44	Altre personal de suport administratiu	Otro personal de apoyo administrativo	Other administrative support staff
+PL051 				51	Treballadors dels serveis personals	Trabajadores de los servicios personales	Personal service workers
+PL051 				52	Venedors	Vendedores	Seller
+PL051 				53	Treballadors de les cures personals	Trabajadores de los cuidados personales	Personal care workers
+PL051 				54	Personal dels serveis de protecció	Personal de los servicios de protección	Protection services staff
+PL051 				61	Agricultors i treballadors qualificats d'explotacions agropecuàries amb destinació al mercat	Agricultores y trabajadores calificados de explotaciones agropecuarias con destino al mercado	Farmers and skilled workers on farms producing for the market
+PL051 				62	Treballadors forestals qualificats, pescadors i caçadors	Trabajadores forestales calificados, pescadores y cazadores	Skilled forestry workers, fishermen and hunters
+PL051 				63	Treballadors agropecuaris, pescadors, caçadors i recol·lectors de subsistència	Trabajadores agropecuarios, pescadores, cazadores y recolectores de subsistencia	Farmworkers, fishermen, hunters and subsistence gatherers
+PL051 				64	Treballadors de suports i assessors rurals	Trabajadores de apoyos y asesores rurales	Support workers and rural advisers
+PL051 				71	Oficials i operaris de la construcció excloent-ne electricistes	Oficiales y operarios de la construcción excluyendo electricistas	Construction skilled workers and operators excluding electricians
+PL051 				72	Oficials i operaris de la metal·lúrgia, la construcció mecànica i afins	Oficiales y operarios de la metalurgia, la construcción mecánica y afines	Skilled workers and operators in metallurgy, mechanical construction and the like
+PL051 				73	Artesans i operaris de les arts gràfiques	Artesanos y operarios de las artes gráficas	Graphic arts craftspeople and operators
+PL051 				74	Treballadors especialitzats en electricitat i electrotecnologia	Trabajadores especializados en electricidad y la electrotecnología	Workers specialised in electricity and electrotechnology
+PL051 				75	Operaris i oficials de processament d'aliments, de la confecció, ebenistes, altres artesans i afins	Operarios y oficiales de procesamiento de alimentos, de la confección, ebanistas, otros artesanos y afines	Skilled workers and operators in food processing, clothing industry, cabinetmakers, other craftspeople and the like
+PL051 				81	Operadors d'instal·lacions fixes i màquines	Operadores de instalaciones fijas y máquinas	Operators of fixed installations and machines
+PL051 				82	Assembladors	Ensambladores	Assemblers
+PL051 				83	Conductors de vehicles i operadors d'equips pesats mòbils	Conductores de vehículos y operadores de equipos pesados móviles	Drivers of vehicles and operators of mobile heavy equipment
+PL051 				91	Netejadors i assistents	Limpiadores y asistentes	Cleaners and assistants
+PL051 				92	Peons agropecuaris, pesquers i forestals	Peones agropecuarios, pesqueros y forestales	Agricultural, fishing and forestry workers
+PL051 				93	Peons de la mineria, la construcció, la indústria manufacturera i el transport	Peones de la minería, la construcción, la industria manufacturera y el transporte	Labourers in mining, construction, manufacturing and transport
+PL051 				94	Ajudants de preparació d'aliments	Ayudantes de preparación de alimentos	Food preparation assistants
+PL051 				95	Venedors ambulants de serveis i afins	Vendedores ambulantes de servicios y afines	Hawkers of services and the like
+PL051 				96	Recol·lectors de deixalles i altres ocupacions elementals	Recolectores de desechos y otras ocupaciones elementales	Rubbish collectors and other basic occupations
+PL051 				97	Feines d'ascensors	Trabajos de ascensores	Lift jobs
+PL051 				98	Treballs culinaris o professional d'art culinari	Trabajos culinarios o profesional de arte culinario	Culinary work or culinary art professional
+PL051_F	Variable que indica si PL051 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PL051 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PL051 is complete, if it is missing or if it is not applicable in the record in question.				
+PL051_F				96	NA (Si PL031 ≠ 1 o 2 o 3 o 4 i PL015 ≠ 1)	NA (si PL031 ≠ 1 o 2 o 3 o 4 y PL015 ≠ 1)	NA (If PL031 ≠ 1 or 2 or 3 or 4 and PL015 ≠ 1)
+PL051_F				97	No hi consta	No consta	No answer
+PL051_F				01	Variable completada	Variable completada	Variable completed
+PL060	Nombre d'hores treballades normalment per setmana a la feina principal	Número de horas trabajadas normalmente por semana en el trabajo principal	Number of hours worked normally per week in his/her main job				
+PL060_F 				90	El nombre d'hores varia (fins i tot no és possible calcular una mitjana per a 4 setmanes)	El número de horas varía (incluso no es posible calcular una media para 4 semanas)	The number of hours varies (it is not even possible to calculate an average for 4 weeks)
+PL060_F 				96	NA (si PL031 ≠ 1 o 2 o 3 o 4)	NA (si PL031 ≠ 1 o 2 o 3 o 4)	NA (if PL031 ≠ 1 or 2 or 3 or 4)
+PL060_F 				97	No hi consta	No consta	No answer
+PL060_F 				01	Variable completada	Variable completada	Variable completed
+PL073	Nombre de mesos en què va treballar com a assalariat a temps complet durant el període de referència de la renda	Número de meses en que trabajó como asalariado a tiempo completo durante el período de referencia de la renta	Number of months in which he/she worked as a full-time employee during the income reference period				
+PL073_F	Variable que indica si PL073 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PL073 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PL073 is complete, if it is missing or if it is not applicable in the record in question.				
+PL073_F				97	No hi consta	No consta	No answer
+PL073_F				01	Variable completada	Variable completada	Variable completed
+PL074	Nombre de mesos en què va treballar com a assalariat a temps parcial durant el període de referència de la renda	Número de meses en que trabajó como asalariado a tiempo parcial durante el período de referencia de la renta	Number of months in which he/she worked as a part-time employee during the income reference period				
+PL074_F	Variable que indica si PL074 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PL074 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PL074 is complete, if it is missing or if it is not applicable in the record in question.				
+PL074_F				97	No hi consta	No consta	No answer
+PL074_F				01	Variable completada	Variable completada	Variable completed
+PL075	Nombre de mesos que va treballar per compte propi a temps complet durant el període de referència de la renda	Número de meses en que trabajó por cuenta propia a tiempo completo durante el período de referencia de la renta	Number of months in which he/she was full-time self-employed during the income reference period				
+PL075_F	Variable que indica si PL075 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PL075 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PL075 is complete, if it is missing or if it is not applicable in the record in question.				
+PL075_F				97	No hi consta	No consta	No answer
+PL075_F				01	Variable completada	Variable completada	Variable completed
+PL076	Nombre de mesos que va treballar per compte propi a temps parcial durant el període de referència de la renda	Número de meses en que trabajó por cuenta propia a tiempo parcial durante el período de referencia de la renta	Number of months in which he/she was part-time self-employed during the income reference period				
+PL076_F	Variable que indica si PL076 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PL076 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PL076 is complete, if it is missing or if it is not applicable in the record in question.				
+PL076_F				97	No hi consta	No consta	No answer
+PL076_F				01	Variable completada	Variable completada	Variable completed
+PL080	Nombre de mesos en situació de desocupació durant el període de referència de la renda	Número de meses en situación de desempleo durante el período de referencia de la renta	Number of months unemployed during the income reference period				
+PL080_F	Variable que indica si PL080 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PL080 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PL080 is complete, if it is missing or if it is not applicable in the record in question.				
+PL080_F				97	No hi consta	No consta	No answer
+PL080_F				01	Variable completada	Variable completada	Variable completed
+PL085	Nombre de mesos jubilat durant el període de referència de la renda	Número de meses jubilado durante el período de referencia de la renta	Number of months retired during the income reference period				
+PL085_F	Variable que indica si PL085 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PL085 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PL085 is complete, if it is missing or if it is not applicable in the record in question.				
+PL085_F							
+PL085_F				97	No hi consta	No consta	No answer
+PL085_F				01	Variable completada	Variable completada	Variable completed
+PL086	Nombre de mesos com a incapacitat permanent per treballar durant el període de referència de la renda	Número de meses como incapacitado permanente para trabajar durante el período de referencia de la renta	Number of months with permanent incapacity to work during the income reference period				
+PL086_F	Variable que indica si PL086 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PL086 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PL086 is complete, if it is missing or if it is not applicable in the record in question.				
+PL086_F				97	No hi consta	No consta	No answer
+PL086_F				01	Variable completada	Variable completada	Variable completed
+PL087	Nombre de mesos en què ha estudiat durant el període de referència de la renda	Número de meses en los que ha estudiado durante el período de referencia de la renta	Number of months he/she studied during the income reference period				
+PL087_F	Variable que indica si PL087 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PL087 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PL087 is complete, if it is missing or if it is not applicable in the record in question.				
+PL087_F				97	No hi consta	No consta	No answer
+PL087_F				01	Variable completada	Variable completada	Variable completed
+PL089	Nombre de mesos dedicat a les feines de la llar, cura de nens, etc. durant el període de referència de la renda	Número de meses dedicado a las labores del hogar, cuidado de niños, etc. durante el período de referencia de la renta	Number of months spent as a homemaker, taking care of children, etc. during the income reference period				
+PL089_F	Variable que indica si PL089 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PL089 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PL089 is complete, if it is missing or if it is not applicable in the record in question.				
+PL089_F				97	No hi consta	No consta	No answer
+PL089_F				01	Variable completada	Variable completada	Variable completed
+PL090	Nombre de mesos en una altra classe d'inactivitat econòmica durant el període de referència de la renda	Número de meses en otra clase de inactividad económica durante el período de referencia de la renta	Number of months in another class of economic inactivity during the income reference period				
+PL090_F	Variable que indica si PL090 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PL090 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PL090 is complete, if it is missing or if it is not applicable in the record in question.				
+PL090_F				97	No hi consta	No consta	No answer
+PL090_F				01	Variable completada	Variable completada	Variable completed
+PL100	Nombre total d'hores treballades normalment al segon lloc de treball, tercer, etc.	Número total de horas normalmente trabajadas en el segundo puesto de trabajo, tercero, etc.	Total number of hours normally worked in the second, third job, etc.				
+PL100_F	Variable que indica si PL100 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PL100 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PL100 is complete, if it is missing or if it is not applicable in the record in question.				
+PL100_F				96	NA (la persona no té segona feina o PL031 ≠ 1 o 2 o 3 o 4)	NA (la persona no tiene segundo trabajo o PL031 ≠ 1 o 2 o 3 o 4)	NA (the person has no second job or PL031 ≠ 1 or 2 or 3 or 4)
+PL100_F				97	No hi consta	No consta	No answer
+PL100_F				01	Variable completada	Variable completada	Variable completed
+PL111A	Activitat de l'establiment del qual depèn o depenia laboralment	Actividad del establecimiento del que depende o dependía laboralmente	Activity of the establishment where he/she works or worked				
+PL111A				a	Agricultura, ramaderia, silvicultura i pesca	Agricultura, ganadería, silvicultura y pesca	Agriculture, livestock, forestry and fishing
+PL111A				b	Indústries extractives	Industrias extractivas	Extractive industries
+PL111A				c	Indústria manufacturera	Industria manufacturera	Manufacturing industry
+PL111A				d	Subministrament d'energia elèctrica, gas, etc.	Suministro de energía eléctrica, gas, etc. 	Electricity, gas, etc. supply.
+PL111A				e	Subministrament d'aigua. Gestió de residus	Suministro de agua. Gestión de residuos	Water supply. Waste management
+PL111A				f	Construccó	Construcción	Construction
+PL111A				g	Comerç, reparació de vehicles de motor	Comercio, reparación de vehículos de motor	Trade, motor vehicle repair
+PL111A				h	Transport i emmagatzematge	Transporte y almacenamiento	Transport and storage
+PL111A				i	Hostaleria	Hostelería	Hospitality industry
+PL111A				j	Informació i comunicacions	Información y comunicaciones	Information and communications
+PL111A				k	Activitats financeres i d'assegurances	Actividades financieras y de seguros	Financial and insurance activities
+PL111A				l	Activitats immobiliàries	Actividades inmobiliarias	Real estate activities
+PL111A				m	Activitats professionals, científiques i tècniques	Actividades profesionales, científicas y técnicas	Professional, scientific and technical activities
+PL111A				n	Activitats administratives i serveis auxiliars	Actividades administrativas y servicios auxiliares 	Administrative activities and auxiliary services
+PL111A				o	Administració pública i defensa. Seguretat Social	Administración pública y defensa. Seguridad Social 	Public administration and defence. Social Security
+PL111A				p	Educació	Educación 	Education
+PL111A				q	Activitats sanitàries i de serveis socials	Actividades sanitarias y de servicios sociales 	Health and social services activities
+PL111A				r	Activitats artístiques i recreatives	Actividades artísticas y recreativas 	Artistic and recreational activities
+PL111A				s	Altres serveis	Otros servicios 	Other services
+PL111A				t	Llars com a ocupadors de personal domèstic	Hogares como empleadores de personal doméstico 	Households as employers of domestic staff
+PL111A				u	Organismes extraterritorials, no hi consta	Organismos extraterritoriales, no consta	Extraterritorial bodies, not recorded
+PL111A_F	Variable que indica si PL111A està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PL111A está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PL111A is complete, if it is missing or if it is not applicable in the record in question.				
+PL111A_F				96	NA (si PL031 ≠ 1 o 2 o 3 o 4)	NA (si PL031 ≠ 1 o 2 o 3 o 4)	NA (if PL031 ≠ 1 or 2 or 3 or 4)
+PL111A_F				97	No hi consta	No consta	No answer
+PL111A_F				01	Variable completada	Variable completada	Variable completed
+PL120	Motiu per treballar menys de 30 hores (a la feina principal o en altres)	Motivo para trabajar menos de 30 horas (en trabajo principal o en otros)	Reason for working less than 30 hours (in the main job or others)				
+PL120				1	Estudis o formació	Estudios o formación	Studies or training
+PL120				2	Malaltia o discapacitat pròpia	Enfermedad o discapacidad propia	Own illness or disability
+PL120				3	Vol trobar una feina de més hores però no ho aconsegueix o en la feina actual no pot	Desea encontrar un trabajo de más horas pero no lo consigue o en el trabajo actual no puede	He/she wants to find a job with more hours but do not manage to, or he/she cannot in his/her current job
+PL120				4	No vol treballar més hores	No quiere trabajar más horas	He/she does not want to work more hours
+PL120				5	El nombre d'hores de totes les feines es considera una feina a temps complet	El número de horas de todos los trabajos se considera un trabajo a tiempo completo	The number of hours of all jobs is considered a full-time job
+PL120				6	Treball a la llar, cuidant nens o altres persones	Trabajo en el hogar, cuidando a niños o a otras personas	Homemaking, caring for children or other people
+PL120				7	Altres motius	Otros motivos	Other reasons
+PL120_F	Variable que indica si PL120 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PL120 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PL120 is complete, if it is missing or if it is not applicable in the record in question.				
+PL120_F				96	NA (si PL031 ≠ 1 o 2 o 3 o 4 o PL060 + PL100 no < 30)	NA (si PL031 ≠ 1 o 2 o 3 o 4 o PL060 + PL100 no < 30)	NA (if PL031 ≠ 1 or 2 or 3 or 4 or PL060 + PL100 no < 30)
+PL120_F				97	No hi consta	No consta	No answer
+PL120_F				01	Variable completada	Variable completada	Variable completed
+PL130	Nombre de persones que treballen a l'establiment	Número de personas que trabajan en el establecimiento	Number of people working in the establishment				
+PL130				01	1 persona	1 persona	1 person
+PL130				02	2 persones	2 personas	2 people
+PL130				03	3 persones	3 personas	3 people
+PL130				04	4 persones	4 personas	4 people
+PL130				05	5 persones	5 personas	5 people
+PL130				06	6 persones	6 personas	6 people
+PL130				07	7 persones	7 personas	7 people
+PL130				08	8 persones	8 personas	8 people
+PL130				09	9 persones	9 personas	9 people
+PL130				10	10 persones	10 personas	10 people
+PL130				11	11 a 19 persones	11 a 19 personas	11 to 19 people
+PL130				12	20 a 49 persones	20 a 49 personas	20 to 49 people
+PL130				13	50 persones o més	50 personas o más	50 or more people
+PL130				14	No ho sap, però menys d'11 persones	No sabe, pero menos de 11 personas	He/she does not know, but less than 11 people
+PL130				15	No ho sap, però més de 10 persones	No sabe, pero más de 10 personas	He/she does not know, but more than 10 people
+PL130_F	Variable que indica si PL130 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PL130 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PL130 is complete, if it is missing or if it is not applicable in the record in question.				
+PL130_F				96	NA (si PL031 ≠ 1 o 2 o 3 o 4)	NA (si PL031 ≠ 1 o 2 o 3 o 4)	NA (if PL031 ≠ 1 or 2 or 3 or 4)
+PL130_F				97	No hi consta	No consta	No answer
+PL130_F				01	Variable completada	Variable completada	Variable completed
+PL140	Tipus de contracte	Tipo de contrato	Type of contract				
+PL140				1	Contracte fix de durada indefinida	Contrato fijo de duración indefinida	Permanent contract
+PL140				2	Contracte temporal de durada determinada	Contrato temporal de duración determinada	Fixed-term temporary contract
+PL140_F	Variable que indica si PL140 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PL140 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PL140 is complete, if it is missing or if it is not applicable in the record in question.				
+PL140_F				96	NA (si PL040 ≠ 3)	NA (si PL040 ≠ 3)	NA (if PL040 ≠ 3)
+PL140_F				97	No hi consta	No consta	No answer
+PL140_F				01	Variable completada	Variable completada	Variable completed
+PL140_F				91	Sense contracte	Sin contrato	No contract
+PL150	Supervisa/supervisava o coordina/coordinava la feina d'algun empleat de l'empresa o organisme on treballa/treballava?	¿Supervisa/supervisaba o coordina/coordinaba el trabajo de algún empleado de la empresa u organismo en el que trabaja/trabajaba?	Do or did you supervise or do or did you coordinate the work of any employee of the company or organisation where you work/worked?				
+PL150				1	Sí	Sí	Yes
+PL150				2	No	No	No
+PL150_F	Variable que indica si PL150 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PL150 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PL150 is complete, if it is missing or if it is not applicable in the record in question.				
+PL150_F				96	NA (si PL040 ≠ 3)	NA (si PL040 ≠ 3)	NA (if PL040 ≠ 3)
+PL150_F				97	No hi consta	No consta	No answer
+PL150_F				01	Variable completada	Variable completada	Variable completed
+PL160	Ha canviat de feina en els darrers 12 mesos?	¿Ha cambiado de trabajo en los últimos 12 meses?	Have you changed jobs in the last 12 months?				
+PL160				1	Sí	Sí	Yes
+PL160				2	No	No	No
+PL160_F	Variable que indica si PL160 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PL160 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PL160 is complete, if it is missing or if it is not applicable in the record in question.				
+PL160_F				96	NA (si PL031 ≠ 1 o 2 o 3 o 4)	NA (si PL031 ≠ 1 o 2 o 3 o 4)	NA (if PL031 ≠ 1 or 2 or 3 or 4)
+PL160_F				97	No hi consta	No consta	No answer
+PL160_F				01	Variable completada	Variable completada	Variable completed
+PL170	Motiu del canvi	Motivo para el cambio	Reason for change				
+PL170				1	Aconseguir una feina millor o més adequada	Conseguir un trabajo mejor o más adecuado	To get a better or more suitable job
+PL170				2	Fi de contracte o ocupació temporal	Fin de contrato o empleo temporal	End of contract or temporary employment
+PL170				3	Obligat per causes empresarials (tancament, jubilació anticipada, excés d'empleats, etc.)	Obligado por causas empresariales (cierre, jubilación anticipada, exceso de empleados, etc.)	Forced to for business reasons (closure, early retirement, redundancy, etc.)
+PL170				4	Venda o tancament del negoci propi o familiar	Venta o cierre del negocio propio o familiar	Sale or closure of his/her own or family business
+PL170				5	Cura de fills i altres persones dependents	Cuidado de hijos y otras personas dependientes	Caring for children and other dependents
+PL170				6	Matrimoni o desplaçament a una altra zona a causa de la feina del company/a	Matrimonio o desplazamiento a otra zona debido al trabajo del compañero/a	Marriage or travelling to another area due to partner’s work
+PL170				7	Altres motius	Otros motivos	Other reasons
+PL170_F	Variable que indica si PL170 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PL170 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PL170 is complete, if it is missing or if it is not applicable in the record in question.				
+PL170_F				96	NA (si PL060 ≠ 1)	NA (si PL060 ≠ 1)	NA (if PL060 ≠ 1)
+PL170_F				97	No hi consta	No consta	No answer
+PL170_F				01	Variable completada	Variable completada	Variable completed
+PL180	Canvi més recent en la situació d'activitat de la persona	Cambio más reciente en la situación de actividad de la persona	Most recent change in the person's activity situation				
+PL180				01	Empleat/aturat	Empleado/parado	Employee/unemployed
+PL180				02	Empleat/jubilat	Empleado/jubilado	Employee/retired
+PL180				03	Empleat / una altra classe d'inactivitat	Empleado / otra clase de inactividad	Employee/other class of inactivity
+PL180				04	Aturat/empleat	Parado/empleado	Unemployed/employee
+PL180				05	Aturat/jubilat	Parado/jubilado	Unemployed/retired
+PL180				06	Aturat / un altre tipus d'inactivitat	Parado / otra clase de inactividad	Unemployed / other type of inactivity
+PL180				07	Jubilat/empleat	Jubilado/empleado	Retired/employee
+PL180				08	Jubilat/aturat	Jubilado/parado	Retired/unemployed
+PL180				09	Jubilat / un altre tipus d'inactivitat	Jubilado / otra clase de inactividad	Retired/other type of inactivity
+PL180				10	Una altra classe d'inactivitat / empleat	Otra clase de inactividad / empleado	Other class of inactivity / employee
+PL180				11	Una altra classe d'inactivitat / aturat	Otra clase de inactividad / parado	Other class of inactivity / unemployment
+PL180				12	Una altra classe d'inactivitat / jubilat	Otra clase de inactividad / jubilado	Other class of inactivity / retiree
+PL180_F	Variable que indica si PL180 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PL180 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PL180 is complete, if it is missing or if it is not applicable in the record in question.				
+PL180_F				96	NA (cap canvi des de l'any passat)	NA (ningún cambio desde el año pasado)	NA (no change since last year)
+PL180_F				97	No hi consta	No consta	No answer
+PL180_F				01	Variable completada	Variable completada	Variable completed
+PL190	A quina edat va començar a treballar regularment?	¿A qué edad empezó a trabajar regularmente?	At what age did you start working regularly?				
+PL190_F	Variable que indica si PL190 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PL190 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PL190 is complete, if it is missing or if it is not applicable in the record in question.				
+PL190_F				96	NA (no ha treballat mai)	NA (no ha trabajado nunca)	NA (never worked)
+PL190_F				97	No hi consta	No consta	No answer
+PL190_F				01	Variable completada	Variable completada	Variable completed
+PL200	Nombre d'anys passats a la feina remunerada	Número de años pasados en trabajo remunerado	Number of years spent in paid work				
+PL200_F	Variable que indica si PL200 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PL200 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PL200 is complete, if it is missing or if it is not applicable in the record in question.				
+PL200_F				96	NA (no ha treballat mai)	NA (no ha trabajado nunca)	NA (never worked)
+PL200_F				97	No hi consta	No consta	No answer
+PL200_F				01	Variable completada	Variable completada	Variable completed
+PL211A	Activitat principal a gener	Actividad principal en enero	Main activity in January				
+PL211A				01	Assalariat (temps complet)	Asalariado (tiempo completo)	Employee (full-time)
+PL211A				02	Assalariat (temps parcial)	Asalariado (tiempo parcial)	Employee (part-time)
+PL211A				03	Treballador per compte propi (temps complet)	Trabajador por cuenta propia (tiempo completo)	Self-employed worker (full time)
+PL211A				04	Treballador per compte propi (temps parcial)	Trabajador por cuenta propia (tiempo parcial)	Self-employed worker (part-time)
+PL211A				05	Aturat	Parado	Unemployed
+PL211A				06	Estudiant, escolar o en formació	Estudiante, escolar o en formación	Student, school pupil or trainee
+PL211A				07	Jubilat o retirat	Jubilado o retirado	Retired
+PL211A				08	Incapacitat permanent per treballar	Incapacitado permanente para trabajar	Permanent incapacity to work
+PL211A				10	Dedicat a les feines de la llar, cura de nens, etc.	Dedicado a las labores del hogar, cuidado de niños, etc.	Dedicated to homemaking, caring for children, etc.
+PL211A				11	Un altre tipus d'inactivitat econòmica	Otro tipo de inactividad económica	Other type of economic inactivity
+PL211A_F	Variable que indica si PL211A està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PL211A está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PL211A is complete, if it is missing or if it is not applicable in the record in question.				
+PL211A_F				97	No hi consta	No consta	No answer
+PL211A_F				01	Variable completada	Variable completada	Variable completed
+PL211B	Activitat principal a febrer	Actividad principal en febrero	Main activity in February				
+PL211B				01	Assalariat (temps complet)	Asalariado (tiempo completo)	Employee (full-time)
+PL211B				02	Assalariat (temps parcial)	Asalariado (tiempo parcial)	Employee (part-time)
+PL211B				03	Treballador per compte propi (temps complet)	Trabajador por cuenta propia (tiempo completo)	Self-employed worker (full time)
+PL211B				04	Treballador per compte propi (temps parcial)	Trabajador por cuenta propia (tiempo parcial)	Self-employed worker (part-time)
+PL211B				05	Aturat	Parado	Unemployed
+PL211B				06	Estudiant, escolar o en formació	Estudiante, escolar o en formación	Student, school pupil or trainee
+PL211B				07	Jubilat o retirat	Jubilado o retirado	Retired
+PL211B				08	Incapacitat permanent per treballar	Incapacitado permanente para trabajar	Permanent incapacity to work
+PL211B				10	Dedicat a les feines de la llar, cura de nens, etc.	Dedicado a las labores del hogar, cuidado de niños, etc.	Dedicated to homemaking, caring for children, etc.
+PL211B				11	Un altre tipus d'inactivitat econòmica	Otro tipo de inactividad económica	Other type of economic inactivity
+PL211B_F	Variable que indica si PL211B està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PL211B está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PL211B is complete, if it is missing or if it is not applicable in the record in question.				
+PL211B_F				97	No hi consta	No consta	No answer
+PL211B_F				01	Variable completada	Variable completada	Variable completed
+PL211C	Activitat principal a març	Actividad principal en marzo	Main activity in March				
+PL211C				01	Assalariat (temps complet)	Asalariado (tiempo completo)	Employee (full-time)
+PL211C				02	Assalariat (temps parcial)	Asalariado (tiempo parcial)	Employee (part-time)
+PL211C				03	Treballador per compte propi (temps complet)	Trabajador por cuenta propia (tiempo completo)	Self-employed worker (full time)
+PL211C				04	Treballador per compte propi (temps parcial)	Trabajador por cuenta propia (tiempo parcial)	Self-employed worker (part-time)
+PL211C				05	Aturat	Parado	Unemployed
+PL211C				06	Estudiant, escolar o en formació	Estudiante, escolar o en formación	Student, school pupil or trainee
+PL211C				07	Jubilat o retirat	Jubilado o retirado	Retired
+PL211C				08	Incapacitat permanent per treballar	Incapacitado permanente para trabajar	Permanent incapacity to work
+PL211C				10	Dedicat a les feines de la llar, cura de nens, etc.	Dedicado a las labores del hogar, cuidado de niños, etc.	Dedicated to homemaking, caring for children, etc.
+PL211C				11	Un altre tipus d'inactivitat econòmica	Otro tipo de inactividad económica	Other type of economic inactivity
+PL211C_F	Variable que indica si PL211C està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PL211C está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PL211C is complete, if it is missing or if it is not applicable in the record in question.				
+PL211C_F				97	No hi consta	No consta	No answer
+PL211C_F				01	Variable completada	Variable completada	Variable completed
+PL211D	Activitat principal a abril	Actividad principal en abril	Main activity in April				
+PL211D				01	Assalariat (temps complet)	Asalariado (tiempo completo)	Employee (full-time)
+PL211D				02	Assalariat (temps parcial)	Asalariado (tiempo parcial)	Employee (part-time)
+PL211D				03	Treballador per compte propi (temps complet)	Trabajador por cuenta propia (tiempo completo)	Self-employed worker (full time)
+PL211D				04	Treballador per compte propi (temps parcial)	Trabajador por cuenta propia (tiempo parcial)	Self-employed worker (part-time)
+PL211D				05	Aturat	Parado	Unemployed
+PL211D				06	Estudiant, escolar o en formació	Estudiante, escolar o en formación	Student, school pupil or trainee
+PL211D				07	Jubilat o retirat	Jubilado o retirado	Retired
+PL211D				08	Incapacitat permanent per treballar	Incapacitado permanente para trabajar	Permanent incapacity to work
+PL211D				10	Dedicat a les feines de la llar, cura de nens, etc.	Dedicado a las labores del hogar, cuidado de niños, etc.	Dedicated to homemaking, caring for children, etc.
+PL211D				11	Un altre tipus d'inactivitat econòmica	Otro tipo de inactividad económica	Other type of economic inactivity
+PL211D_F	Variable que indica si PL211D està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PL211D está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PL211D is complete, if it is missing or if it is not applicable in the record in question.				
+PL211D_F				97	No hi consta	No consta	No answer
+PL211D_F				01	Variable completada	Variable completada	Variable completed
+PL211E	Activitat principal a maig	Actividad principal en mayo	Main activity in May				
+PL211E				01	Assalariat (temps complet)	Asalariado (tiempo completo)	Employee (full-time)
+PL211E				02	Assalariat (temps parcial)	Asalariado (tiempo parcial)	Employee (part-time)
+PL211E				03	Treballador per compte propi (temps complet)	Trabajador por cuenta propia (tiempo completo)	Self-employed worker (full time)
+PL211E				04	Treballador per compte propi (temps parcial)	Trabajador por cuenta propia (tiempo parcial)	Self-employed worker (part-time)
+PL211E				05	Aturat	Parado	Unemployed
+PL211E				06	Estudiant, escolar o en formació	Estudiante, escolar o en formación	Student, school pupil or trainee
+PL211E				07	Jubilat o retirat	Jubilado o retirado	Retired
+PL211E				08	Incapacitat permanent per treballar	Incapacitado permanente para trabajar	Permanent incapacity to work
+PL211E				10	Dedicat a les feines de la llar, cura de nens, etc.	Dedicado a las labores del hogar, cuidado de niños, etc.	Dedicated to homemaking, caring for children, etc.
+PL211E				11	Un altre tipus d'inactivitat econòmica	Otro tipo de inactividad económica	Other type of economic inactivity
+PL211E_F	Variable que indica si PL211E està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PL211E está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PL211E is complete, if it is missing or if it is not applicable in the record in question.				
+PL211E_F				97	No hi consta	No consta	No answer
+PL211E_F				01	Variable completada	Variable completada	Variable completed
+PL211F	Activitat principal a juny	Actividad principal en junio	Main activity in June				
+PL211F				01	Assalariat (temps complet)	Asalariado (tiempo completo)	Employee (full-time)
+PL211F				02	Assalariat (temps parcial)	Asalariado (tiempo parcial)	Employee (part-time)
+PL211F				03	Treballador per compte propi (temps complet)	Trabajador por cuenta propia (tiempo completo)	Self-employed worker (full time)
+PL211F				04	Treballador per compte propi (temps parcial)	Trabajador por cuenta propia (tiempo parcial)	Self-employed worker (part-time)
+PL211F				05	Aturat	Parado	Unemployed
+PL211F				06	Estudiant, escolar o en formació	Estudiante, escolar o en formación	Student, school pupil or trainee
+PL211F				07	Jubilat o retirat	Jubilado o retirado	Retired
+PL211F				08	Incapacitat permanent per treballar	Incapacitado permanente para trabajar	Permanent incapacity to work
+PL211F				10	Dedicat a les feines de la llar, cura de nens, etc.	Dedicado a las labores del hogar, cuidado de niños, etc.	Dedicated to homemaking, caring for children, etc.
+PL211F				11	Un altre tipus d'inactivitat econòmica	Otro tipo de inactividad económica	Other type of economic inactivity
+PL211F_F	Variable que indica si PL211F està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PL211F está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PL211F is complete, if it is missing or if it is not applicable in the record in question.				
+PL211F_F				97	No hi consta	No consta	No answer
+PL211F_F				01	Variable completada	Variable completada	Variable completed
+PL211G	Activitat principal a juliol	Actividad principal en julio	Main activity in July				
+PL211G				01	Assalariat (temps complet)	Asalariado (tiempo completo)	Employee (full-time)
+PL211G				02	Assalariat (temps parcial)	Asalariado (tiempo parcial)	Employee (part-time)
+PL211G				03	Treballador per compte propi (temps complet)	Trabajador por cuenta propia (tiempo completo)	Self-employed worker (full time)
+PL211G				04	Treballador per compte propi (temps parcial)	Trabajador por cuenta propia (tiempo parcial)	Self-employed worker (part-time)
+PL211G				05	Aturat	Parado	Unemployed
+PL211G				06	Estudiant, escolar o en formació	Estudiante, escolar o en formación	Student, school pupil or trainee
+PL211G				07	Jubilat o retirat	Jubilado o retirado	Retired
+PL211G				08	Incapacitat permanent per treballar	Incapacitado permanente para trabajar	Permanent incapacity to work
+PL211G				10	Dedicat a les feines de la llar, cura de nens, etc.	Dedicado a las labores del hogar, cuidado de niños, etc.	Dedicated to homemaking, caring for children, etc.
+PL211G				11	Un altre tipus d'inactivitat econòmica	Otro tipo de inactividad económica	Other type of economic inactivity
+PL211G_F	Variable que indica si PL211G està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PL211G está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PL211G is complete, if it is missing or if it is not applicable in the record in question.				
+PL211G_F				97	No hi consta	No consta	No answer
+PL211G_F				01	Variable completada	Variable completada	Variable completed
+PL211H	Activitat principal a agost	Actividad principal en agosto	Main activity in August				
+PL211H				01	Assalariat (temps complet)	Asalariado (tiempo completo)	Employee (full-time)
+PL211H				02	Assalariat (temps parcial)	Asalariado (tiempo parcial)	Employee (part-time)
+PL211H				03	Treballador per compte propi (temps complet)	Trabajador por cuenta propia (tiempo completo)	Self-employed worker (full time)
+PL211H				04	Treballador per compte propi (temps parcial)	Trabajador por cuenta propia (tiempo parcial)	Self-employed worker (part-time)
+PL211H				05	Aturat	Parado	Unemployed
+PL211H				06	Estudiant, escolar o en formació	Estudiante, escolar o en formación	Student, school pupil or trainee
+PL211H				07	Jubilat o retirat	Jubilado o retirado	Retired
+PL211H				08	Incapacitat permanent per treballar	Incapacitado permanente para trabajar	Permanent incapacity to work
+PL211H				10	Dedicat a les feines de la llar, cura de nens, etc.	Dedicado a las labores del hogar, cuidado de niños, etc.	Dedicated to homemaking, caring for children, etc.
+PL211H				11	Un altre tipus d'inactivitat econòmica	Otro tipo de inactividad económica	Other type of economic inactivity
+PL211H_F	Variable que indica si PL211H està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PL211H está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PL211H is complete, if it is missing or if it is not applicable in the record in question.				
+PL211H_F				97	No hi consta	No consta	No answer
+PL211H_F				01	Variable completada	Variable completada	Variable completed
+PL211I	Activitat principal a setembre	Actividad principal en septiembre	Main activity in September				
+PL211I				01	Assalariat (temps complet)	Asalariado (tiempo completo)	Employee (full-time)
+PL211I				02	Assalariat (temps parcial)	Asalariado (tiempo parcial)	Employee (part-time)
+PL211I				03	Treballador per compte propi (temps complet)	Trabajador por cuenta propia (tiempo completo)	Self-employed worker (full time)
+PL211I				04	Treballador per compte propi (temps parcial)	Trabajador por cuenta propia (tiempo parcial)	Self-employed worker (part-time)
+PL211I				05	Aturat	Parado	Unemployed
+PL211I				06	Estudiant, escolar o en formació	Estudiante, escolar o en formación	Student, school pupil or trainee
+PL211I				07	Jubilat o retirat	Jubilado o retirado	Retired
+PL211I				08	Incapacitat permanent per treballar	Incapacitado permanente para trabajar	Permanent incapacity to work
+PL211I				10	Dedicat a les feines de la llar, cura de nens, etc.	Dedicado a las labores del hogar, cuidado de niños, etc.	Dedicated to homemaking, caring for children, etc.
+PL211I				11	Un altre tipus d'inactivitat econòmica	Otro tipo de inactividad económica	Other type of economic inactivity
+PL211I_F	Variable que indica si PL211I està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PL211I está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PL211I is complete, if it is missing or if it is not applicable in the record in question.				
+PL211I_F				97	No hi consta	No consta	No answer
+PL211I_F				01	Variable completada	Variable completada	Variable completed
+PL211J	Activitat principal a octubre	Actividad principal en octubre	Main activity in October				
+PL211J				01	Assalariat (temps complet)	Asalariado (tiempo completo)	Employee (full-time)
+PL211J				02	Assalariat (temps parcial)	Asalariado (tiempo parcial)	Employee (part-time)
+PL211J				03	Treballador per compte propi (temps complet)	Trabajador por cuenta propia (tiempo completo)	Self-employed worker (full time)
+PL211J				04	Treballador per compte propi (temps parcial)	Trabajador por cuenta propia (tiempo parcial)	Self-employed worker (part-time)
+PL211J				05	Aturat	Parado	Unemployed
+PL211J				06	Estudiant, escolar o en formació	Estudiante, escolar o en formación	Student, school pupil or trainee
+PL211J				07	Jubilat o retirat	Jubilado o retirado	Retired
+PL211J				08	Incapacitat permanent per treballar	Incapacitado permanente para trabajar	Permanent incapacity to work
+PL211J				10	Dedicat a les feines de la llar, cura de nens, etc.	Dedicado a las labores del hogar, cuidado de niños, etc.	Dedicated to homemaking, caring for children, etc.
+PL211J				11	Un altre tipus d'inactivitat econòmica	Otro tipo de inactividad económica	Other type of economic inactivity
+PL211J_F	Variable que indica si PL211J està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PL211J está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PL211J is complete, if it is missing or if it is not applicable in the record in question.				
+PL211J_F				97	No hi consta	No consta	No answer
+PL211J_F				01	Variable completada	Variable completada	Variable completed
+PL211K	Activitat principal a novembre	Actividad principal en noviembre	Main activity in November				
+PL211K				01	Assalariat (temps complet)	Asalariado (tiempo completo)	Employee (full-time)
+PL211K				02	Assalariat (temps parcial)	Asalariado (tiempo parcial)	Employee (part-time)
+PL211K				03	Treballador per compte propi (temps complet)	Trabajador por cuenta propia (tiempo completo)	Self-employed worker (full time)
+PL211K				04	Treballador per compte propi (temps parcial)	Trabajador por cuenta propia (tiempo parcial)	Self-employed worker (part-time)
+PL211K				05	Aturat	Parado	Unemployed
+PL211K				06	Estudiant, escolar o en formació	Estudiante, escolar o en formación	Student, school pupil or trainee
+PL211K				07	Jubilat o retirat	Jubilado o retirado	Retired
+PL211K				08	Incapacitat permanent per treballar	Incapacitado permanente para trabajar	Permanent incapacity to work
+PL211K				10	Dedicat a les feines de la llar, cura de nens, etc.	Dedicado a las labores del hogar, cuidado de niños, etc.	Dedicated to homemaking, caring for children, etc.
+PL211K				11	Un altre tipus d'inactivitat econòmica	Otro tipo de inactividad económica	Other type of economic inactivity
+PL211K_F	Variable que indica si PL211K està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PL211K está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PL211K is complete, if it is missing or if it is not applicable in the record in question.				
+PL211K_F				97	No hi consta	No consta	No answer
+PL211K_F				01	Variable completada	Variable completada	Variable completed
+PL211L	Activitat principal a desembre	Actividad principal en diciembre	Main activity in December				
+PL211L				01	Assalariat (temps complet)	Asalariado (tiempo completo)	Employee (full-time)
+PL211L				02	Assalariat (temps parcial)	Asalariado (tiempo parcial)	Employee (part-time)
+PL211L				03	Treballador per compte propi (temps complet)	Trabajador por cuenta propia (tiempo completo)	Self-employed worker (full time)
+PL211L				04	Treballador per compte propi (temps parcial)	Trabajador por cuenta propia (tiempo parcial)	Self-employed worker (part-time)
+PL211L				05	Aturat	Parado	Unemployed
+PL211L				06	Estudiant, escolar o en formació	Estudiante, escolar o en formación	Student, school pupil or trainee
+PL211L				07	Jubilat o retirat	Jubilado o retirado	Retired
+PL211L				08	Incapacitat permanent per treballar	Incapacitado permanente para trabajar	Permanent incapacity to work
+PL211L				10	Dedicat a les feines de la llar, cura de nens, etc.	Dedicado a las labores del hogar, cuidado de niños, etc.	Dedicated to homemaking, caring for children, etc.
+PL211L				11	Un altre tipus d'inactivitat econòmica	Otro tipo de inactividad económica	Other type of economic inactivity
+PL211L_F	Variable que indica si PL211L està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PL211L está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PL211L is complete, if it is missing or if it is not applicable in the record in question.				
+PL211L_F				97	No hi consta	No consta	No answer
+PL211L_F				01	Variable completada	Variable completada	Variable completed
+PH010	Estat general de salut	Estado general de salud 	General state of health				
+PH010				1	Molt bo	Muy bueno	Very good
+PH010				2	Bo	Bueno	Good
+PH010				3	Regular	Regular	Regular
+PH010				4	Dolent	Malo	Bad
+PH010				5	Molt dolent	Muy Malo	Very bad
+PH010_F	Variable que indica si PH010 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PH010 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PH010 is complete, if it is missing or if it is not applicable in the record in question.				
+PH010_F				97	No hi consta	No consta	No answer
+PH010_F				01	Variable completada	Variable completada	Variable completed
+PH020	Té alguna malaltia o problema de salut crònics?	¿Tiene alguna enfermedad o problema de salud crónicos?	Do you have a chronic illness or health problem?				
+PH020				1	Sí	Sí	Yes
+PH020				2	No	No	No
+PH020_F	Variable que indica si PH020 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PH020 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PH020 is complete, if it is missing or if it is not applicable in the record in question.				
+PH020_F				97	No hi consta	No consta	No answer
+PH020_F				01	Variable completada	Variable completada	Variable completed
+PH030	Durant almenys els darrers 6 mesos, en quina mesura s'ha vist limitat a causa d'un problema de salut per fer les activitats que la gent habitualment fa?	Durante al menos los últimos 6 meses, ¿en qué medida se ha visto limitado debido a un problema de salud para realizar las actividades que la gente habitualmente hace?	For at least the last 6 months, to what extent have you been limited by a health problem from doing the activities people usually do?				
+PH030				1	Greument limitat	Gravemente limitado	Severely limited
+PH030				2	Limitat però no greument	Limitado pero no gravemente	Limited but not seriously
+PH030				3	Gens limitat	Nada limitado	Not limited at all
+PH030_F	Variable que indica si PH030 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PH030 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PH030 is complete, if it is missing or if it is not applicable in the record in question.				
+PH030_F				97	No hi consta	No consta	No answer
+PH030_F				01	Variable completada	Variable completada	Variable completed
+PH040	Durant els últims 12 mesos, hi ha hagut alguna ocasió en què realment hagi necessitat consultar un metge (excepte dentista) però no ho hagi fet?	¿Durante los últimos 12 meses, hubo alguna ocasión en la que realmente necesitó consultar a un médico (excepto dentista) pero no lo hizo?	During the last 12 months, have there been any occasions when you really needed to see a doctor (except a dentist) but did not?				
+PH040				1	Sí, almenys en una ocasió	Sí, al menos en una ocasión	Yes, at least once
+PH040				2	No, en cap ocasió	No, en ninguna ocasión	No, never
+PH040_F	Variable que indica si PH040 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PH040 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PH040 is complete, if it is missing or if it is not applicable in the record in question.				
+PH040_F				96	NA (en cap ocasió ha necessitat assistència mèdica)	NA (en ninguna ocasión ha necesitado asistencia médica)	NA (has never needed medical care)
+PH040_F				97	No hi consta	No consta	No answer
+PH040_F				01	Variable completada	Variable completada	Variable completed
+PH050	Motiu principal per no consultar un metge (excepte dentista)	Motivo principal para no consultar a un médico (excepto dentista)	Main reason for not seeing a doctor (except dentist)				
+PH050				1	No s'ho podia permetre	No se lo podía permitir 	He/she could not afford it
+PH050				2	Estava en una llista d'espera o no tenia volant	Estaba en una lista de espera o no tenía volante	He/she was on a waiting list or was not registered
+PH050				3	No disposava de temps a causa de la feina, de la cura de nens o d'altres persones	No disponía de tiempo debido al trabajo, al cuidado de niños o de otras personas	He/she did not have time because of work or caring for children or other people
+PH050				4	Massa lluny per viatjar/sense mitjans de transport	Demasiado lejos para viajar/sin medios de transporte	Too far to travel/no means of transport
+PH050				5	Por als metges o als hospitals	Miedo a los médicos o a los hospitales	Fear of doctors or hospitals
+PH050				6	Va voler esperar i veure si el problema millorava per si mateix	Quiso esperar y ver si el problema mejoraba por sí solo	He/she wanted to wait and see if the problem got better on its own
+PH050				7	No coneixia cap metge o especialista	No conocía a ningún médico o especialista 	He/she did not know of any doctor or specialist
+PH050				8	Altres motius	Otras razones	Other reasons
+PH050_F	Variable que indica si PH050 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PH050 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PH050 is complete, if it is missing or if it is not applicable in the record in question.				
+PH050_F				96	NA (si PH040 ≠ 1)	NA (si PH040 ≠ 1)	NA (if PH040 ≠ 1)
+PH050_F				97	No hi consta	No consta	No answer
+PH050_F				01	Variable completada	Variable completada	Variable completed
+PH060	Durant els últims 12 mesos, hi ha hagut alguna ocasió en què realment hagi necessitat consultar un dentista però no ho hagi fet?	¿Durante los últimos 12 meses, hubo alguna ocasión en la que realmente necesitó consultar a un dentista pero no lo hizo?	During the last 12 months, have there been any occasions when you really needed to see a dentist but did not?				
+PH060				1	Sí	Sí	Yes
+PH060				2	No	No	No
+PH060_F	Variable que indica si PH060 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PH060 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PH060 is complete, if it is missing or if it is not applicable in the record in question.				
+PH060_F				96	NA (en cap ocasió ha necessitat assistència dental)	NA (en ninguna ocasión ha necesitado asistencia dental)	NA (has never needed dental care)
+PH060_F				97	No hi consta	No consta	No answer
+PH060_F				01	Variable completada	Variable completada	Variable completed
+PH070	Motiu principal per no consultar un dentista	Motivo principal para no consultar a un dentista	Main reason for not seeing a dentist				
+PH070				1	No s'ho podia permetre	No se lo podía permitir 	He/she could not afford it
+PH070				2	Estava en una llista d'espera o no tenia volant	Estaba en una lista de espera o no tenía volante	He/she was on a waiting list or was not registered
+PH070				3	No disposava de temps a causa de la feina, de la cura de nens o d'altres persones	No disponía de tiempo debido al trabajo, al cuidado de niños o de otras personas	He/she did not have time because of work or caring for children or other people
+PH070				4	Massa lluny per viatjar/sense mitjans de transport	Demasiado lejos para viajar/sin medios de transporte	Too far to travel/no means of transport
+PH070				5	Por als metges o als hospitals	Miedo a los médicos o a los hospitales	Fear of doctors or hospitals
+PH070				6	Va voler esperar i veure si el problema millorava per si mateix	Quiso esperar y ver si el problema mejoraba por sí solo	He/she wanted to wait and see if the problem got better on its own
+PH070				7	No coneixia cap metge o especialista	No conocía a ningún médico o especialista 	He/she did not know of any doctor or specialist
+PH070				8	Altres motius	Otras razones	Other reasons
+PH070_F	Variable que indica si PH070 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PH070 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PH070 is complete, if it is missing or if it is not applicable in the record in question.				
+PH070_F				96	NA (si PH060 ≠ 1)	NA (si PH060 ≠ 1)	NA (if PH060 ≠ 1)
+PH070_F				97	No hi consta	No consta	No answer
+PH070_F				01	Variable completada	Variable completada	Variable completed
+PY010N 	Renda neta monetària o quasi monetària de l'assalariat l'any anterior al de l'enquesta (import en cèntims d'euro)	Renta neta monetaria o cuasi monetaria del asalariado en el año anterior al de encuesta (importe en céntimos de euro)	Net monetary or quasi-monetary income of the employee in the year before the survey (amount in euro cents)				
+PY010N_F	Variable que indica si PY010N està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PY010N está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PY010N is complete, if it is missing or if it is not applicable in the record in question.				
+PY010N_F				99	No emplenat: variable bruta emplenada	No cumplimentado: variable bruta cumplimentada	Not filled in: gross variable filled in
+PY010N_F				97	No hi consta	No consta	No answer
+PY010N_F					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+PY010N_F					PRIMER DÍGIT: Neta/Bruta (manera de recollida de dades)	PRIMER DÍGITO: Neta/Bruta (modo de recogida de datos)	FIRST DIGIT: Net/Gross (data collection form)
+PY010N_F				0	Sense renda (sense dígits següents)	Sin renta (sin dígitos siguientes)	No income (no subsequent digits)
+PY010N_F				1	Neta d'impostos sobre la renda en origen i cotitzacions socials	Neta de impuestos sobre la renta en origen y cotizaciones sociales	Net of income tax at source and social security contributions
+PY010N_F				2	Neta d'impostos sobre la renda en origen	Neta de impuestos sobre la renta en origen	Net of income tax at source
+PY010N_F				3	Neta de cotitzacions socials	Neta de cotizaciones sociales	Net of social security contributions
+PY010N_F				4	Bruta	Bruta 	Gross
+PY010N_F				5	Desconeguda	Desconocida	Unknown
+PY010N_F					SEGON DÍGIT: Net (manera en què figuren al fitxer)	SEGUNDO DÍGITO: Neto (modo en el que figuran en el fichero)	SECOND DIGIT: Net (as stated in the file)
+PY010N_F				1	Neta d'impostos sobre la renda en origen i cotitzacions socials	Neta de impuestos sobre la renta en origen y cotizaciones sociales	Net of income tax at source and social security contributions
+PY010N_F				2	Neta d'impostos sobre la renda en origen	Neta de impuestos sobre la renta en origen	Net of income tax at source
+PY010N_F				3	Neta de cotitzacions socials	Neta de cotizaciones sociales	Net of social security contributions
+PY010N_F				5	Desconeguda (només possible amb primer dígit = 5)	Desconocida (sólo posible con primer dígito = 5)	Unknown (only possible when first digit = 5)
+PY010N_F					TERCER DÍGIT: Mètode d'imputació	TERCER DÍGITO: Método de imputación	THIRD DIGIT: Imputation method
+PY010N_F				2	Imputació estadística	Imputación estadística	Statistical imputation
+PY010N_F					Dígits següents Factor d'imputació	Dígitos siguientes Factor de imputación	Subsequent digits Imputation factor
+PY010N_F					100 x valor recollit / valor registrat	100 x valor recogido / valor registrado	100 x collected value / registered value
+PY020N 	Renda neta no monetària de l'assalariat l'any anterior al de l'enquesta (import en cèntims d'euro)	Renta neta no monetaria del asalariado en año anterior al de encuesta (importe en céntimos de euro)	Net non-monetary income of the employee in the year before the survey (amount in euro cents)				
+PY020N_F	Variable que indica si PY020N està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PY020N está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PY020N is complete, if it is missing or if it is not applicable in the record in question.				
+PY020N_F				99	No emplenat: variable bruta emplenada	No cumplimentado: variable bruta cumplimentada	Not filled in: gross variable filled in
+PY020N_F				91	Import inclòs en un altre component de la renda	Importe incluido en otro componente de la renta	Amount included in another component of income
+PY020N_F				97	No hi consta	No consta	No answer
+PY020N_F					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+PY020N_F					PRIMER DÍGIT: Neta/Bruta (manera de recollida de dades)	PRIMER DÍGITO: Neta/Bruta (modo de recogida de datos)	FIRST DIGIT: Net/Gross (data collection form)
+PY020N_F				0	Sense renda (sense dígits següents)	Sin renta (sin dígitos siguientes)	No income (no subsequent digits)
+PY020N_F				1	Neta d'impostos sobre la renda en origen i cotitzacions socials	Neta de impuestos sobre la renta en origen y cotizaciones sociales	Net of income tax at source and social security contributions
+PY020N_F				2	Neta d'impostos sobre la renda en origen	Neta de impuestos sobre la renta en origen	Net of income tax at source
+PY020N_F				3	Neta de cotitzacions socials	Neta de cotizaciones sociales	Net of social security contributions
+PY020N_F				4	Bruta	Bruta 	Gross
+PY020N_F				5	Desconeguda	Desconocida	Unknown
+PY020N_F					SEGON DÍGIT: Net (manera en què figuren al fitxer)	SEGUNDO DÍGITO: Neto (modo en el que figuran en el fichero)	SECOND DIGIT: Net (as stated in the file)
+PY020N_F				1	Neta d'impostos sobre la renda en origen i cotitzacions socials	Neta de impuestos sobre la renta en origen y cotizaciones sociales	Net of income tax at source and social security contributions
+PY020N_F				2	Neta d'impostos sobre la renda en origen	Neta de impuestos sobre la renta en origen	Net of income tax at source
+PY020N_F				3	Neta de cotitzacions socials	Neta de cotizaciones sociales	Net of social security contributions
+PY020N_F				5	Desconeguda (només possible amb primer dígit = 5)	Desconocida (sólo posible con primer dígito = 5)	Unknown (only possible when first digit = 5)
+PY020N_F					TERCER DÍGIT: Mètode d'imputació	TERCER DÍGITO: Método de imputación	THIRD DIGIT: Imputation method
+PY020N_F				2	Imputació estadística	Imputación estadística	Statistical imputation
+PY020N_F					Dígits següents Factor d'imputació	Dígitos siguientes Factor de imputación	Subsequent digits Imputation factor
+PY020N_F					100 x valor recollit / valor registrat	100 x valor recogido / valor registrado	100 x collected value / registered value
+PY021N 	Renda neta no monetària de l'assalariat l'any anterior al de l'enquesta (cotxe d'empresa) (import en cèntims d'euro)	Renta neta no monetaria del asalariado en el año anterior al de encuesta (coche de empresa) (importe en céntimos de euro)	Net non-monetary income of the employee in the year before the survey (company car) (amount in euro cents)				
+PY021N_F	Variable que indica si PY021N està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PY021N está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PY021N is complete, if it is missing or if it is not applicable in the record in question.				
+PY021N_F				99	No emplenat: variable bruta emplenada	No cumplimentado: variable bruta cumplimentada	Not filled in: gross variable filled in
+PY021N_F				91	Import inclòs en un altre component de la renda	Importe incluido en otro componente de la renta	Amount included in another component of income
+PY021N_F				97	No hi consta	No consta	No answer
+PY021N_F					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+PY021N_F					PRIMER DÍGIT: Neta/Bruta (manera de recollida de dades)	PRIMER DÍGITO: Neta/Bruta (modo de recogida de datos)	FIRST DIGIT: Net/Gross (data collection form)
+PY021N_F				0	Sense renda (sense dígits següents)	Sin renta (sin dígitos siguientes)	No income (no subsequent digits)
+PY021N_F				1	Neta d'impostos sobre la renda en origen i cotitzacions socials	Neta de impuestos sobre la renta en origen y cotizaciones sociales	Net of income tax at source and social security contributions
+PY021N_F				2	Neta d'impostos sobre la renda en origen	Neta de impuestos sobre la renta en origen	Net of income tax at source
+PY021N_F				3	Neta de cotitzacions socials	Neta de cotizaciones sociales	Net of social security contributions
+PY021N_F				4	Bruta	Bruta 	Gross
+PY021N_F				5	Desconeguda	Desconocida	Unknown
+PY021N_F					SEGON DÍGIT: Net (manera en què figuren al fitxer)	SEGUNDO DÍGITO: Neto (modo en el que figuran en el fichero)	SECOND DIGIT: Net (as stated in the file)
+PY021N_F				1	Neta d'impostos sobre la renda en origen i cotitzacions socials	Neta de impuestos sobre la renta en origen y cotizaciones sociales	Net of income tax at source and social security contributions
+PY021N_F				2	Neta d'impostos sobre la renda en origen	Neta de impuestos sobre la renta en origen	Net of income tax at source
+PY021N_F				3	Neta de cotitzacions socials	Neta de cotizaciones sociales	Net of social security contributions
+PY021N_F				5	Desconeguda (només possible amb primer dígit = 5)	Desconocida (sólo posible con primer dígito = 5)	Unknown (only possible when first digit = 5)
+PY021N_F					TERCER DÍGIT: Mètode d'imputació	TERCER DÍGITO: Método de imputación	THIRD DIGIT: Imputation method
+PY021N_F				2	Imputació estadística	Imputación estadística	Statistical imputation
+PY021N_F					Dígits següents Factor d'imputació	Dígitos siguientes Factor de imputación	Subsequent digits Imputation factor
+PY021N_F					100 x valor recollit / valor registrat	100 x valor recogido / valor registrado	100 x collected value / registered value
+PY035N	Aportacions a plans de pensions privats individuals l'any anterior al de l'enquesta (import en cèntims d'euro)	Aportaciones a planes de pensiones privados individuales en el año anterior al de encuesta (importe en céntimos de euro)	Contributions to private personal pension plans in the year before the survey (amount in euro cents)				
+PY035N_F	Variable que indica si PY035N està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PY035N está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PY035N is complete, if it is missing or if it is not applicable in the record in question.				
+PY035N_F				99	No emplenat: variable bruta emplenada	No cumplimentado: variable bruta cumplimentada	Not filled in: gross variable filled in
+PY035N_F				97	No hi consta	No consta	No answer
+PY035N_F					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+PY035N_F					PRIMER DÍGIT:	PRIMER DÍGITO:	FIRST DIGIT
+PY035N_F				0	Sense aportacions (sense dígits següents)	Sin aportaciones (sin dígitos siguientes)	No contributions (no subsequent digits)
+PY035N_F				1	Amb aportacions (variable completada)	Con aportaciones (variable completada)	With contributions (variable completed)
+PY035N_F					Dígits següents Factor d'imputació	Dígitos siguientes Factor de imputación	Subsequent digits Imputation factor
+PY035N_F					100 x valor recollit / valor registrat	100 x valor recogido / valor registrado	100 x collected value / registered value
+PY050N 	Beneficis o pèrdues monetaris nets de treballadors per compte propi (inclosos drets de propietat intel·lectual) l'any anterior al de l'enquesta (import en cèntims d'euro)	Beneficios o pérdidas monetarios netos de trabajadores por cuenta propia (incluidos derechos de propiedad intelectual) en el año anterior al de encuesta (importe en céntimos de euro)	Net monetary gains or losses for self-employed workers (including intellectual property rights) in the year before the survey (amount in euro cents)				
+PY050N_F	Variable que indica si PY050N està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PY050N está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PY050N is complete, if it is missing or if it is not applicable in the record in question.				
+PY050N_F				99	No emplenat: variable bruta emplenada	No cumplimentado: variable bruta cumplimentada	Not filled in: gross variable filled in
+PY050N_F				97	No hi consta	No consta	No answer
+PY050N_F					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+PY050N_F					PRIMER DÍGIT: Neta/Bruta (manera de recollida de dades)	PRIMER DÍGITO: Neta/Bruta (modo de recogida de datos)	FIRST DIGIT: Net/Gross (data collection form)
+PY050N_F				0	Sense renda (sense dígits següents)	Sin renta (sin dígitos siguientes)	No income (no subsequent digits)
+PY050N_F				1	Neta d'impostos sobre la renda en origen i cotitzacions socials	Neta de impuestos sobre la renta en origen y cotizaciones sociales	Net of income tax at source and social security contributions
+PY050N_F				2	Neta d'impostos sobre la renda en origen	Neta de impuestos sobre la renta en origen	Net of income tax at source
+PY050N_F				3	Neta de cotitzacions socials	Neta de cotizaciones sociales	Net of social security contributions
+PY050N_F				4	Bruta	Bruta 	Gross
+PY050N_F				5	Desconeguda	Desconocida	Unknown
+PY050N_F					SEGON DÍGIT: Net (manera en què figuren al fitxer)	SEGUNDO DÍGITO: Neto (modo en el que figuran en el fichero)	SECOND DIGIT: Net (as stated in the file)
+PY050N_F				1	Neta d'impostos sobre la renda en origen i cotitzacions socials	Neta de impuestos sobre la renta en origen y cotizaciones sociales	Net of income tax at source and social security contributions
+PY050N_F				2	Neta d'impostos sobre la renda en origen	Neta de impuestos sobre la renta en origen	Net of income tax at source
+PY050N_F				3	Neta de cotitzacions socials	Neta de cotizaciones sociales	Net of social security contributions
+PY050N_F				5	Desconeguda (només possible amb primer dígit = 5)	Desconocida (sólo posible con primer dígito = 5)	Unknown (only possible when first digit = 5)
+PY050N_F					TERCER DÍGIT: Mètode d'imputació	TERCER DÍGITO: Método de imputación	THIRD DIGIT: Imputation method
+PY050N_F				2	Imputació estadística	Imputación estadística	Statistical imputation
+PY050N_F					Dígits següents Factor d'imputació	Dígitos siguientes Factor de imputación	Subsequent digits Imputation factor
+PY050N_F					100 x valor recollit / valor registrat	100 x valor recogido / valor registrado	100 x collected value / registered value
+PY080N	Rendes netes percebudes d'esquemes privats de pensions (diferents dels inclosos a SEEPROS) l'any anterior al de l'enquesta (import en cèntims d'euro)	Rentas netas percibidas de esquemas privados de pensiones (distintos de los incluidos en SEEPROS) en el año anterior al de encuesta (importe en céntimos de euro)	Net income received from private pension schemes (other than those included in SEEPROS) in the year before the survey (amount in euro cents)				
+PY080N_F	Variable que indica si PY080N està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PY080N está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PY080N is complete, if it is missing or if it is not applicable in the record in question.				
+PY080N_F				99	No emplenat: variable bruta emplenada	No cumplimentado: variable bruta cumplimentada	Not filled in: gross variable filled in
+PY080N_F				97	No hi consta	No consta	No answer
+PY080N_F					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+PY080N_F					PRIMER DÍGIT: Neta/Bruta (manera de recollida de dades)	PRIMER DÍGITO: Neta/Bruta (modo de recogida de datos)	FIRST DIGIT: Net/Gross (data collection form)
+PY080N_F				0	Sense renda (sense dígits següents)	Sin renta (sin dígitos siguientes)	No income (no subsequent digits)
+PY080N_F				1	Neta d'impostos sobre la renda en origen i cotitzacions socials	Neta de impuestos sobre la renta en origen y cotizaciones sociales	Net of income tax at source and social security contributions
+PY080N_F				2	Neta d'impostos sobre la renda en origen	Neta de impuestos sobre la renta en origen	Net of income tax at source
+PY080N_F				3	Neta de cotitzacions socials	Neta de cotizaciones sociales	Net of social security contributions
+PY080N_F				4	Bruta	Bruta 	Gross
+PY080N_F				5	Desconeguda	Desconocida	Unknown
+PY080N_F					SEGON DÍGIT: Net (manera en què figuren al fitxer)	SEGUNDO DÍGITO: Neto (modo en el que figuran en el fichero)	SECOND DIGIT: Net (as stated in the file)
+PY080N_F				1	Neta d'impostos sobre la renda en origen i cotitzacions socials	Neta de impuestos sobre la renta en origen y cotizaciones sociales	Net of income tax at source and social security contributions
+PY080N_F				2	Neta d'impostos sobre la renda en origen	Neta de impuestos sobre la renta en origen	Net of income tax at source
+PY080N_F				3	Neta de cotitzacions socials	Neta de cotizaciones sociales	Net of social security contributions
+PY080N_F				5	Desconeguda (només possible amb primer dígit = 5)	Desconocida (sólo posible con primer dígito = 5)	Unknown (only possible when first digit = 5)
+PY080N_F					TERCER DÍGIT: Mètode d'imputació	TERCER DÍGITO: Método de imputación	THIRD DIGIT: Imputation method
+PY080N_F				2	Imputació estadística	Imputación estadística	Statistical imputation
+PY080N_F					Dígits següents Factor d'imputació	Dígitos siguientes Factor de imputación	Subsequent digits Imputation factor
+PY080N_F					100 x valor recollit / valor registrat	100 x valor recogido / valor registrado	100 x collected value / registered value
+PY090N 	Prestacions per desocupació (netes) l'any anterior al de l'enquesta (import en cèntims d'euro)	Prestaciones por desempleo (netas) en el año anterior al de encuesta (importe en céntimos de euro)	Unemployment benefits (net) in the year before the survey (amount in euro cents)				
+PY090N_F	Variable que indica si PY090N està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PY090N está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PY090N is complete, if it is missing or if it is not applicable in the record in question.				
+PY090N_F				99	No emplenat: variable bruta emplenada	No cumplimentado: variable bruta cumplimentada	Not filled in: gross variable filled in
+PY090N_F				97	No hi consta	No consta	No answer
+PY090N_F					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+PY090N_F					PRIMER DÍGIT: Neta/Bruta (manera de recollida de dades)	PRIMER DÍGITO: Neta/Bruta (modo de recogida de datos)	FIRST DIGIT: Net/Gross (data collection form)
+PY090N_F				0	Sense renda (sense dígits següents)	Sin renta (sin dígitos siguientes)	No income (no subsequent digits)
+PY090N_F				1	Neta d'impostos sobre la renda en origen i cotitzacions socials	Neta de impuestos sobre la renta en origen y cotizaciones sociales	Net of income tax at source and social security contributions
+PY090N_F				2	Neta d'impostos sobre la renda en origen	Neta de impuestos sobre la renta en origen	Net of income tax at source
+PY090N_F				3	Neta de cotitzacions socials	Neta de cotizaciones sociales	Net of social security contributions
+PY090N_F				4	Bruta	Bruta 	Gross
+PY090N_F				5	Desconeguda	Desconocida	Unknown
+PY090N_F					SEGON DÍGIT: Net (manera en què figuren al fitxer)	SEGUNDO DÍGITO: Neto (modo en el que figuran en el fichero)	SECOND DIGIT: Net (as stated in the file)
+PY090N_F				1	Neta d'impostos sobre la renda en origen i cotitzacions socials	Neta de impuestos sobre la renta en origen y cotizaciones sociales	Net of income tax at source and social security contributions
+PY090N_F				2	Neta d'impostos sobre la renda en origen	Neta de impuestos sobre la renta en origen	Net of income tax at source
+PY090N_F				3	Neta de cotitzacions socials	Neta de cotizaciones sociales	Net of social security contributions
+PY090N_F				5	Desconeguda (només possible amb primer dígit = 5)	Desconocida (sólo posible con primer dígito = 5)	Unknown (only possible when first digit = 5)
+PY090N_F					TERCER DÍGIT: Mètode d'imputació	TERCER DÍGITO: Método de imputación	THIRD DIGIT: Imputation method
+PY090N_F				2	Imputació estadística	Imputación estadística	Statistical imputation
+PY090N_F					Dígits següents Factor d'imputació	Dígitos siguientes Factor de imputación	Subsequent digits Imputation factor
+PY090N_F					100 x valor recollit / valor registrat	100 x valor recogido / valor registrado	100 x collected value / registered value
+PY100N 	Prestacions per jubilació (netes) l'any anterior al de l'enquesta (import en cèntims d'euro)	Prestaciones por jubilación (netas) en el año anterior al de encuesta (importe en céntimos de euro)	Retirement benefits (net) in the year before the survey (amount in euro cents)				
+PY100N_F	Variable que indica si PY100N està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PY100N está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PY100N is complete, if it is missing or if it is not applicable in the record in question.				
+PY100N_F				99	No emplenat: variable bruta emplenada	No cumplimentado: variable bruta cumplimentada	Not filled in: gross variable filled in
+PY100N_F				91	Import inclòs en un altre component de la renda	Importe incluido en otro componente de la renta	Amount included in another component of income
+PY100N_F				97	No hi consta	No consta	No answer
+PY100N_F					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+PY100N_F					PRIMER DÍGIT: Neta/Bruta (manera de recollida de dades)	PRIMER DÍGITO: Neta/Bruta (modo de recogida de datos)	FIRST DIGIT: Net/Gross (data collection form)
+PY100N_F				0	Sense renda (sense dígits següents)	Sin renta (sin dígitos siguientes)	No income (no subsequent digits)
+PY100N_F				1	Neta d'impostos sobre la renda en origen i cotitzacions socials	Neta de impuestos sobre la renta en origen y cotizaciones sociales	Net of income tax at source and social security contributions
+PY100N_F				2	Neta d'impostos sobre la renda en origen	Neta de impuestos sobre la renta en origen	Net of income tax at source
+PY100N_F				3	Neta de cotitzacions socials	Neta de cotizaciones sociales	Net of social security contributions
+PY100N_F				4	Bruta	Bruta 	Gross
+PY100N_F				5	Desconeguda	Desconocida	Unknown
+PY100N_F					SEGON DÍGIT: Net (manera en què figuren al fitxer)	SEGUNDO DÍGITO: Neto (modo en el que figuran en el fichero)	SECOND DIGIT: Net (as stated in the file)
+PY100N_F				1	Neta d'impostos sobre la renda en origen i cotitzacions socials	Neta de impuestos sobre la renta en origen y cotizaciones sociales	Net of income tax at source and social security contributions
+PY100N_F				2	Neta d'impostos sobre la renda en origen	Neta de impuestos sobre la renta en origen	Net of income tax at source
+PY100N_F				3	Neta de cotitzacions socials	Neta de cotizaciones sociales	Net of social security contributions
+PY100N_F				5	Desconeguda (només possible amb primer dígit = 5)	Desconocida (sólo posible con primer dígito = 5)	Unknown (only possible when first digit = 5)
+PY100N_F					TERCER DÍGIT: Mètode d'imputació	TERCER DÍGITO: Método de imputación	THIRD DIGIT: Imputation method
+PY100N_F				2	Imputació estadística	Imputación estadística	Statistical imputation
+PY100N_F					Dígits següents Factor d'imputació	Dígitos siguientes Factor de imputación	Subsequent digits Imputation factor
+PY100N_F					100 x valor recollit / valor registrat	100 x valor recogido / valor registrado	100 x collected value / registered value
+PY110N 	Prestacions per supervivència (netes) l'any anterior al de l'enquesta (import en cèntims d'euro)	Prestaciones por supervivencia (netas) en el año anterior al de encuesta (importe en céntimos de euro)	Survivor benefits (net) in the year before the survey (amount in euro cents)				
+PY110N_F	Variable que indica si PY110N està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PY110N está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PY110N is complete, if it is missing or if it is not applicable in the record in question.				
+PY110N_F				99	No emplenat: variable bruta emplenada	No cumplimentado: variable bruta cumplimentada	Not filled in: gross variable filled in
+PY110N_F				91	Import inclòs en un altre component de la renda	Importe incluido en otro componente de la renta	Amount included in another component of income
+PY110N_F				97	No hi consta	No consta	No answer
+PY110N_F					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+PY110N_F					PRIMER DÍGIT: Neta/Bruta (manera de recollida de dades)	PRIMER DÍGITO: Neta/Bruta (modo de recogida de datos)	FIRST DIGIT: Net/Gross (data collection form)
+PY110N_F				0	Sense renda (sense dígits següents)	Sin renta (sin dígitos siguientes)	No income (no subsequent digits)
+PY110N_F				1	Neta d'impostos sobre la renda en origen i cotitzacions socials	Neta de impuestos sobre la renta en origen y cotizaciones sociales	Net of income tax at source and social security contributions
+PY110N_F				2	Neta d'impostos sobre la renda en origen	Neta de impuestos sobre la renta en origen	Net of income tax at source
+PY110N_F				3	Neta de cotitzacions socials	Neta de cotizaciones sociales	Net of social security contributions
+PY110N_F				4	Bruta	Bruta 	Gross
+PY110N_F				5	Desconeguda	Desconocida	Unknown
+PY110N_F					SEGON DÍGIT: Net (manera en què figuren al fitxer)	SEGUNDO DÍGITO: Neto (modo en el que figuran en el fichero)	SECOND DIGIT: Net (as stated in the file)
+PY110N_F				1	Neta d'impostos sobre la renda en origen i cotitzacions socials	Neta de impuestos sobre la renta en origen y cotizaciones sociales	Net of income tax at source and social security contributions
+PY110N_F				2	Neta d'impostos sobre la renda en origen	Neta de impuestos sobre la renta en origen	Net of income tax at source
+PY110N_F				3	Neta de cotitzacions socials	Neta de cotizaciones sociales	Net of social security contributions
+PY110N_F				5	Desconeguda (només possible amb primer dígit = 5)	Desconocida (sólo posible con primer dígito = 5)	Unknown (only possible when first digit = 5)
+PY110N_F					TERCER DÍGIT: Mètode d'imputació	TERCER DÍGITO: Método de imputación	THIRD DIGIT: Imputation method
+PY110N_F				2	Imputació estadística	Imputación estadística	Statistical imputation
+PY110N_F					Dígits següents Factor d'imputació	Dígitos siguientes Factor de imputación	Subsequent digits Imputation factor
+PY110N_F					100 x valor recollit / valor registrat	100 x valor recogido / valor registrado	100 x collected value / registered value
+PY120N 	Prestacions per malaltia (netes) l'any anterior al de l'enquesta (import en cèntims d'euro)	Prestaciones por enfermedad (netas) en el año anterior al de encuesta (importe en céntimos de euro)	Sickness benefits (net) in the year before the survey (amount in euro cents)				
+PY120N_F	Variable que indica si PY120N està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PY120N está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PY120N is complete, if it is missing or if it is not applicable in the record in question.				
+PY120N_F				99	No emplenat: variable bruta emplenada	No cumplimentado: variable bruta cumplimentada	Not filled in: gross variable filled in
+PY120N_F				91	Import inclòs en un altre component de la renda	Importe incluido en otro componente de la renta	Amount included in another component of income
+PY120N_F				97	No hi consta	No consta	No answer
+PY120N_F					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+PY120N_F					PRIMER DÍGIT: Neta/Bruta (manera de recollida de dades)	PRIMER DÍGITO: Neta/Bruta (modo de recogida de datos)	FIRST DIGIT: Net/Gross (data collection form)
+PY120N_F				0	Sense renda (sense dígits següents)	Sin renta (sin dígitos siguientes)	No income (no subsequent digits)
+PY120N_F				1	Neta d'impostos sobre la renda en origen i cotitzacions socials	Neta de impuestos sobre la renta en origen y cotizaciones sociales	Net of income tax at source and social security contributions
+PY120N_F				2	Neta d'impostos sobre la renda en origen	Neta de impuestos sobre la renta en origen	Net of income tax at source
+PY120N_F				3	Neta de cotitzacions socials	Neta de cotizaciones sociales	Net of social security contributions
+PY120N_F				4	Bruta	Bruta 	Gross
+PY120N_F				5	Desconeguda	Desconocida	Unknown
+PY120N_F					SEGON DÍGIT: Net (manera en què figuren al fitxer)	SEGUNDO DÍGITO: Neto (modo en el que figuran en el fichero)	SECOND DIGIT: Net (as stated in the file)
+PY120N_F				1	Neta d'impostos sobre la renda en origen i cotitzacions socials	Neta de impuestos sobre la renta en origen y cotizaciones sociales	Net of income tax at source and social security contributions
+PY120N_F				2	Neta d'impostos sobre la renda en origen	Neta de impuestos sobre la renta en origen	Net of income tax at source
+PY120N_F				3	Neta de cotitzacions socials	Neta de cotizaciones sociales	Net of social security contributions
+PY120N_F				5	Desconeguda (només possible amb primer dígit = 5)	Desconocida (sólo posible con primer dígito = 5)	Unknown (only possible when first digit = 5)
+PY120N_F					TERCER DÍGIT: Mètode d'imputació	TERCER DÍGITO: Método de imputación	THIRD DIGIT: Imputation method
+PY120N_F				2	Imputació estadística	Imputación estadística	Statistical imputation
+PY120N_F					Dígits següents Factor d'imputació	Dígitos siguientes Factor de imputación	Subsequent digits Imputation factor
+PY120N_F					100 x valor recollit / valor registrat	100 x valor recogido / valor registrado	100 x collected value / registered value
+PY130N 	Prestacions per invalidesa (netes) l'any anterior al de l'enquesta (import en cèntims d'euro)	Prestaciones por invalidez (netas) en el año anterior al de encuesta (importe en céntimos de euro)	Disability benefits (net) in the year before the survey (amount in euro cents)				
+PY130N_F	Variable que indica si PY130N està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PY130N está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PY130N is complete, if it is missing or if it is not applicable in the record in question.				
+PY130N_F				99	No emplenat: variable bruta emplenada	No cumplimentado: variable bruta cumplimentada	Not filled in: gross variable filled in
+PY130N_F				91	Import inclòs en un altre component de la renda	Importe incluido en otro componente de la renta	Amount included in another component of income
+PY130N_F				97	No hi consta	No consta	No answer
+PY130N_F					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+PY130N_F					PRIMER DÍGIT: Neta/Bruta (manera de recollida de dades)	PRIMER DÍGITO: Neta/Bruta (modo de recogida de datos)	FIRST DIGIT: Net/Gross (data collection form)
+PY130N_F				0	Sense renda (sense dígits següents)	Sin renta (sin dígitos siguientes)	No income (no subsequent digits)
+PY130N_F				1	Neta d'impostos sobre la renda en origen i cotitzacions socials	Neta de impuestos sobre la renta en origen y cotizaciones sociales	Net of income tax at source and social security contributions
+PY130N_F				2	Neta d'impostos sobre la renda en origen	Neta de impuestos sobre la renta en origen	Net of income tax at source
+PY130N_F				3	Neta de cotitzacions socials	Neta de cotizaciones sociales	Net of social security contributions
+PY130N_F				4	Bruta	Bruta 	Gross
+PY130N_F				5	Desconeguda	Desconocida	Unknown
+PY130N_F					SEGON DÍGIT: Net (manera en què figuren al fitxer)	SEGUNDO DÍGITO: Neto (modo en el que figuran en el fichero)	SECOND DIGIT: Net (as stated in the file)
+PY130N_F				1	Neta d'impostos sobre la renda en origen i cotitzacions socials	Neta de impuestos sobre la renta en origen y cotizaciones sociales	Net of income tax at source and social security contributions
+PY130N_F				2	Neta d'impostos sobre la renda en origen	Neta de impuestos sobre la renta en origen	Net of income tax at source
+PY130N_F				3	Neta de cotitzacions socials	Neta de cotizaciones sociales	Net of social security contributions
+PY130N_F				5	Desconeguda (només possible amb primer dígit = 5)	Desconocida (sólo posible con primer dígito = 5)	Unknown (only possible when first digit = 5)
+PY130N_F					TERCER DÍGIT: Mètode d'imputació	TERCER DÍGITO: Método de imputación	THIRD DIGIT: Imputation method
+PY130N_F				2	Imputació estadística	Imputación estadística	Statistical imputation
+PY130N_F					Dígits següents Factor d'imputació	Dígitos siguientes Factor de imputación	Subsequent digits Imputation factor
+PY130N_F					100 x valor recollit / valor registrat	100 x valor recogido / valor registrado	100 x collected value / registered value
+PY140N	Ajuda per a estudis l'any anterior al de l'enquesta (import en cèntims d'euro)	Ayuda para estudios en el año anterior al de encuesta (importe en céntimos de euro)	Grant for studies in the year before the survey (amount in euro cents)				
+PY140N_F	Variable que indica si PY140N està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PY140N está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PY140N is complete, if it is missing or if it is not applicable in the record in question.				
+PY140N_F				99	No emplenat: variable bruta emplenada	No cumplimentado: variable bruta cumplimentada	Not filled in: gross variable filled in
+PY140N_F				97	No hi consta	No consta	No answer
+PY140N_F					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+PY140N_F					PRIMER DÍGIT: Neta/Bruta (manera de recollida de dades)	PRIMER DÍGITO: Neta/Bruta (modo de recogida de datos)	FIRST DIGIT: Net/Gross (data collection form)
+PY140N_F				0	Sense renda (sense dígits següents)	Sin renta (sin dígitos siguientes)	No income (no subsequent digits)
+PY140N_F				1	Neta d'impostos sobre la renda en origen i cotitzacions socials	Neta de impuestos sobre la renta en origen y cotizaciones sociales	Net of income tax at source and social security contributions
+PY140N_F				2	Neta d'impostos sobre la renda en origen	Neta de impuestos sobre la renta en origen	Net of income tax at source
+PY140N_F				3	Neta de cotitzacions socials	Neta de cotizaciones sociales	Net of social security contributions
+PY140N_F				4	Bruta	Bruta 	Gross
+PY140N_F				5	Desconeguda	Desconocida	Unknown
+PY140N_F					SEGON DÍGIT: Net (manera en què figuren al fitxer)	SEGUNDO DÍGITO: Neto (modo en el que figuran en el fichero)	SECOND DIGIT: Net (as stated in the file)
+PY140N_F				1	Neta d'impostos sobre la renda en origen i cotitzacions socials	Neta de impuestos sobre la renta en origen y cotizaciones sociales	Net of income tax at source and social security contributions
+PY140N_F				2	Neta d'impostos sobre la renda en origen	Neta de impuestos sobre la renta en origen	Net of income tax at source
+PY140N_F				3	Neta de cotitzacions socials	Neta de cotizaciones sociales	Net of social security contributions
+PY140N_F				5	Desconeguda (només possible amb primer dígit = 5)	Desconocida (sólo posible con primer dígito = 5)	Unknown (only possible when first digit = 5)
+PY140N_F					TERCER DÍGIT: Mètode d'imputació	TERCER DÍGITO: Método de imputación	THIRD DIGIT: Imputation method
+PY140N_F				2	Imputació estadística	Imputación estadística	Statistical imputation
+PY140N_F					Dígits següents Factor d'imputació	Dígitos siguientes Factor de imputación	Subsequent digits Imputation factor
+PY140N_F					100 x valor recollit / valor registrat	100 x valor recogido / valor registrado	100 x collected value / registered value
+PY010G 	Renda bruta monetària o quasi monetària de l'assalariat l'any anterior al de l'enquesta (import en cèntims d'euro)	Renta bruta monetaria o casi monetaria del asalariado en el año anterior al de encuesta (importe en céntimos de euro)	Gross monetary or quasi-monetary income of the employee in the year before the survey (amount in euro cents)				
+PY010G_F	Variable que indica si PY010G està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PY010G está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PY010G is complete, if it is missing or if it is not applicable in the record in question.				
+PY010G_F				99	No emplenat: variable neta emplenada	No cumplimentado: variable neta cumplimentada	Not filled in: net variable filled in
+PY010G_F				97	No hi consta	No consta	No answer
+PY010G_F					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+PY010G_F					PRIMER DÍGIT: Neta/Bruta (manera de recollida de dades)	PRIMER DÍGITO: Neta/Bruta (modo de recogida de datos)	FIRST DIGIT: Net/Gross (data collection form)
+PY010G_F				0	Sense renda (sense dígits següents)	Sin renta (sin dígitos siguientes)	No income (no subsequent digits)
+PY010G_F				1	Neta d'impostos sobre la renda en origen i cotitzacions socials	Neta de impuestos sobre la renta en origen y cotizaciones sociales	Net of income tax at source and social security contributions
+PY010G_F				2	Neta d'impostos sobre la renda en origen	Neta de impuestos sobre la renta en origen	Net of income tax at source
+PY010G_F				3	Neta de cotitzacions socials	Neta de cotizaciones sociales	Net of social security contributions
+PY010G_F				4	Bruta	Bruta 	Gross
+PY010G_F				5	Desconeguda	Desconocida	Unknown
+PY010G_F					SEGON DÍGIT: Mètode d'imputació	SEGUNDO DÍGITO: Método de imputación	SECOND DIGIT: Imputation method
+PY010G_F				2	Imputació estadística	Imputación estadística	Statistical imputation
+PY010G_F				3	Conversió net/brut	Conversión neto/bruto	Net/gross conversion
+PY010G_F					Dígits següents Factor d'imputació	Dígitos siguientes Factor de imputación	Subsequent digits Imputation factor
+PY010G_F					100 x valor recollit / valor registrat	100 x valor recogido / valor registrado	100 x collected value / registered value
+PY020G 	Renda bruta no monetària de l'assalariat l'any anterior al de l'enquesta (import en cèntims d'euro)	Renta bruta no monetaria del asalariado en el año anterior al de encuesta (importe en céntimos de euro)	Gross non-monetary income of the employee in the year before the survey (amount in euro cents)				
+PY020G_F	Variable que indica si PY020G està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PY020G está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PY020G is complete, if it is missing or if it is not applicable in the record in question.				
+PY020G_F				99	No emplenat: variable neta emplenada	No cumplimentado: variable neta cumplimentada	Not filled in: net variable filled in
+PY020G_F				91	Import inclòs en un altre component de la renda	Importe incluido en otro componente de la renta	Amount included in another component of income
+PY020G_F				97	No hi consta	No consta	No answer
+PY020G_F					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+PY020G_F					PRIMER DÍGIT: Neta/Bruta (manera de recollida de dades)	PRIMER DÍGITO: Neta/Bruta (modo de recogida de datos)	FIRST DIGIT: Net/Gross (data collection form)
+PY020G_F				0	Sense renda (sense dígits següents)	Sin renta (sin dígitos siguientes)	No income (no subsequent digits)
+PY020G_F				1	Neta d'impostos sobre la renda en origen i cotitzacions socials	Neta de impuestos sobre la renta en origen y cotizaciones sociales	Net of income tax at source and social security contributions
+PY020G_F				2	Neta d'impostos sobre la renda en origen	Neta de impuestos sobre la renta en origen	Net of income tax at source
+PY020G_F				3	Neta de cotitzacions socials	Neta de cotizaciones sociales	Net of social security contributions
+PY020G_F				4	Bruta	Bruta 	Gross
+PY020G_F				5	Desconeguda	Desconocida	Unknown
+PY020G_F					SEGON DÍGIT: Mètode d'imputació	SEGUNDO DÍGITO: Método de imputación	SECOND DIGIT: Imputation method
+PY020G_F				2	Imputació estadística	Imputación estadística	Statistical imputation
+PY020G_F				3	Conversió net/brut	Conversión neto/bruto	Net/gross conversion
+PY020G_F					Dígits següents Factor d'imputació	Dígitos siguientes Factor de imputación	Subsequent digits Imputation factor
+PY020G_F					100 x valor recollit / valor registrat	100 x valor recogido / valor registrado	100 x collected value / registered value
+PY021G 	Renda bruta no monetària de l'assalariat l'any anterior al de l'enquesta (import en cèntims d'euro)	Renta bruta no monetaria del asalariado en el año anterior al de encuesta (importe en céntimos de euro)	Gross non-monetary income of the employee in the year before the survey (amount in euro cents)				
+PY021G_F	Variable que indica si PY021G està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PY021G está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PY021G is complete, if it is missing or if it is not applicable in the record in question.				
+PY021G_F				99	No emplenat: variable neta emplenada	No cumplimentado: variable neta cumplimentada	Not filled in: net variable filled in
+PY021G_F				91	Import inclòs en un altre component de la renda	Importe incluido en otro componente de la renta	Amount included in another component of income
+PY021G_F				97	No hi consta	No consta	No answer
+PY021G_F					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+PY021G_F					PRIMER DÍGIT: Neta/Bruta (manera de recollida de dades)	PRIMER DÍGITO: Neta/Bruta (modo de recogida de datos)	FIRST DIGIT: Net/Gross (data collection form)
+PY021G_F				0	Sense renda (sense dígits següents)	Sin renta (sin dígitos siguientes)	No income (no subsequent digits)
+PY021G_F				1	Neta d'impostos sobre la renda en origen i cotitzacions socials	Neta de impuestos sobre la renta en origen y cotizaciones sociales	Net of income tax at source and social security contributions
+PY021G_F				2	Neta d'impostos sobre la renda en origen	Neta de impuestos sobre la renta en origen	Net of income tax at source
+PY021G_F				3	Neta de cotitzacions socials	Neta de cotizaciones sociales	Net of social security contributions
+PY021G_F				4	Bruta	Bruta 	Gross
+PY021G_F				5	Desconeguda	Desconocida	Unknown
+PY021G_F					SEGON DÍGIT: Mètode d'imputació	SEGUNDO DÍGITO: Método de imputación	SECOND DIGIT: Imputation method
+PY021G_F				2	Imputació estadística	Imputación estadística	Statistical imputation
+PY021G_F				3	Conversió net/brut	Conversión neto/bruto	Net/gross conversion
+PY021G_F					Dígits següents Factor d'imputació	Dígitos siguientes Factor de imputación	Subsequent digits Imputation factor
+PY021G_F					100 x valor recollit / valor registrat	100 x valor recogido / valor registrado	100 x collected value / registered value
+PY030G 	Cotitzacions socials a càrrec de l'ocupador l'any anterior al de l'enquesta (import en cèntims d'euro)	Cotizaciones sociales a cargo del empleador en el año anterior al de encuesta (importe en céntimos de euro)	Employer’s social security contributions in the year before the survey (amount in euro cents)				
+PY030G_F 				97	No hi consta	No consta	No answer
+PY030G_F 				00	Sense valor	Sin valor 	No value
+PY030G_F 				01	Amb valor	Con valor	With value
+PY035G	Aportacions a plans de pensions privats individuals l'any anterior al de l'enquesta (import en cèntims d'euro)	Aportaciones a planes de pensiones privados individuales en el año anterior al de encuesta (importe en céntimos de euro)	Contributions to private personal pension plans in the year before the survey (amount in euro cents)				
+PY035G_F	Variable que indica si PY035G està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PY035G está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PY035G is complete, if it is missing or if it is not applicable in the record in question.				
+PY035G_F				99	No emplenat: variable neta emplenada	No cumplimentado: variable neta cumplimentada	Not filled in: net variable filled in
+PY035G_F				97	No hi consta	No consta	No answer
+PY035G_F					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+PY035G_F					PRIMER DÍGIT	PRIMER DÍGITO:	FIRST DIGIT
+PY035G_F				0	Sense aportacions (sense dígits següents)	Sin aportaciones (sin dígitos siguientes)	No contributions (no subsequent digits)
+PY035G_F				1	Amb aportacions (variable completada)	Con aportaciones (variable completada)	With contributions (variable completed)
+PY035G_F					Dígits següents Factor d'imputació	Dígitos siguientes Factor de imputación	Subsequent digits Imputation factor
+PY035G_F					100 x valor recollit / valor registrat	100 x valor recogido / valor registrado	100 x collected value / registered value
+PY050G 	Beneficis o pèrdues monetaris bruts de treballadors per compte propi (inclosos drets de propietat intel·lectual) l'any anterior al de l'enquesta (import en cèntims d'euro)	Beneficios o pérdidas monetarios brutos de trabajadores por cuenta propia (incluidos derechos de propiedad intelectual) en el año anterior al de encuesta (importe en céntimos de euro)	Gross monetary gains or losses for self-employed workers (including intellectual property rights) in the year before the survey (amount in euro cents)				
+PY050G_F	Variable que indica si PY050G està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PY050G está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PY050G is complete, if it is missing or if it is not applicable in the record in question.				
+PY050G_F				99	No emplenat: variable neta emplenada	No cumplimentado: variable neta cumplimentada	Not filled in: net variable filled in
+PY050G_F				97	No hi consta	No consta	No answer
+PY050G_F					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+PY050G_F					PRIMER DÍGIT: Neta/Bruta (manera de recollida de dades)	PRIMER DÍGITO: Neta/Bruta (modo de recogida de datos)	FIRST DIGIT: Net/Gross (data collection form)
+PY050G_F				0	Sense renda (sense dígits següents)	Sin renta (sin dígitos siguientes)	No income (no subsequent digits)
+PY050G_F				1	Neta d'impostos sobre la renda en origen i cotitzacions socials	Neta de impuestos sobre la renta en origen y cotizaciones sociales	Net of income tax at source and social security contributions
+PY050G_F				2	Neta d'impostos sobre la renda en origen	Neta de impuestos sobre la renta en origen	Net of income tax at source
+PY050G_F				3	Neta de cotitzacions socials	Neta de cotizaciones sociales	Net of social security contributions
+PY050G_F				4	Bruta	Bruta 	Gross
+PY050G_F				5	Desconeguda	Desconocida	Unknown
+PY050G_F					SEGON DÍGIT: Mètode d'imputació	SEGUNDO DÍGITO: Método de imputación	SECOND DIGIT: Imputation method
+PY050G_F				2	Imputació estadística	Imputación estadística	Statistical imputation
+PY050G_F				3	Conversió net/brut	Conversión neto/bruto	Net/gross conversion
+PY050G_F					Dígits següents Factor d'imputació	Dígitos siguientes Factor de imputación	Subsequent digits Imputation factor
+PY050G_F					100 x valor recollit / valor registrat	100 x valor recogido / valor registrado	100 x collected value / registered value
+PY080G	Rendes brutes percebudes d'esquemes privats de pensions (diferents dels inclosos a SEEPROS) l'any anterior al de l'enquesta (import en cèntims d'euro)	Rentas brutas percibidas de esquemas privados de pensiones (distintos de los incluidos en SEEPROS) en el año anterior al de encuesta (importe en céntimos de euro)	Gross income received from private pension schemes (other than those included in SEEPROS) in the year before the survey (amount in euro cents)				
+PY080G_F	Variable que indica si PY080G està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PY080G está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PY080G is complete, if it is missing or if it is not applicable in the record in question.				
+PY080G_F				99	No emplenat: variable neta emplenada	No cumplimentado: variable neta cumplimentada	Not filled in: net variable filled in
+PY080G_F				97	No hi consta	No consta	No answer
+PY080G_F					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+PY080G_F					PRIMER DÍGIT: Neta/Bruta (manera de recollida de dades)	PRIMER DÍGITO: Neta/Bruta (modo de recogida de datos)	FIRST DIGIT: Net/Gross (data collection form)
+PY080G_F				0	Sense renda (sense dígits següents)	Sin renta (sin dígitos siguientes)	No income (no subsequent digits)
+PY080G_F				1	Neta d'impostos sobre la renda en origen i cotitzacions socials	Neta de impuestos sobre la renta en origen y cotizaciones sociales	Net of income tax at source and social security contributions
+PY080G_F				2	Neta d'impostos sobre la renda en origen	Neta de impuestos sobre la renta en origen	Net of income tax at source
+PY080G_F				3	Neta de cotitzacions socials	Neta de cotizaciones sociales	Net of social security contributions
+PY080G_F				4	Bruta	Bruta 	Gross
+PY080G_F				5	Desconeguda	Desconocida	Unknown
+PY080G_F					SEGON DÍGIT: Mètode d'imputació	SEGUNDO DÍGITO: Método de imputación	SECOND DIGIT: Imputation method
+PY080G_F				2	Imputació estadística	Imputación estadística	Statistical imputation
+PY080G_F				3	Conversió net/brut	Conversión neto/bruto	Net/gross conversion
+PY080G_F					Dígits següents Factor d'imputació	Dígitos siguientes Factor de imputación	Subsequent digits Imputation factor
+PY080G_F					100 x valor recollit / valor registrat	100 x valor recogido / valor registrado	100 x collected value / registered value
+PY090G 	Prestacions per desocupació (brutes) l'any anterior al de l'enquesta (import en cèntims d'euro)	Prestaciones por desempleo (brutas) en el año anterior al de encuesta (importe en céntimos de euro)	Unemployment benefits (gross) in the year before the survey (amount in euro cents)				
+PY090G_F	Variable que indica si PY090G està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PY090G está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PY090G is complete, if it is missing or if it is not applicable in the record in question.				
+PY090G_F				99	No emplenat: variable neta emplenada	No cumplimentado: variable neta cumplimentada	Not filled in: net variable filled in
+PY090G_F				97	No hi consta	No consta	No answer
+PY090G_F					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+PY090G_F					PRIMER DÍGIT: Neta/Bruta (manera de recollida de dades)	PRIMER DÍGITO: Neta/Bruta (modo de recogida de datos)	FIRST DIGIT: Net/Gross (data collection form)
+PY090G_F				0	Sense renda (sense dígits següents)	Sin renta (sin dígitos siguientes)	No income (no subsequent digits)
+PY090G_F				1	Neta d'impostos sobre la renda en origen i cotitzacions socials	Neta de impuestos sobre la renta en origen y cotizaciones sociales	Net of income tax at source and social security contributions
+PY090G_F				2	Neta d'impostos sobre la renda en origen	Neta de impuestos sobre la renta en origen	Net of income tax at source
+PY090G_F				3	Neta de cotitzacions socials	Neta de cotizaciones sociales	Net of social security contributions
+PY090G_F				4	Bruta	Bruta 	Gross
+PY090G_F				5	Desconeguda	Desconocida	Unknown
+PY090G_F					SEGON DÍGIT: Mètode d'imputació	SEGUNDO DÍGITO: Método de imputación	SECOND DIGIT: Imputation method
+PY090G_F				2	Imputació estadística	Imputación estadística	Statistical imputation
+PY090G_F				3	Conversió net/brut	Conversión neto/bruto	Net/gross conversion
+PY090G_F					Dígits següents Factor d'imputació	Dígitos siguientes Factor de imputación	Subsequent digits Imputation factor
+PY090G_F					100 x valor recollit / valor registrat	100 x valor recogido / valor registrado	100 x collected value / registered value
+PY100G 	Prestacions per jubilació (brutes) l'any anterior al de l'enquesta (import en cèntims d'euro)	Prestaciones por jubilación (brutas) en el año anterior al de encuesta (importe en céntimos de euro)	Retirement benefits (gross) in the year before the survey (amount in euro cents)				
+PY100G_F	Variable que indica si PY100G està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PY100G está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PY100G is complete, if it is missing or if it is not applicable in the record in question.				
+PY100G_F				99	No emplenat: variable neta emplenada	No cumplimentado: variable neta cumplimentada	Not filled in: net variable filled in
+PY100G_F				91	Import inclòs en un altre component de la renda	Importe incluido en otro componente de la renta	Amount included in another component of income
+PY100G_F				97	No hi consta	No consta	No answer
+PY100G_F					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+PY100G_F					PRIMER DÍGIT: Neta/Bruta (manera de recollida de dades)	PRIMER DÍGITO: Neta/Bruta (modo de recogida de datos)	FIRST DIGIT: Net/Gross (data collection form)
+PY100G_F				0	Sense renda (sense dígits següents)	Sin renta (sin dígitos siguientes)	No income (no subsequent digits)
+PY100G_F				1	Neta d'impostos sobre la renda en origen i cotitzacions socials	Neta de impuestos sobre la renta en origen y cotizaciones sociales	Net of income tax at source and social security contributions
+PY100G_F				2	Neta d'impostos sobre la renda en origen	Neta de impuestos sobre la renta en origen	Net of income tax at source
+PY100G_F				3	Neta de cotitzacions socials	Neta de cotizaciones sociales	Net of social security contributions
+PY100G_F				4	Bruta	Bruta 	Gross
+PY100G_F				5	Desconeguda	Desconocida	Unknown
+PY100G_F					SEGON DÍGIT: Mètode d'imputació	SEGUNDO DÍGITO: Método de imputación	SECOND DIGIT: Imputation method
+PY100G_F				2	Imputació estadística	Imputación estadística	Statistical imputation
+PY100G_F				3	Conversió net/brut	Conversión neto/bruto	Net/gross conversion
+PY100G_F					Dígits següents Factor d'imputació	Dígitos siguientes Factor de imputación	Subsequent digits Imputation factor
+PY100G_F					100 x valor recollit / valor registrat	100 x valor recogido / valor registrado	100 x collected value / registered value
+PY110G 	Prestacions per supervivència (brutes) l'any anterior al de l'enquesta (import en cèntims d'euro)	Prestaciones por supervivencia (brutas) en el año anterior al de encuesta (importe en céntimos de euro)	Survivor benefits (gross) in the year before the survey (amount in euro cents)				
+PY110G_F	Variable que indica si PY110G està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PY110G está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PY110G is complete, if it is missing or if it is not applicable in the record in question.				
+PY110G_F				99	No emplenat: variable neta emplenada	No cumplimentado: variable neta cumplimentada	Not filled in: net variable filled in
+PY110G_F				91	Import inclòs en un altre component de la renda	Importe incluido en otro componente de la renta	Amount included in another component of income
+PY110G_F				97	No hi consta	No consta	No answer
+PY110G_F					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+PY110G_F					PRIMER DÍGIT: Neta/Bruta (manera de recollida de dades)	PRIMER DÍGITO: Neta/Bruta (modo de recogida de datos)	FIRST DIGIT: Net/Gross (data collection form)
+PY110G_F				0	Sense renda (sense dígits següents)	Sin renta (sin dígitos siguientes)	No income (no subsequent digits)
+PY110G_F				1	Neta d'impostos sobre la renda en origen i cotitzacions socials	Neta de impuestos sobre la renta en origen y cotizaciones sociales	Net of income tax at source and social security contributions
+PY110G_F				2	Neta d'impostos sobre la renda en origen	Neta de impuestos sobre la renta en origen	Net of income tax at source
+PY110G_F				3	Neta de cotitzacions socials	Neta de cotizaciones sociales	Net of social security contributions
+PY110G_F				4	Bruta	Bruta 	Gross
+PY110G_F				5	Desconeguda	Desconocida	Unknown
+PY110G_F					SEGON DÍGIT: Mètode d'imputació	SEGUNDO DÍGITO: Método de imputación	SECOND DIGIT: Imputation method
+PY110G_F				2	Imputació estadística	Imputación estadística	Statistical imputation
+PY110G_F				3	Conversió net/brut	Conversión neto/bruto	Net/gross conversion
+PY110G_F					Dígits següents Factor d'imputació	Dígitos siguientes Factor de imputación	Subsequent digits Imputation factor
+PY110G_F					100 x valor recollit / valor registrat	100 x valor recogido / valor registrado	100 x collected value / registered value
+PY120G 	Prestacions per malaltia (brutes) l'any anterior al de l'enquesta (import en cèntims d'euro)	Prestaciones por enfermedad (brutas) en el año anterior al de encuesta (importe en céntimos de euro)	Sickness benefits (gross) in the year before the survey (amount in euro cents)				
+PY120G_F	Variable que indica si PY120G està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PY120G está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PY120G is complete, if it is missing or if it is not applicable in the record in question.				
+PY120G_F				99	No emplenat: variable neta emplenada	No cumplimentado: variable neta cumplimentada	Not filled in: net variable filled in
+PY120G_F				91	Import inclòs en un altre component de la renda	Importe incluido en otro componente de la renta	Amount included in another component of income
+PY120G_F				97	No hi consta	No consta	No answer
+PY120G_F					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+PY120G_F					PRIMER DÍGIT: Neta/Bruta (manera de recollida de dades)	PRIMER DÍGITO: Neta/Bruta (modo de recogida de datos)	FIRST DIGIT: Net/Gross (data collection form)
+PY120G_F				0	Sense renda (sense dígits següents)	Sin renta (sin dígitos siguientes)	No income (no subsequent digits)
+PY120G_F				1	Neta d'impostos sobre la renda en origen i cotitzacions socials	Neta de impuestos sobre la renta en origen y cotizaciones sociales	Net of income tax at source and social security contributions
+PY120G_F				2	Neta d'impostos sobre la renda en origen	Neta de impuestos sobre la renta en origen	Net of income tax at source
+PY120G_F				3	Neta de cotitzacions socials	Neta de cotizaciones sociales	Net of social security contributions
+PY120G_F				4	Bruta	Bruta 	Gross
+PY120G_F				5	Desconeguda	Desconocida	Unknown
+PY120G_F					SEGON DÍGIT: Mètode d'imputació	SEGUNDO DÍGITO: Método de imputación	SECOND DIGIT: Imputation method
+PY120G_F				2	Imputació estadística	Imputación estadística	Statistical imputation
+PY120G_F				3	Conversió net/brut	Conversión neto/bruto	Net/gross conversion
+PY120G_F					Dígits següents Factor d'imputació	Dígitos siguientes Factor de imputación	Subsequent digits Imputation factor
+PY120G_F					100 x valor recollit / valor registrat	100 x valor recogido / valor registrado	100 x collected value / registered value
+PY130G 	Prestacions per invalidesa (brutes) l'any anterior al de l'enquesta (import en cèntims d'euro)	Prestaciones por invalidez (brutas) en el año anterior al de encuesta (importe en céntimos de euro)	Disability benefits (gross) in the year before the survey (amount in euro cents)				
+PY130G_F	Variable que indica si PY130G està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PY130G está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PY130G is complete, if it is missing or if it is not applicable in the record in question.				
+PY130G_F				99	No emplenat: variable neta emplenada	No cumplimentado: variable neta cumplimentada	Not filled in: net variable filled in
+PY130G_F				91	Import inclòs en un altre component de la renda	Importe incluido en otro componente de la renta	Amount included in another component of income
+PY130G_F				97	No hi consta	No consta	No answer
+PY130G_F					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+PY130G_F					PRIMER DÍGIT: Neta/Bruta (manera de recollida de dades)	PRIMER DÍGITO: Neta/Bruta (modo de recogida de datos)	FIRST DIGIT: Net/Gross (data collection form)
+PY130G_F				0	Sense renda (sense dígits següents)	Sin renta (sin dígitos siguientes)	No income (no subsequent digits)
+PY130G_F				1	Neta d'impostos sobre la renda en origen i cotitzacions socials	Neta de impuestos sobre la renta en origen y cotizaciones sociales	Net of income tax at source and social security contributions
+PY130G_F				2	Neta d'impostos sobre la renda en origen	Neta de impuestos sobre la renta en origen	Net of income tax at source
+PY130G_F				3	Neta de cotitzacions socials	Neta de cotizaciones sociales	Net of social security contributions
+PY130G_F				4	Bruta	Bruta 	Gross
+PY130G_F				5	Desconeguda	Desconocida	Unknown
+PY130G_F					SEGON DÍGIT: Mètode d'imputació	SEGUNDO DÍGITO: Método de imputación	SECOND DIGIT: Imputation method
+PY130G_F				2	Imputació estadística	Imputación estadística	Statistical imputation
+PY130G_F				3	Conversió net/brut	Conversión neto/bruto	Net/gross conversion
+PY130G_F					Dígits següents Factor d'imputació	Dígitos siguientes Factor de imputación	Subsequent digits Imputation factor
+PY130G_F					100 x valor recollit / valor registrat	100 x valor recogido / valor registrado	100 x collected value / registered value
+PY140G	Ajuda per a estudis l'any anterior al de l'enquesta (import en cèntims d'euro)	Ayuda para estudios en el año anterior al de la encuesta (importe en céntimos de euro)	Grant for studies in the year before the survey (amount in euro cents)				
+PY140G_F	Variable que indica si PY140G està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PY140G está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PY140G is complete, if it is missing or if it is not applicable in the record in question.				
+PY140G_F				99	No emplenat: variable neta emplenada	No cumplimentado: variable neta cumplimentada	Not filled in: net variable filled in
+PY140G_F				97	No hi consta	No consta	No answer
+PY140G_F					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+PY140G_F					PRIMER DÍGIT: Neta/Bruta (manera de recollida de dades)	PRIMER DÍGITO: Neta/Bruta (modo de recogida de datos)	FIRST DIGIT: Net/Gross (data collection form)
+PY140G_F				0	Sense renda (sense dígits següents)	Sin renta (sin dígitos siguientes)	No income (no subsequent digits)
+PY140G_F				1	Neta d'impostos sobre la renda en origen i cotitzacions socials	Neta de impuestos sobre la renta en origen y cotizaciones sociales	Net of income tax at source and social security contributions
+PY140G_F				2	Neta d'impostos sobre la renda en origen	Neta de impuestos sobre la renta en origen	Net of income tax at source
+PY140G_F				3	Neta de cotitzacions socials	Neta de cotizaciones sociales	Net of social security contributions
+PY140G_F				4	Bruta	Bruta 	Gross
+PY140G_F				5	Desconeguda	Desconocida	Unknown
+PY140G_F					SEGON DÍGIT: Mètode d'imputació	SEGUNDO DÍGITO: Método de imputación	SECOND DIGIT: Imputation method
+PY140G_F				2	Imputació estadística	Imputación estadística	Statistical imputation
+PY140G_F				3	Conversió net/brut	Conversión neto/bruto	Net/gross conversion
+PY140G_F					Dígits següents Factor d'imputació	Dígitos siguientes Factor de imputación	Subsequent digits Imputation factor
+PY140G_F					100 x valor recollit / valor registrat	100 x valor recogido / valor registrado	100 x collected value / registered value
+P78A_U	En relació amb les activitats que la gent fa habitualment i en què vostè ha estat limitat, de qui ha rebut ajuda principalment?	En relación con las actividades que la gente hace habitualmente y en las que usted ha estado limitado, ¿de quién ha recibido ayuda principalmente?	In relation to the activities that people usually do and for which you have been limited, from whom have you mainly received help?				
+P78A_U				96	NA (no ha estat limitat)	NA (no ha estado limitado)	NA (not limited)
+P78A_U				97	No hi consta	No consta	No answer
+P78A_U				01	No rep ajuda de ningú	No recibe ayuda de nadie	He/she gets no help from anyone
+P78A_U				02	De la parella	De la pareja	From his/her partner
+P78A_U				03	D'altres familiars	De otros familiares	From other relatives
+P78A_U				04	De veïns o coneguts	De vecinos o conocidos	From neighbours or acquaintances
+P78A_U				05	De persones contractades particularment	De personas contratadas particularmente	From privately hired people
+P78A_U				06	De personal de serveis socials	De personal de servicios sociales	From social services staff
+P78A_U				07	De membres d'associacions d'ajuda	De miembros de asociaciones de ayuda	From members of charitable associations
+P78A_U				08	D'una altra persona	De otra persona	From another person
+P78A_U				09	No ha estat limitat	No ha estado limitado	He/she has not been limited
+P78B_U	Quantes hores a la setmana rep ajuda/atenció? (per a les persones que han respost P78A = 2 - 8)	¿Cuántas horas a la semana recibe ayuda/atención? (para las personas que han respondido P78A = 2 - 8)	How many hours a week do you receive help/care? (for people who answered P78A = 2 - 8)				
+P78B_U				96	NA (no rep ajuda o no ha estat limitat)	NA (no recibe ayuda o no ha estado limitado)	NA (does not receive help or has not been limited)
+P78B_U				97	No hi consta	No consta	No answer
+P78B_U				01	Menys de 10 hores a la setmana	Menos de 10 horas a la semana	Less than 10 hours a week
+P78B_U				02	10 hores o més a la setmana, però menys de 20	10 horas o más a la semana, pero menos de 20	10 hours or more per week, but less than 20
+P78B_U				03	20 hores a la setmana o més	20 horas a la semana o más	20 hours per week or more
+PD020	Substitueix les robes fetes malbé per altres de noves (que no siguin de segona mà)?	¿Sustituye las ropas estropeadas por otras nuevas (que no sean de segunda mano)?	Do you replace damaged clothing with new (not second-hand) clothing?				
+PD020				1	Sí	Sí	Yes
+PD020				2	No, perquè no s'ho pot permetre	No, porque no puede permitírselo	No, because he/she cannot afford it
+PD020				3	No, per altres motius	No, por otras razones	No, for other reasons
+PD020_F	Variable que indica si PD020 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PD020 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PD020 is complete, if it is missing or if it is not applicable in the record in question.				
+PD020_F				97	No hi consta	No consta	No answer
+PD020_F				01	Variable completada	Variable completada	Variable completed
+PD030	Té dos parells de sabates (o un parell adequat per a qualsevol època de l'any)?	¿Tiene dos pares de zapatos, (o un par adecuado para cualquier época del año)?	Do you have two pairs of shoes (or one pair suitable for any time of year)?				
+PD030				1	Sí	Sí	Yes
+PD030				2	No, perquè no s'ho pot permetre	No, porque no puede permitírselo	No, because he/she cannot afford it
+PD030				3	No, per altres motius	No, por otras razones	No, for other reasons
+PD030_F	Variable que indica si PD030 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PD030 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PD030 is complete, if it is missing or if it is not applicable in the record in question.				
+PD030_F				97	No hi consta	No consta	No answer
+PD030_F				01	Variable completada	Variable completada	Variable completed
+PD050	Es reuneix amb amics i familiars per menjar o prendre alguna cosa almenys una vegada al mes?	¿Se reúne con amigos y/o familiares para comer o tomar algo al menos una vez al mes?	Do you meet up with friends and family to eat or have a drink at least once a month?				
+PD050				1	Sí	Sí	Yes
+PD050				2	No, perquè no s'ho pot permetre	No, porque no puede permitírselo	No, because he/she cannot afford it
+PD050				3	No, per altres motius	No, por otras razones	No, for other reasons
+PD050_F	Variable que indica si PD050 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PD050 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PD050 is complete, if it is missing or if it is not applicable in the record in question.				
+PD050_F				97	No hi consta	No consta	No answer
+PD050_F				01	Variable completada	Variable completada	Variable completed
+PD060	Participa regularment en activitats de lleure com ara esports, cinema, concerts, etc.?	¿Participa regularmente en actividades de ocio tales como deportes, cine, conciertos, etc.?	Do you regularly participate in leisure activities such as sport, cinema, concerts, etc.?				
+PD060				1	Sí	Sí	Yes
+PD060				2	No, perquè no s'ho pot permetre	No, porque no puede permitírselo	No, because he/she cannot afford it
+PD060				3	No, per altres motius	No, por otras razones	No, for other reasons
+PD060_F	Variable que indica si PD060 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PD060 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PD060 is complete, if it is missing or if it is not applicable in the record in question.				
+PD060_F				97	No hi consta	No consta	No answer
+PD060_F				01	Variable completada	Variable completada	Variable completed
+PD070	Gasta una petita quantitat de diners en vostè mateix cada setmana?	¿Gasta una pequeña cantidad de dinero en usted mismo cada semana?	Do you spend a small amount of money on yourselve every week?				
+PD070				1	Sí	Sí	Yes
+PD070				2	No, perquè no s'ho pot permetre	No, porque no puede permitírselo	No, because he/she cannot afford it
+PD070				3	No, per altres motius	No, por otras razones	No, for other reasons
+PD070_F	Variable que indica si PD070 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PD070 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PD070 is complete, if it is missing or if it is not applicable in the record in question.				
+PD070_F				97	No hi consta	No consta	No answer
+PD070_F				01	Variable completada	Variable completada	Variable completed
+PD080	Disposa de connexió a internet (fixa o mòbil) per a ús personal a la llar?	¿Dispone de conexión a internet (fija o móvil) para uso personal en el hogar?	Do you have an internet connection (fixed or mobile) for personal use in the home?				
+PD080				1	Sí	Sí	Yes
+PD080				2	No, perquè no s'ho pot permetre	No, porque no puede permitírselo	No, because he/she cannot afford it
+PD080				3	No, per altres motius	No, por otras razones	No, for other reasons
+PD080_F	Variable que indica si PD080 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PD080 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PD080 is complete, if it is missing or if it is not applicable in the record in question.				
+PD080_F				97	No hi consta	No consta	No answer
+PD080_F				01	Variable completada	Variable completada	Variable completed
+PW010T	Grau de satisfacció global amb la seva vida actualment	Grado de satisfacción global con su vida en la actualidad	Degree of overall satisfaction with his/her life at the moment				
+PW010T				00	Gens satisfet	Nada satisfecho	Not satisfied at all
+PW010T				01	Grau 1	Grado 1	Degree 1
+PW010T				02	Grau 2	Grado 2	Degree 2
+PW010T				03	Grau 3	Grado 3	Degree 3
+PW010T				04	Grau 4	Grado 4	Degree 4
+PW010T				05	Grau 5	Grado 5	Degree 5
+PW010T				06	Grau 6	Grado 6	Degree 6
+PW010T				07	Grau 7	Grado 7	Degree 7
+PW010T				08	Grau 8	Grado 8	Degree 8
+PW010T				09	Grau 9	Grado 9	Degree 9
+PW010T				10	Plenament satisfet	Plenamente satisfecho	Fully satisfied
+PW010T_F	Variable que indica si PW010T està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PW010T está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PW010T is complete, if it is missing or if it is not applicable in the record in question.				
+PW010T_F				01	Variable completada	Variable completada	Variable completed
+PW010T_F				97	No hi consta	No consta	No answer
+PW030T	Grau de satisfacció global amb la situació econòmica de la seva llar	Grado de satisfacción global con la situación económica de su hogar	Degree of overall satisfaction with his/her household’s economic situation				
+PW030T				00	Gens satisfet	Nada satisfecho	Not satisfied at all
+PW030T				01	Grau 1	Grado 1	Degree 1
+PW030T				02	Grau 2	Grado 2	Degree 2
+PW030T				03	Grau 3	Grado 3	Degree 3
+PW030T				04	Grau 4	Grado 4	Degree 4
+PW030T				05	Grau 5	Grado 5	Degree 5
+PW030T				06	Grau 6	Grado 6	Degree 6
+PW030T				07	Grau 7	Grado 7	Degree 7
+PW030T				08	Grau 8	Grado 8	Degree 8
+PW030T				09	Grau 9	Grado 9	Degree 9
+PW030T				10	Plenament satisfet	Plenamente satisfecho	Fully satisfied
+PW030T_F	Variable que indica si PW030T està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PW030T está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PW030T is complete, if it is missing or if it is not applicable in the record in question.				
+PW030T_F				01	Variable completada	Variable completada	Variable completed
+PW030T_F				97	No hi consta	No consta	No answer
+PW040T	Possibilitat de demanar ajut material a familiars, amics, veïns o coneguts	Posibilidad de pedir ayuda material a familiares, amigos, vecinos o conocidos	Possibility of asking for material help from family, friends, neighbours or acquaintances				
+PW040T				1	Sí	Sí	Yes
+PW040T				2	No	No	No
+PW040T_F	Variable que indica si PW040T està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PW040T está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PW040T is complete, if it is missing or if it is not applicable in the record in question.				
+PW040T_F				01	Variable completada	Variable completada	Variable completed
+PW040T_F				97	No hi consta	No consta	No answer
+PW050T	Freqüència amb què va estar especialment tens	Frecuencia con la que estuvo especialmente tenso	How often he/she was especially tense				
+PW050T				1	Sempre	Siempre	Always
+PW050T				2	Quasi sempre	Casi siempre	Almost always
+PW050T				3	De vegades	Algunas veces	Sometimes
+PW050T				4	Només alguna vegada	Solo alguna vez	Just sometimes
+PW050T				5	Mai	Nunca	Never
+PW050T_F	Variable que indica si PW050T està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PW050T está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PW050T is complete, if it is missing or if it is not applicable in the record in question.				
+PW050T_F				01	Variable completada	Variable completada	Variable completed
+PW050T_F				97	No hi consta	No consta	No answer
+PW060T	Freqüència amb què es va sentir baix de moral	Frecuencia con la que se sintió bajo de moral	How often he/she felt down				
+PW060T				1	Sempre	Siempre	Always
+PW060T				2	Quasi sempre	Casi siempre	Almost always
+PW060T				3	De vegades	Algunas veces	Sometimes
+PW060T				4	Només alguna vegada	Solo alguna vez	Just sometimes
+PW060T				5	Mai	Nunca	Never
+PW060T_F	Variable que indica si PW060T està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PW060T está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PW060T is complete, if it is missing or if it is not applicable in the record in question.				
+PW060T_F				01	Variable completada	Variable completada	Variable completed
+PW060T_F				97	No hi consta	No consta	No answer
+PW070T	Freqüència amb què es va sentir calmat i tranquil	Frecuencia con la que se sintió calmado y tranquilo	How often he/she felt calm and peaceful				
+PW070T				1	Sempre	Siempre	Always
+PW070T				2	Quasi sempre	Casi siempre	Almost always
+PW070T				3	De vegades	Algunas veces	Sometimes
+PW070T				4	Només alguna vegada	Solo alguna vez	Just sometimes
+PW070T				5	Mai	Nunca	Never
+PW070T_F	Variable que indica si PW070T està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PW070T está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PW070T is complete, if it is missing or if it is not applicable in the record in question.				
+PW070T_F				01	Variable completada	Variable completada	Variable completed
+PW070T_F				97	No hi consta	No consta	No answer
+PW080T	Freqüència amb què es va sentir desanimat i deprimit	Frecuencia con la que se sintió desanimado y deprimido	How often he/she felt discouraged and depressed				
+PW080T				1	Sempre	Siempre	Always
+PW080T				2	Quasi sempre	Casi siempre	Almost always
+PW080T				3	De vegades	Algunas veces	Sometimes
+PW080T				4	Només alguna vegada	Solo alguna vez	Just sometimes
+PW080T				5	Mai	Nunca	Never
+PW080T_F	Variable que indica si PW080T està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PW080T está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PW080T is complete, if it is missing or if it is not applicable in the record in question.				
+PW080T_F				01	Variable completada	Variable completada	Variable completed
+PW080T_F				97	No hi consta	No consta	No answer
+PW090T	Freqüència amb què es va sentir feliç	Frecuencia con la que se sintió feliz	How often he/she felt happy				
+PW090T				1	Sempre	Siempre	Always
+PW090T				2	Quasi sempre	Casi siempre	Almost always
+PW090T				3	De vegades	Algunas veces	Sometimes
+PW090T				4	Només alguna vegada	Solo alguna vez	Just sometimes
+PW090T				5	Mai	Nunca	Never
+PW090T_F	Variable que indica si PW090T està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PW090T está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PW090T is complete, if it is missing or if it is not applicable in the record in question.				
+PW090T_F				01	Variable completada	Variable completada	Variable completed
+PW090T_F				97	No hi consta	No consta	No answer
+PW100T	Grau de satisfacció global amb la feina actual	Grado de satisfacción global con su trabajo actual	Degree of overall satisfaction with his/her current work				
+PW100T				00	Gens satisfet	Nada satisfecho	Not satisfied at all
+PW100T				01	Grau 1	Grado 1	Degree 1
+PW100T				02	Grau 2	Grado 2	Degree 2
+PW100T				03	Grau 3	Grado 3	Degree 3
+PW100T				04	Grau 4	Grado 4	Degree 4
+PW100T				05	Grau 5	Grado 5	Degree 5
+PW100T				06	Grau 6	Grado 6	Degree 6
+PW100T				07	Grau 7	Grado 7	Degree 7
+PW100T				08	Grau 8	Grado 8	Degree 8
+PW100T				09	Grau 9	Grado 9	Degree 9
+PW100T				10	Plenament satisfet	Plenamente satisfecho	Fully satisfied
+PW100T_F	Variable que indica si PW100T està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PW100T está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PW100T is complete, if it is missing or if it is not applicable in the record in question.				
+PW100T_F				01	Variable completada	Variable completada	Variable completed
+PW100T_F				97	No hi consta	No consta	No answer
+PW110T	Possibilitat de demanar ajuda no material a familiars, amics, veïns o coneguts	Posibilidad de pedir ayuda no material a familiares, amigos, vecinos o conocidos	Possibility of asking for non-material help from family, friends, neighbours or acquaintances				
+PW110T				1	Sí	Sí	Yes
+PW110T				2	No	No	No
+PW110T_F	Variable que indica si PW110T està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PW110T está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PW110T is complete, if it is missing or if it is not applicable in the record in question.				
+PW110T_F				01	Variable completada	Variable completada	Variable completed
+PW110T_F				97	No hi consta	No consta	No answer
+PW120T	Grau de satisfacció global amb el temps que disposa per fer allò que li agrada	Grado de satisfacción global con el tiempo que dispone para hacer lo que le gusta	Degree of overall satisfaction with the time he/she has to do the things he/she likes				
+PW120T				00	Gens satisfet	Nada satisfecho	Not satisfied at all
+PW120T				01	Grau 1	Grado 1	Degree 1
+PW120T				02	Grau 2	Grado 2	Degree 2
+PW120T				03	Grau 3	Grado 3	Degree 3
+PW120T				04	Grau 4	Grado 4	Degree 4
+PW120T				05	Grau 5	Grado 5	Degree 5
+PW120T				06	Grau 6	Grado 6	Degree 6
+PW120T				07	Grau 7	Grado 7	Degree 7
+PW120T				08	Grau 8	Grado 8	Degree 8
+PW120T				09	Grau 9	Grado 9	Degree 9
+PW120T				10	Plenament satisfet	Plenamente satisfecho	Fully satisfied
+PW120T_F	Variable que indica si PW120T està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PW120T está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PW120T is complete, if it is missing or if it is not applicable in the record in question.				
+PW120T_F				01	Variable completada	Variable completada	Variable completed
+PW120T_F				97	No hi consta	No consta	No answer
+PW160T	Grau de satisfacció global amb les relacions personals	Grado de satisfacción global con sus relaciones personales	Degree of overall satisfaction with his/her personal relationships				
+PW160T				00	Gens satisfet	Nada satisfecho	Not satisfied at all
+PW160T				01	Grau 1	Grado 1	Degree 1
+PW160T				02	Grau 2	Grado 2	Degree 2
+PW160T				03	Grau 3	Grado 3	Degree 3
+PW160T				04	Grau 4	Grado 4	Degree 4
+PW160T				05	Grau 5	Grado 5	Degree 5
+PW160T				06	Grau 6	Grado 6	Degree 6
+PW160T				07	Grau 7	Grado 7	Degree 7
+PW160T				08	Grau 8	Grado 8	Degree 8
+PW160T				09	Grau 9	Grado 9	Degree 9
+PW160T				10	Plenament satisfet	Plenamente satisfecho	Fully satisfied
+PW160T_F	Variable que indica si PW160T està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PW160T está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PW160T is complete, if it is missing or if it is not applicable in the record in question.				
+PW160T_F				01	Variable completada	Variable completada	Variable completed
+PW160T_F				97	No hi consta	No consta	No answer
+PW190T	Grau de confiança en la major part de les persones	Grado de confianza en la mayor parte de las personas	Degree of trust in most people				
+PW190T				00	No confia en ningú	No confía en nadie	Doesn't trust anyone
+PW190T				01	Grau 1	Grado 1	Degree 1
+PW190T				02	Grau 2	Grado 2	Degree 2
+PW190T				03	Grau 3	Grado 3	Degree 3
+PW190T				04	Grau 4	Grado 4	Degree 4
+PW190T				05	Grau 5	Grado 5	Degree 5
+PW190T				06	Grau 6	Grado 6	Degree 6
+PW190T				07	Grau 7	Grado 7	Degree 7
+PW190T				08	Grau 8	Grado 8	Degree 8
+PW190T				09	Grau 9	Grado 9	Degree 9
+PW190T				10	Confia en la major part de les persones	Confía en la mayor parte de las personas	He/she trusts most people
+PW190T_F	Variable que indica si PW190T està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PW190T está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PW190T is complete, if it is missing or if it is not applicable in the record in question.				
+PW190T_F				01	Variable completada	Variable completada	Variable completed
+PW190T_F				97	No hi consta	No consta	No answer
+PW230T	Freqüència amb què es va sentir sol	Frecuencia con la que se sintió solo	How often he/she felt lonely				
+PW230T				1	Sempre	Siempre	Always
+PW230T				2	Quasi sempre	Casi siempre	Almost always
+PW230T				3	De vegades	Algunas veces	Sometimes
+PW230T				4	Només alguna vegada	Solo alguna vez	Just sometimes
+PW230T				5	Mai	Nunca	Never
+PW230T_F	Variable que indica si PW230T està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PW230T está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PW230T is complete, if it is missing or if it is not applicable in the record in question.				
+PW230T_F				01	Variable completada	Variable completada	Variable completed
+PW230T_F				97	No hi consta	No consta	No answer
+PW240T	Sentiment percebut d'exclusió social	Sentimiento percibido de exclusión social	Perceived feeling of social exclusion				
+PW240T				00	Gens satisfet	Nada satisfecho	Not satisfied at all
+PW240T				01	Grau 1	Grado 1	Degree 1
+PW240T				02	Grau 2	Grado 2	Degree 2
+PW240T				03	Grau 3	Grado 3	Degree 3
+PW240T				04	Grau 4	Grado 4	Degree 4
+PW240T				05	Grau 5	Grado 5	Degree 5
+PW240T				06	Grau 6	Grado 6	Degree 6
+PW240T				07	Grau 7	Grado 7	Degree 7
+PW240T				08	Grau 8	Grado 8	Degree 8
+PW240T				09	Grau 9	Grado 9	Degree 9
+PW240T				10	Plenament satisfet	Plenamente satisfecho	Fully satisfied
+PW240T				99	No ho sap	No sabe	Doesn't know
+PW240T_F	Variable que indica si PW240T està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PW240T está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PW240T is complete, if it is missing or if it is not applicable in the record in question.				
+PW240T_F				01	Variable completada	Variable completada	Variable completed
+PW240T_F				97	No hi consta	No consta	No answer
+PHD01T	En algun moment ha tingut dificultats d'allotjament d'algun d'aquests tipus?	¿Ha tenido en algún momento dificultades de alojamiento de alguno de estos tipos?	Have you ever had housing difficulties of these types?				
+PHD01T				1	Sí, s'ha vist obligat a allotjar-se temporalment a cases d'amics o familiars	Sí, se ha visto obligado a alojarse temporalmente en casas de amigos o familiares	Yes, he/she has had to stay temporarily in the homes of friends or relatives
+PHD01T				2	Sí, s'ha vist obligat a allotjar-se temporalment en albergs, centres d'acollida o altres centres de caràcter provisional	Sí, se ha visto obligado a alojarse temporalmente en albergues, centros de acogida u otros centros de carácter provisional	Yes, he/she has had to stay temporarily in hostels, shelters or other temporary centres.
+PHD01T				3	Sí, s'ha vist obligat a allotjar-se en una barraca, cabanya, cova o un altre lloc no destinat a ser un habitatge permanent	Sí, se ha visto obligado a alojarse en una chabola, choza, cueva u otro lugar no destinado a ser una vivienda permanente	Yes, he/she has had to stay in a shack, hut, cave or other place not intended to be permanent housing.
+PHD01T				4	Sí, ha dormit al carrer o en un espai públic	Sí, ha dormido en la calle o en un espacio público	Yes, he/she slept in the street or in a public space
+PHD01T				5	No	No	No
+PHD01T_F	Variable que indica si PHD01T està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PHD01T está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PHD01T is complete, if it is missing or if it is not applicable in the record in question.				
+PHD01T_F				01	Variable completada	Variable completada	Variable completed
+PHD01T_F				97	No hi consta	No consta	No answer
+PHD02T	Quant de temps va durar o està durant el darrer període en què ha tingut dificultats d'allotjament?	¿Cuánto tiempo duró o está durando el último periodo en que ha tenido dificultades de alojamiento?	How long did the last period when you had housing difficulties last or how long has the current period lasted?				
+PHD02T_F	Variable que indica si PHD02T està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PHD02T está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PHD02T is complete, if it is missing or if it is not applicable in the record in question.				
+PHD02T_F				01	Variable completada	Variable completada	Variable completed
+PHD02T_F				97	No hi consta	No consta	No answer
+PHD02T_F				96	No aplicable (PHD01T = No)	No aplicable (PHD01T = No)	Not applicable (PHD01T = No)
+PHD03T	Quina va ser la raó principal d'aquestes dificultats d'allotjament?	¿Cuál fue la razón principal de esas dificultades de alojamiento?	What was the main reason for these housing difficulties?				
+PHD03T				1	Problemes amb la parella o família	Problemas con la pareja o familia	Problems with the couple or family
+PHD03T				2	Problemes de salut	Problemas de salud	Health problems
+PHD03T				3	Atur	Desempleo	Unemployment
+PHD03T				4	Finalització del contracte de lloguer	Finalización del contrato de alquiler	Termination of the lease agreement
+PHD03T				5	Habitatge inhabitable (en ruïnes, demolida, cremada...)	Vivienda inhabitable (en ruinas, demolida, quemada...)	Uninhabitable housing (in ruins, demolished, burned, etc.)
+PHD03T				6	Finalització d'estada a una institució i manca d'habitatge	Finalización de estancia en una institución y carencia de vivienda	End of stay in an institution and lack of housing
+PHD03T				7	Problemes econòmics/ingressos insuficients (desnonament...)	Problemas económicos/ingresos insuficientes (desahucio...)	Economic problems/insufficient incomes (eviction...)
+PHD03T				8	Altres	Otros	Others
+PHD03T_F	Variable que indica si PHD03T està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PHD03T está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PHD03T is complete, if it is missing or if it is not applicable in the record in question.				
+PHD03T_F				01	Variable completada	Variable completada	Variable completed
+PHD03T_F				97	No hi consta	No consta	No answer
+PHD03T_F				96	No aplicable (PHD01T = No)	No aplicable (PHD01T = No)	Not applicable (PHD01T = No)
+PHD04T	Una altra raó d'aquestes dificultats	Otra razón de dichas dificultades	Another reason for these difficulties				
+PHD04T				1	Problemes amb la parella o família	Problemas con la pareja o familia	Problems with the couple or family
+PHD04T				2	Problemes de salut	Problemas de salud	Health problems
+PHD04T				3	Atur	Desempleo	Unemployment
+PHD04T				4	Finalització del contracte de lloguer	Finalización del contrato de alquiler	Termination of the lease agreement
+PHD04T				5	Habitatge inhabitable (en ruïnes, demolida, cremada...)	Vivienda inhabitable (en ruinas, demolida, quemada...)	Uninhabitable housing (in ruins, demolished, burned, etc.)
+PHD04T				6	Finalització d'estada a una institució i manca d'habitatge	Finalización de estancia en una institución y carencia de vivienda	End of stay in an institution and lack of housing
+PHD04T				7	Problemes econòmics/ingressos insuficients (desnonament...)	Problemas económicos/ingresos insuficientes (desahucio...)	Economic problems/insufficient incomes (eviction...)
+PHD04T				8	Altres	Otros	Others
+PHD04T				9	No hi ha cap altra raó	No hay otra razón	There is no other reason
+PHD04T_F	Variable que indica si PHD04T està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PHD04T está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PHD04T is complete, if it is missing or if it is not applicable in the record in question.				
+PHD04T_F				01	Variable completada	Variable completada	Variable completed
+PHD04T_F				97	No hi consta	No consta	No answer
+PHD04T_F				96	No aplicable (PHD01T = No)	No aplicable (PHD01T = No)	Not applicable (PHD01T = No)
+PHD05T	Quina va ser la raó principal de la finalització de les dificultats d'allotjament?	¿Cuál fue la razón principal de la finalización de las dificultades de alojamiento?	What was the main reason for the end of the housing difficulties?				
+PHD05T				1	Relació existent, nova o renovada, amb la parella o la família	Relación existente, nueva o renovada, con la pareja o la familia	Existing relationship, new or renewed, with the partner or family
+PHD05T				2	Ha superat els problemes de salut	Ha superado sus problemas de salud	He/she overcame his/her health problems
+PHD05T				3	Ha aconseguit una feina	Ha conseguido un trabajo	He/she got a job
+PHD05T				4	S'ha traslladat a un habitatge social o a un de privat subvencionat	Se ha trasladado a una vivienda social o a una privada subvencionada	He/she has moved to social housing or a subsidised private home
+PHD05T				5	Altres	Otros	Others
+PHD05T				6	Encara té dificultats d'allotjament	Aún tiene dificultades de alojamiento	He/she still has housing difficulties
+PHD05T_F	Variable que indica si PHD05T està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si PHD05T está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if PHD05T is complete, if it is missing or if it is not applicable in the record in question.				
+PHD05T_F				01	Variable completada	Variable completada	Variable completed
+PHD05T_F				97	No hi consta	No consta	No answer
+PHD05T_F				96	No aplicable (PHD01T = No)	No aplicable (PHD01T = No)	Not applicable (PHD01T = No)

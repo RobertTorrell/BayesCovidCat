@@ -1,0 +1,23 @@
+Variable	DescrCA	DescrES	DescrEN	Valor_Value	LabelCA	LabelES	LabelEN
+DB010	Any de l'enquesta	Año de la encuesta	Survey year				
+DB020	País	País	Country				
+DB020				ES	Espanya	España	Spain
+DB030	Identificació transversal de la llar	Identificación transversal del hogar	Cross-sectional household identification				
+DB040	Regió	Región	Region				
+DB040				ES51	Catalunya	Cataluña	Catalonia
+DB040_F	Variable que indica si DB040 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si DB040 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if DB040 is complete, if it is missing or if it is not applicable in the record in question.				
+DB040_F				97	No hi consta	No consta	No answer
+DB040_F				01	Variable completada	Variable completada	Variable completed
+DB060	Unitat primària de mostreig (secció censal anonimitzada)	Unidad primaria de muestreo (sección censal anonimizada)	Primary sampling unit (anonymised census tract)				
+DB060_F	Variable que indica si DB060 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si DB060 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if DB060 is complete, if it is missing or if it is not applicable in the record in question.				
+DB060_F				95	No disponible	No disponible	Not available
+DB060_F				01	Variable completada	Variable completada	Variable completed
+DB090	Factor transversal de la llar multiplicat per 100.000 (factor transversal real = DB090 / 100.000)	Factor transversal del hogar multiplicat per 100.000 (Factor transversar real = DB090 / 100.000)	Cross-sectional household factor multiplied by 100,000 (real cross-sectional factor = DB090 / 100,000)				
+DB090_F	Variable que indica si DB090 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si DB090 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if DB090 is complete, if it is missing or if it is not applicable in the record in question.				
+DB090_F				1	Variable completada	Variable completada	Variable completed
+DB100	Grau d'urbanització	Grado de urbanización	Degree of urbanisation				
+DB100				1	Zona molt poblada	Zona muy poblada	Highly-populated area
+DB100				2	Zona mitjana	Zona media	Average area
+DB100				3	Zona poc poblada	Zona poco poblada	Sparsely-populated area
+DB100_F	Variable que indica si DB100 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si DB100 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if DB100 is complete, if it is missing or if it is not applicable in the record in question.				
+DB100_F				1	Variable completada	Variable completada	Variable completed

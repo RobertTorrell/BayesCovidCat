@@ -1,0 +1,841 @@
+Variable	DescrCA	DescrES	DescrEN	Valor_Value	LabelCA	LabelES	LabelEN
+HB010	Any de l'enquesta	Año de la encuesta 	Survey year				
+HB020	País	País	Country				
+HB020				ES	Espanya	España	Spain
+HB030	Identificació transversal de la llar	Identificación transversal del hogar	Cross-sectional household identification				
+HB050	Mes de l'entrevista a la llar	Mes de la entrevista al hogar	Household interview month				
+HB050				1	Gener	Enero	January
+HB050				2	Febrer	Febrero	February
+HB050				3	Març	Marzo	March
+HB050				4	Abril	Abril	April
+HB050				5	Maig	Mayo	May
+HB050				6	Juny 	Junio	June
+HB050				7	Juliol	Julio	July
+HB050				8	Agost	Agosto	August
+HB050				9	Setembre	Septiembre	September
+HB050				10	Octubre	Octubre	October
+HB050				11	Novembre	Noviembre	November
+HB050				12	Desembre	Diciembre	December
+HB050_F	Variable que indica si HB050 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si HB050 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if HB050 is complete, if it is missing or if it is not applicable in the record in question.				
+HB050_F				1	Variable completada	Variable completada	Variable completed
+HB060	Any de l'entrevista a la llar	Año de la entrevista al hogar	Household interview year				
+HB060_F	Variable que indica si HB060 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si HB060 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if HB060 is complete, if it is missing or if it is not applicable in the record in question.				
+HB060_F				1	Variable completada	Variable completada	Variable completed
+HB070	Identificació personal de l'informant del qüestionari sobre la llar	Identificación personal del informante del cuestionario sobre el hogar	Personal identification of the informant in the household questionnaire				
+HB070_F	Variable que indica si HB070 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si HB070 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if HB070 is complete, if it is missing or if it is not applicable in the record in question.				
+HB070_F				1	Variable completada	Variable completada	Variable completed
+HB070_F				97	No hi consta	No consta	No answer
+HB080	Identificació de la primera persona responsable de l'habitatge	Identificación de la primera persona responsable de la vivienda	Identification of the first person responsible for the household				
+HB080_F	Variable que indica si HB080 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si HB080 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if HB080 is complete, if it is missing or if it is not applicable in the record in question.				
+HB080_F				1	Variable completada	Variable completada	Variable completed
+HB100	Nombre de minuts emprats a emplenar el qüestionari sobre la llar	Número de minutos empleados en cumplimentar el cuestionario sobre el hogar	Number of minutes taken to complete the household questionnaire				
+HB100_F	Variable que indica si HB100 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si HB100 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if HB100 is complete, if it is missing or if it is not applicable in the record in question.				
+HB100_F				1	Variable completada	Variable completada	Variable completed
+HB100_F				97	No hi consta	No consta	No answer
+HB120	Nombre de membres de la llar	Número de miembros del hogar	Number of household members				
+HB120_F	Variable que indica si HB120 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si HB120 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if HB120 is complete, if it is missing or if it is not applicable in the record in question.				
+HB120_F				1	Variable completada	Variable completada	Variable completed
+HY020	Renda disponible total de la llar l'any anterior al de l'enquesta (import en cèntims d'euro)	Renta disponible total del hogar en el año anterior al de la encuesta (importe en céntimos de euro)	Total disposable household income in the year before the survey (amount in euro cents)				
+HY020_F 	Variable que indica informació complementària (font i tipus dinformació recollida)	Variable que indica información complementaria (fuente y tipo de información recogida)	Variable indicating additional information (source and type of information collected)				
+HY020_F 					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+HY020_F 					PRIMER DÍGIT: Mètode d'imputació	PRIMER DÍGITO: Método de imputación	FIRST DIGIT: Imputation method
+HY020_F 				1	Qüestionari	Cuestionario	Questionnaire
+HY020_F 				2	Fonts administratives	Fuentes administrativas	Administrative sources
+HY020_F 				3	Imputació estadística	Imputación estadística	Statistical imputation
+HY020_F 				4	Conversió net/brut	Conversión neto/bruto	Net/gross conversion
+HY020_F 				5	Imputació estadística	Imputación estadística	Statistical imputation
+HY020_F 				6	Imputació estadística	Imputación estadística	Statistical imputation
+HY020_F 				7	Desconeguda	Desconocida	Unknown
+HY020_F 					SEGON DÍGIT: Neta/bruta (mode de recollida de dades)	SEGUNDO DÍGITO: Neta/Bruta (modo de recogida de datos)	SECOND DIGIT: Net/gross (data collection form)
+HY020_F 				1	Neta	Neta	Net
+HY020_F 				5	Bruta	Bruta	Gross
+HY020_F 				7	Neta i bruta (components recollits parcialment en net i parcialment en brut)	Neta y bruta (componentes recogidos parcialmente en neto y parcialmente en bruto)	Net and gross (components collected partially net and partially gross)
+HY020_F 				8	Desconeguda	Desconocida	Unknown
+HY020_F 					DÍGITS SEGÜENTS: factor d'imputació (100 x Valor recollit / Valor registrat)	DÍGITOS SIGUIENTES: factor de imputación (100 x Valor recogido / Valor registrado)	NEXT DIGITS: imputation factor (100 x Collected value / Registered value)
+HY020_F 					100 x Valor recollit / Valor registrat	100 x Valor recogido / Valor registrado	100 x Collected value / Registered value
+HY022 	Renda disponible total de la llar abans de transferències socials, excepte prestacions per jubilació i per supervivència l'any anterior al de l'enquesta (import en cèntims d'euro)	Renta disponible total del hogar antes de transferencias sociales excepto prestaciones por jubilación y por supervivencia en el año anterior al de la encuesta (importe en céntimos de euro)	Total disposable household income before social transfers, excluding retirement and survivor benefits in the year before the survey (amount in euro cents)				
+HY022_F  	Variable que indica informació complementària (font i tipus dinformació recollida)	Variable que indica información complementaria (fuente y tipo de información recogida)	Variable indicating additional information (source and type of information collected)				
+HY022_F  					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+HY022_F  					PRIMER DÍGIT: Mètode d'imputació	PRIMER DÍGITO: Método de imputación	FIRST DIGIT: Imputation method
+HY022_F  				1	Qüestionari	Cuestionario	Questionnaire
+HY022_F  				2	Fonts administratives	Fuentes administrativas	Administrative sources
+HY022_F  				3	Imputació estadística	Imputación estadística	Statistical imputation
+HY022_F  				4	Conversió net/brut	Conversión neto/bruto	Net/gross conversion
+HY022_F  				5	Imputació estadística	Imputación estadística	Statistical imputation
+HY022_F  				6	Imputació estadística	Imputación estadística	Statistical imputation
+HY022_F  				7	Desconeguda	Desconocida	Unknown
+HY022_F  					SEGON DÍGIT: Neta/bruta (mode de recollida de dades)	SEGUNDO DÍGITO: Neta/Bruta (modo de recogida de datos)	SECOND DIGIT: Net/gross (data collection form)
+HY022_F  				1	Neta	Neta	Net
+HY022_F  				5	Bruta	Bruta	Gross
+HY022_F  				7	Neta i bruta (components recollits parcialment en net i parcialment en brut)	Neta y bruta (componentes recogidos parcialmente en neto y parcialmente en bruto)	Net and gross (components collected partially net and partially gross)
+HY022_F  				8	Desconeguda	Desconocida	Unknown
+HY022_F  					DÍGITS SEGÜENTS: factor d'imputació (100 x Valor recollit / Valor registrat)	DÍGITOS SIGUIENTES: factor de imputación (100 x Valor recogido / Valor registrado)	NEXT DIGITS: imputation factor (100 x Collected value / Registered value)
+HY022_F  					100 x Valor recollit / Valor registrat	100 x Valor recogido / Valor registrado	100 x Collected value / Registered value
+HY023 	Renda disponible total de la llar abans de transferències socials, incloses prestacions per jubilació i per supervivència l'any anterior al de l'enquesta (import en cèntims d'euro)	Renta disponible total del hogar antes de transferencias sociales incluidas prestaciones por jubilación y por supervivencia en el año anterior al de la encuesta (importe en céntimos de euro)	Total disposable household income before social transfers, including retirement and survivor benefits in the year before the survey (amount in euro cents)				
+HY023_F 	Variable que indica informació complementària (font i tipus dinformació recollida)	Variable que indica información complementaria (fuente y tipo de información recogida)	Variable indicating additional information (source and type of information collected)				
+HY023_F 					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+HY023_F 					PRIMER DÍGIT: Mètode d'imputació	PRIMER DÍGITO: Método de imputación	FIRST DIGIT: Imputation method
+HY023_F 				1	Qüestionari	Cuestionario	Questionnaire
+HY023_F 				2	Fonts administratives	Fuentes administrativas	Administrative sources
+HY023_F 				3	Imputació estadística	Imputación estadística	Statistical imputation
+HY023_F 				4	Conversió net/brut	Conversión neto/bruto	Net/gross conversion
+HY023_F 				5	Imputació estadística	Imputación estadística	Statistical imputation
+HY023_F 				6	Imputació estadística	Imputación estadística	Statistical imputation
+HY023_F 				7	Desconeguda	Desconocida	Unknown
+HY023_F 					SEGON DÍGIT: Neta/bruta (mode de recollida de dades)	SEGUNDO DÍGITO: Neta/Bruta (modo de recogida de datos)	SECOND DIGIT: Net/gross (data collection form)
+HY023_F 				1	Neta	Neta	Net
+HY023_F 				5	Bruta	Bruta	Gross
+HY023_F 				7	Neta i bruta (components recollits parcialment en net i parcialment en brut)	Neta y bruta (componentes recogidos parcialmente en neto y parcialmente en bruto)	Net and gross (components collected partially net and partially gross)
+HY023_F 				8	Desconeguda	Desconocida	Unknown
+HY023_F 					DÍGITS SEGÜENTS: factor d'imputació (100 x Valor recollit / Valor registrat)	DÍGITOS SIGUIENTES: factor de imputación (100 x Valor recogido / Valor registrado)	NEXT DIGITS: imputation factor (100 x Collected value / Registered value)
+HY023_F 					100 x Valor recollit / Valor registrat	100 x Valor recogido / Valor registrado	100 x Collected value / Registered value
+HY030N	Lloguer imputat (import en cèntims d'euro)	Alquiler imputado (importe en céntimos de euro)	Imputed rent (amount in euro cents)				
+HY030N_F 	Variable que indica informació complementària (font i tipus dinformació recollida)	Variable que indica información complementaria (fuente y tipo de información recogida)	Variable indicating additional information (source and type of information collected)				
+HY030N_F 					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+HY030N_F 					PRIMER DÍGIT: Mètode d'imputació	PRIMER DÍGITO: Método de imputación	FIRST DIGIT: Imputation method
+HY030N_F 				1	Qüestionari	Cuestionario	Questionnaire
+HY030N_F 				2	Fonts administratives	Fuentes administrativas	Administrative sources
+HY030N_F 				3	Imputació estadística	Imputación estadística	Statistical imputation
+HY030N_F 				4	Conversió net/brut	Conversión neto/bruto	Net/gross conversion
+HY030N_F 				5	Imputació estadística	Imputación estadística	Statistical imputation
+HY030N_F 				6	Imputació estadística	Imputación estadística	Statistical imputation
+HY030N_F 				7	Desconeguda	Desconocida	Unknown
+HY030N_F 					SEGON DÍGIT: Neta/bruta (mode de recollida de dades)	SEGUNDO DÍGITO: Neta/Bruta (modo de recogida de datos)	SECOND DIGIT: Net/gross (data collection form)
+HY030N_F 				1	Neta	Neta	Net
+HY030N_F 				5	Bruta	Bruta	Gross
+HY030N_F 				7	Neta i bruta (components recollits parcialment en net i parcialment en brut)	Neta y bruta (componentes recogidos parcialmente en neto y parcialmente en bruto)	Net and gross (components collected partially net and partially gross)
+HY030N_F 				8	Desconeguda	Desconocida	Unknown
+HY030N_F 					DÍGITS SEGÜENTS: factor d'imputació (100 x Valor recollit / Valor registrat)	DÍGITOS SIGUIENTES: factor de imputación (100 x Valor recogido / Valor registrado)	NEXT DIGITS: imputation factor (100 x Collected value / Registered value)
+HY030N_F 					100 x Valor recollit / Valor registrat	100 x Valor recogido / Valor registrado	100 x Collected value / Registered value
+HY040N	Renda neta procedent del lloguer d'una propietat o terreny l'any anterior al de l'enquesta (import en cèntims d'euro)	Renta neta procedente del alquiler de una propiedad o terreno en el año anterior al de la encuesta (importe en céntimos de euro)	Net income from rental of a property or land in the year before the survey (amount in euro cents)				
+HY040N_F 	Variable que indica informació complementària (font i tipus dinformació recollida)	Variable que indica información complementaria (fuente y tipo de información recogida)	Variable indicating additional information (source and type of information collected)				
+HY040N_F 					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+HY040N_F 					PRIMER DÍGIT: Mètode d'imputació	PRIMER DÍGITO: Método de imputación	FIRST DIGIT: Imputation method
+HY040N_F 				1	Qüestionari	Cuestionario	Questionnaire
+HY040N_F 				2	Fonts administratives	Fuentes administrativas	Administrative sources
+HY040N_F 				3	Imputació estadística	Imputación estadística	Statistical imputation
+HY040N_F 				4	Conversió net/brut	Conversión neto/bruto	Net/gross conversion
+HY040N_F 				5	Imputació estadística	Imputación estadística	Statistical imputation
+HY040N_F 				6	Imputació estadística	Imputación estadística	Statistical imputation
+HY040N_F 				7	Desconeguda	Desconocida	Unknown
+HY040N_F 					SEGON DÍGIT: Neta/bruta (mode de recollida de dades)	SEGUNDO DÍGITO: Neta/Bruta (modo de recogida de datos)	SECOND DIGIT: Net/gross (data collection form)
+HY040N_F 				1	Neta	Neta	Net
+HY040N_F 				5	Bruta	Bruta	Gross
+HY040N_F 				7	Neta i bruta (components recollits parcialment en net i parcialment en brut)	Neta y bruta (componentes recogidos parcialmente en neto y parcialmente en bruto)	Net and gross (components collected partially net and partially gross)
+HY040N_F 				8	Desconeguda	Desconocida	Unknown
+HY040N_F 					DÍGITS SEGÜENTS: factor d'imputació (100 x Valor recollit / Valor registrat)	DÍGITOS SIGUIENTES: factor de imputación (100 x Valor recogido / Valor registrado)	NEXT DIGITS: imputation factor (100 x Collected value / Registered value)
+HY040N_F 					100 x Valor recollit / Valor registrat	100 x Valor recogido / Valor registrado	100 x Collected value / Registered value
+HY050N	Ajut per família/fills l'any anterior al de l'enquesta (import en cèntims d'euro)	Ayuda por familia/hijos en el año anterior al de la encuesta (importe en céntimos de euro)	Family/child benefit in the year before the survey (amount in euro cents)				
+HY050N_F 	Variable que indica informació complementària (font i tipus dinformació recollida)	Variable que indica información complementaria (fuente y tipo de información recogida)	Variable indicating additional information (source and type of information collected)				
+HY050N_F 					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+HY050N_F 					PRIMER DÍGIT: Mètode d'imputació	PRIMER DÍGITO: Método de imputación	FIRST DIGIT: Imputation method
+HY050N_F 				1	Qüestionari	Cuestionario	Questionnaire
+HY050N_F 				2	Fonts administratives	Fuentes administrativas	Administrative sources
+HY050N_F 				3	Imputació estadística	Imputación estadística	Statistical imputation
+HY050N_F 				4	Conversió net/brut	Conversión neto/bruto	Net/gross conversion
+HY050N_F 				5	Imputació estadística	Imputación estadística	Statistical imputation
+HY050N_F 				6	Imputació estadística	Imputación estadística	Statistical imputation
+HY050N_F 				7	Desconeguda	Desconocida	Unknown
+HY050N_F 					SEGON DÍGIT: Neta/bruta (mode de recollida de dades)	SEGUNDO DÍGITO: Neta/Bruta (modo de recogida de datos)	SECOND DIGIT: Net/gross (data collection form)
+HY050N_F 				1	Neta	Neta	Net
+HY050N_F 				5	Bruta	Bruta	Gross
+HY050N_F 				7	Neta i bruta (components recollits parcialment en net i parcialment en brut)	Neta y bruta (componentes recogidos parcialmente en neto y parcialmente en bruto)	Net and gross (components collected partially net and partially gross)
+HY050N_F 				8	Desconeguda	Desconocida	Unknown
+HY050N_F 					DÍGITS SEGÜENTS: factor d'imputació (100 x Valor recollit / Valor registrat)	DÍGITOS SIGUIENTES: factor de imputación (100 x Valor recogido / Valor registrado)	NEXT DIGITS: imputation factor (100 x Collected value / Registered value)
+HY050N_F 					100 x Valor recollit / Valor registrat	100 x Valor recogido / Valor registrado	100 x Collected value / Registered value
+HY060N	Ingressos per assistència social l'any anterior al de l'enquesta (import en cèntims d'euro)	Ingresos por asistencia social en el año anterior al de la encuesta (importe en céntimos de euro)	Income from social assistance in the year before the survey (amount in euro cents)				
+HY060N_F 	Variable que indica informació complementària (font i tipus dinformació recollida)	Variable que indica información complementaria (fuente y tipo de información recogida)	Variable indicating additional information (source and type of information collected)				
+HY060N_F 					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+HY060N_F 					PRIMER DÍGIT: Mètode d'imputació	PRIMER DÍGITO: Método de imputación	FIRST DIGIT: Imputation method
+HY060N_F 				1	Qüestionari	Cuestionario	Questionnaire
+HY060N_F 				2	Fonts administratives	Fuentes administrativas	Administrative sources
+HY060N_F 				3	Imputació estadística	Imputación estadística	Statistical imputation
+HY060N_F 				4	Conversió net/brut	Conversión neto/bruto	Net/gross conversion
+HY060N_F 				5	Imputació estadística	Imputación estadística	Statistical imputation
+HY060N_F 				6	Imputació estadística	Imputación estadística	Statistical imputation
+HY060N_F 				7	Desconeguda	Desconocida	Unknown
+HY060N_F 					SEGON DÍGIT: Neta/bruta (mode de recollida de dades)	SEGUNDO DÍGITO: Neta/Bruta (modo de recogida de datos)	SECOND DIGIT: Net/gross (data collection form)
+HY060N_F 				1	Neta	Neta	Net
+HY060N_F 				5	Bruta	Bruta	Gross
+HY060N_F 				7	Neta i bruta (components recollits parcialment en net i parcialment en brut)	Neta y bruta (componentes recogidos parcialmente en neto y parcialmente en bruto)	Net and gross (components collected partially net and partially gross)
+HY060N_F 				8	Desconeguda	Desconocida	Unknown
+HY060N_F 					DÍGITS SEGÜENTS: factor d'imputació (100 x Valor recollit / Valor registrat)	DÍGITOS SIGUIENTES: factor de imputación (100 x Valor recogido / Valor registrado)	NEXT DIGITS: imputation factor (100 x Collected value / Registered value)
+HY060N_F 					100 x Valor recollit / Valor registrat	100 x Valor recogido / Valor registrado	100 x Collected value / Registered value
+HY070N	Ajuda per a habitatge l'any anterior al de l'enquesta (import en cèntims d'euro)	Ayuda para vivienda en el año anterior al de la encuesta (importe en céntimos de euro)	Housing aid in the year before the survey (amount in euro cents)				
+HY070N_F 	Variable que indica informació complementària (font i tipus dinformació recollida)	Variable que indica información complementaria (fuente y tipo de información recogida)	Variable indicating additional information (source and type of information collected)				
+HY070N_F 					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+HY070N_F 					PRIMER DÍGIT: Mètode d'imputació	PRIMER DÍGITO: Método de imputación	FIRST DIGIT: Imputation method
+HY070N_F 				1	Qüestionari	Cuestionario	Questionnaire
+HY070N_F 				2	Fonts administratives	Fuentes administrativas	Administrative sources
+HY070N_F 				3	Imputació estadística	Imputación estadística	Statistical imputation
+HY070N_F 				4	Conversió net/brut	Conversión neto/bruto	Net/gross conversion
+HY070N_F 				5	Imputació estadística	Imputación estadística	Statistical imputation
+HY070N_F 				6	Imputació estadística	Imputación estadística	Statistical imputation
+HY070N_F 				7	Desconeguda	Desconocida	Unknown
+HY070N_F 					SEGON DÍGIT: Neta/bruta (mode de recollida de dades)	SEGUNDO DÍGITO: Neta/Bruta (modo de recogida de datos)	SECOND DIGIT: Net/gross (data collection form)
+HY070N_F 				1	Neta	Neta	Net
+HY070N_F 				5	Bruta	Bruta	Gross
+HY070N_F 				7	Neta i bruta (components recollits parcialment en net i parcialment en brut)	Neta y bruta (componentes recogidos parcialmente en neto y parcialmente en bruto)	Net and gross (components collected partially net and partially gross)
+HY070N_F 				8	Desconeguda	Desconocida	Unknown
+HY070N_F 					DÍGITS SEGÜENTS: factor d'imputació (100 x Valor recollit / Valor registrat)	DÍGITOS SIGUIENTES: factor de imputación (100 x Valor recogido / Valor registrado)	NEXT DIGITS: imputation factor (100 x Collected value / Registered value)
+HY070N_F 					100 x Valor recollit / Valor registrat	100 x Valor recogido / Valor registrado	100 x Collected value / Registered value
+HY080N	Transferències periòdiques monetàries percebudes d'altres llars l'any anterior al de l'enquesta (import en cèntims d'euro)	Transferencias periódicas monetarias percibidas de otros hogares en el año anterior al de la encuesta (importe en céntimos de euro)	Periodic monetary transfers received from other households in the year before the survey (amount in euro cents)				
+HY080N_F 	Variable que indica informació complementària (font i tipus dinformació recollida)	Variable que indica información complementaria (fuente y tipo de información recogida)	Variable indicating additional information (source and type of information collected)				
+HY080N_F 					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+HY080N_F 					PRIMER DÍGIT: Mètode d'imputació	PRIMER DÍGITO: Método de imputación	FIRST DIGIT: Imputation method
+HY080N_F 				1	Qüestionari	Cuestionario	Questionnaire
+HY080N_F 				2	Fonts administratives	Fuentes administrativas	Administrative sources
+HY080N_F 				3	Imputació estadística	Imputación estadística	Statistical imputation
+HY080N_F 				4	Conversió net/brut	Conversión neto/bruto	Net/gross conversion
+HY080N_F 				5	Imputació estadística	Imputación estadística	Statistical imputation
+HY080N_F 				6	Imputació estadística	Imputación estadística	Statistical imputation
+HY080N_F 				7	Desconeguda	Desconocida	Unknown
+HY080N_F 					SEGON DÍGIT: Neta/bruta (mode de recollida de dades)	SEGUNDO DÍGITO: Neta/Bruta (modo de recogida de datos)	SECOND DIGIT: Net/gross (data collection form)
+HY080N_F 				1	Neta	Neta	Net
+HY080N_F 				5	Bruta	Bruta	Gross
+HY080N_F 				7	Neta i bruta (components recollits parcialment en net i parcialment en brut)	Neta y bruta (componentes recogidos parcialmente en neto y parcialmente en bruto)	Net and gross (components collected partially net and partially gross)
+HY080N_F 				8	Desconeguda	Desconocida	Unknown
+HY080N_F 					DÍGITS SEGÜENTS: factor d'imputació (100 x Valor recollit / Valor registrat)	DÍGITOS SIGUIENTES: factor de imputación (100 x Valor recogido / Valor registrado)	NEXT DIGITS: imputation factor (100 x Collected value / Registered value)
+HY080N_F 					100 x Valor recollit / Valor registrat	100 x Valor recogido / Valor registrado	100 x Collected value / Registered value
+HY081N	Transferències periòdiques monetàries percebudes d'altres llars l'any anterior al de l'enquesta (pensions alimentàries a fills o compensatòries a cònjuges) (import en cèntims d'euro)	Transferencias periódicas monetarias percibidas de otros hogares en el año anterior al de la encuesta (pensiones alimenticias a hijos o compensatorias a cónyuges) (importe en céntimos de euro)	Periodic monetary transfers received from other households in the year before the survey (child maintenance or spousal support) (amount in euro cents)				
+HY081N_F 	Variable que indica informació complementària (font i tipus dinformació recollida)	Variable que indica información complementaria (fuente y tipo de información recogida)	Variable indicating additional information (source and type of information collected)				
+HY081N_F 					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+HY081N_F 					PRIMER DÍGIT: Mètode d'imputació	PRIMER DÍGITO: Método de imputación	FIRST DIGIT: Imputation method
+HY081N_F 				1	Qüestionari	Cuestionario	Questionnaire
+HY081N_F 				2	Fonts administratives	Fuentes administrativas	Administrative sources
+HY081N_F 				3	Imputació estadística	Imputación estadística	Statistical imputation
+HY081N_F 				4	Conversió net/brut	Conversión neto/bruto	Net/gross conversion
+HY081N_F 				5	Imputació estadística	Imputación estadística	Statistical imputation
+HY081N_F 				6	Imputació estadística	Imputación estadística	Statistical imputation
+HY081N_F 				7	Desconeguda	Desconocida	Unknown
+HY081N_F 					SEGON DÍGIT: Neta/bruta (mode de recollida de dades)	SEGUNDO DÍGITO: Neta/Bruta (modo de recogida de datos)	SECOND DIGIT: Net/gross (data collection form)
+HY081N_F 				1	Neta	Neta	Net
+HY081N_F 				5	Bruta	Bruta	Gross
+HY081N_F 				7	Neta i bruta (components recollits parcialment en net i parcialment en brut)	Neta y bruta (componentes recogidos parcialmente en neto y parcialmente en bruto)	Net and gross (components collected partially net and partially gross)
+HY081N_F 				8	Desconeguda	Desconocida	Unknown
+HY081N_F 					DÍGITS SEGÜENTS: factor d'imputació (100 x Valor recollit / Valor registrat)	DÍGITOS SIGUIENTES: factor de imputación (100 x Valor recogido / Valor registrado)	NEXT DIGITS: imputation factor (100 x Collected value / Registered value)
+HY081N_F 					100 x Valor recollit / Valor registrat	100 x Valor recogido / Valor registrado	100 x Collected value / Registered value
+HY090N	Interessos, dividends i guanys nets d'inversions de capital en empreses no constituïdes en societat l'any anterior al de l'enquesta (import en cèntims d'euro)	Intereses, dividendos y ganancias netos de inversiones de capital en empresas no constituidas en sociedad en el año anterior al de la encuesta (importe en céntimos de euro)	Interest, dividends and net income from capital investments in unincorporated companies in the year before the survey (amount in euro cents)				
+HY090N_F 	Variable que indica informació complementària (font i tipus dinformació recollida)	Variable que indica información complementaria (fuente y tipo de información recogida)	Variable indicating additional information (source and type of information collected)				
+HY090N_F 					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+HY090N_F 					PRIMER DÍGIT: Mètode d'imputació	PRIMER DÍGITO: Método de imputación	FIRST DIGIT: Imputation method
+HY090N_F 				1	Qüestionari	Cuestionario	Questionnaire
+HY090N_F 				2	Fonts administratives	Fuentes administrativas	Administrative sources
+HY090N_F 				3	Imputació estadística	Imputación estadística	Statistical imputation
+HY090N_F 				4	Conversió net/brut	Conversión neto/bruto	Net/gross conversion
+HY090N_F 				5	Imputació estadística	Imputación estadística	Statistical imputation
+HY090N_F 				6	Imputació estadística	Imputación estadística	Statistical imputation
+HY090N_F 				7	Desconeguda	Desconocida	Unknown
+HY090N_F 					SEGON DÍGIT: Neta/bruta (mode de recollida de dades)	SEGUNDO DÍGITO: Neta/Bruta (modo de recogida de datos)	SECOND DIGIT: Net/gross (data collection form)
+HY090N_F 				1	Neta	Neta	Net
+HY090N_F 				5	Bruta	Bruta	Gross
+HY090N_F 				7	Neta i bruta (components recollits parcialment en net i parcialment en brut)	Neta y bruta (componentes recogidos parcialmente en neto y parcialmente en bruto)	Net and gross (components collected partially net and partially gross)
+HY090N_F 				8	Desconeguda	Desconocida	Unknown
+HY090N_F 					DÍGITS SEGÜENTS: factor d'imputació (100 x Valor recollit / Valor registrat)	DÍGITOS SIGUIENTES: factor de imputación (100 x Valor recogido / Valor registrado)	NEXT DIGITS: imputation factor (100 x Collected value / Registered value)
+HY090N_F 					100 x Valor recollit / Valor registrat	100 x Valor recogido / Valor registrado	100 x Collected value / Registered value
+HY100N	Interessos pagats del préstec per a la compra de l'habitatge principal, l'any anterior al de l'enquesta (import en cèntims d'euro)	Intereses pagados del préstamo para la compra de la vivienda principal, en el año anterior al de la encuesta (importe en céntimos de euro)	Interest paid on the main household purchase loan in the year before the survey (amount in euro cents)				
+HY100N_F 	Variable que indica informació complementària (font i tipus dinformació recollida)	Variable que indica información complementaria (fuente y tipo de información recogida)	Variable indicating additional information (source and type of information collected)				
+HY100N_F 					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+HY100N_F 					PRIMER DÍGIT: Mètode d'imputació	PRIMER DÍGITO: Método de imputación	FIRST DIGIT: Imputation method
+HY100N_F 				1	Qüestionari	Cuestionario	Questionnaire
+HY100N_F 				2	Fonts administratives	Fuentes administrativas	Administrative sources
+HY100N_F 				3	Imputació estadística	Imputación estadística	Statistical imputation
+HY100N_F 				4	Conversió net/brut	Conversión neto/bruto	Net/gross conversion
+HY100N_F 				5	Imputació estadística	Imputación estadística	Statistical imputation
+HY100N_F 				6	Imputació estadística	Imputación estadística	Statistical imputation
+HY100N_F 				7	Desconeguda	Desconocida	Unknown
+HY100N_F 					SEGON DÍGIT: Neta/bruta (mode de recollida de dades)	SEGUNDO DÍGITO: Neta/Bruta (modo de recogida de datos)	SECOND DIGIT: Net/gross (data collection form)
+HY100N_F 				1	Neta	Neta	Net
+HY100N_F 				5	Bruta	Bruta	Gross
+HY100N_F 				7	Neta i bruta (components recollits parcialment en net i parcialment en brut)	Neta y bruta (componentes recogidos parcialmente en neto y parcialmente en bruto)	Net and gross (components collected partially net and partially gross)
+HY100N_F 				8	Desconeguda	Desconocida	Unknown
+HY100N_F 					DÍGITS SEGÜENTS: factor d'imputació (100 x Valor recollit / Valor registrat)	DÍGITOS SIGUIENTES: factor de imputación (100 x Valor recogido / Valor registrado)	NEXT DIGITS: imputation factor (100 x Collected value / Registered value)
+HY100N_F 					100 x Valor recollit / Valor registrat	100 x Valor recogido / Valor registrado	100 x Collected value / Registered value
+HY110N	Renda neta percebuda pels menors de 16 anys l'any anterior al de l'enquesta (import en cèntims d'euro)	Renta neta percibida por los menores de 16 años en el año anterior al de la encuesta (importe en céntimos de euro)	Net income received by children under the age of 16 in the year before the survey (amount in euro cents)				
+HY110N_F 	Variable que indica informació complementària (font i tipus dinformació recollida)	Variable que indica información complementaria (fuente y tipo de información recogida)	Variable indicating additional information (source and type of information collected)				
+HY110N_F 					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+HY110N_F 					PRIMER DÍGIT: Mètode d'imputació	PRIMER DÍGITO: Método de imputación	FIRST DIGIT: Imputation method
+HY110N_F 				1	Qüestionari	Cuestionario	Questionnaire
+HY110N_F 				2	Fonts administratives	Fuentes administrativas	Administrative sources
+HY110N_F 				3	Imputació estadística	Imputación estadística	Statistical imputation
+HY110N_F 				4	Conversió net/brut	Conversión neto/bruto	Net/gross conversion
+HY110N_F 				5	Imputació estadística	Imputación estadística	Statistical imputation
+HY110N_F 				6	Imputació estadística	Imputación estadística	Statistical imputation
+HY110N_F 				7	Desconeguda	Desconocida	Unknown
+HY110N_F 					SEGON DÍGIT: Neta/bruta (mode de recollida de dades)	SEGUNDO DÍGITO: Neta/Bruta (modo de recogida de datos)	SECOND DIGIT: Net/gross (data collection form)
+HY110N_F 				1	Neta	Neta	Net
+HY110N_F 				5	Bruta	Bruta	Gross
+HY110N_F 				7	Neta i bruta (components recollits parcialment en net i parcialment en brut)	Neta y bruta (componentes recogidos parcialmente en neto y parcialmente en bruto)	Net and gross (components collected partially net and partially gross)
+HY110N_F 				8	Desconeguda	Desconocida	Unknown
+HY110N_F 					DÍGITS SEGÜENTS: factor d'imputació (100 x Valor recollit / Valor registrat)	DÍGITOS SIGUIENTES: factor de imputación (100 x Valor recogido / Valor registrado)	NEXT DIGITS: imputation factor (100 x Collected value / Registered value)
+HY110N_F 					100 x Valor recollit / Valor registrat	100 x Valor recogido / Valor registrado	100 x Collected value / Registered value
+HY120N	Impost sobre el patrimoni l'any anterior al de l'enquesta (import en cèntims d'euro)	Impuesto sobre el patrimonio en el año anterior al de la encuesta (importe en céntimos de euro)	Wealth tax in the year before the survey (amount in euro cents)				
+HY120N_F 	Variable que indica informació complementària (font i tipus dinformació recollida)	Variable que indica información complementaria (fuente y tipo de información recogida)	Variable indicating additional information (source and type of information collected)				
+HY120N_F 					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+HY120N_F 					PRIMER DÍGIT: Mètode d'imputació	PRIMER DÍGITO: Método de imputación	FIRST DIGIT: Imputation method
+HY120N_F 				1	Qüestionari	Cuestionario	Questionnaire
+HY120N_F 				2	Fonts administratives	Fuentes administrativas	Administrative sources
+HY120N_F 				3	Imputació estadística	Imputación estadística	Statistical imputation
+HY120N_F 				4	Conversió net/brut	Conversión neto/bruto	Net/gross conversion
+HY120N_F 				5	Imputació estadística	Imputación estadística	Statistical imputation
+HY120N_F 				6	Imputació estadística	Imputación estadística	Statistical imputation
+HY120N_F 				7	Desconeguda	Desconocida	Unknown
+HY120N_F 					SEGON DÍGIT: Neta/bruta (mode de recollida de dades)	SEGUNDO DÍGITO: Neta/Bruta (modo de recogida de datos)	SECOND DIGIT: Net/gross (data collection form)
+HY120N_F 				1	Neta	Neta	Net
+HY120N_F 				5	Bruta	Bruta	Gross
+HY120N_F 				7	Neta i bruta (components recollits parcialment en net i parcialment en brut)	Neta y bruta (componentes recogidos parcialmente en neto y parcialmente en bruto)	Net and gross (components collected partially net and partially gross)
+HY120N_F 				8	Desconeguda	Desconocida	Unknown
+HY120N_F 					DÍGITS SEGÜENTS: factor d'imputació (100 x Valor recollit / Valor registrat)	DÍGITOS SIGUIENTES: factor de imputación (100 x Valor recogido / Valor registrado)	NEXT DIGITS: imputation factor (100 x Collected value / Registered value)
+HY120N_F 					100 x Valor recollit / Valor registrat	100 x Valor recogido / Valor registrado	100 x Collected value / Registered value
+HY130N 	Transferències periòdiques monetàries abonades a altres llars l'any anterior al de l'enquesta (import en cèntims d'euro)	Transferencias periódicas monetarias abonadas a otros hogares en el año anterior al de la encuesta (importe en céntimos de euro)	Periodic monetary transfers paid to other households in the year before the survey (amount in euro cents)				
+HY130N_F 	Variable que indica informació complementària (font i tipus dinformació recollida)	Variable que indica información complementaria (fuente y tipo de información recogida)	Variable indicating additional information (source and type of information collected)				
+HY130N_F 					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+HY130N_F 					PRIMER DÍGIT: Mètode d'imputació	PRIMER DÍGITO: Método de imputación	FIRST DIGIT: Imputation method
+HY130N_F 				1	Qüestionari	Cuestionario	Questionnaire
+HY130N_F 				2	Fonts administratives	Fuentes administrativas	Administrative sources
+HY130N_F 				3	Imputació estadística	Imputación estadística	Statistical imputation
+HY130N_F 				4	Conversió net/brut	Conversión neto/bruto	Net/gross conversion
+HY130N_F 				5	Imputació estadística	Imputación estadística	Statistical imputation
+HY130N_F 				6	Imputació estadística	Imputación estadística	Statistical imputation
+HY130N_F 				7	Desconeguda	Desconocida	Unknown
+HY130N_F 					SEGON DÍGIT: Neta/bruta (mode de recollida de dades)	SEGUNDO DÍGITO: Neta/Bruta (modo de recogida de datos)	SECOND DIGIT: Net/gross (data collection form)
+HY130N_F 				1	Neta	Neta	Net
+HY130N_F 				5	Bruta	Bruta	Gross
+HY130N_F 				7	Neta i bruta (components recollits parcialment en net i parcialment en brut)	Neta y bruta (componentes recogidos parcialmente en neto y parcialmente en bruto)	Net and gross (components collected partially net and partially gross)
+HY130N_F 				8	Desconeguda	Desconocida	Unknown
+HY130N_F 					DÍGITS SEGÜENTS: factor d'imputació (100 x Valor recollit / Valor registrat)	DÍGITOS SIGUIENTES: factor de imputación (100 x Valor recogido / Valor registrado)	NEXT DIGITS: imputation factor (100 x Collected value / Registered value)
+HY130N_F 					100 x Valor recollit / Valor registrat	100 x Valor recogido / Valor registrado	100 x Collected value / Registered value
+HY131N 	Transferències periòdiques monetàries abonades a altres llars l'any anterior al de l'enquesta (pensions alimentàries a fills o compensatòries a cònjuges) (import en cèntims d'euro)	Transferencias periódicas monetarias abonadas a otros hogares en el año anterior al de la encuesta (pensiones alimenticias a hijos o compensatorias a cónyuges) (importe en céntimos de euro)	Periodic monetary transfers paid to other households in the year before the survey (child maintenance or spousal support) (amount in euro cents)				
+HY131N_F 	Variable que indica informació complementària (font i tipus dinformació recollida)	Variable que indica información complementaria (fuente y tipo de información recogida)	Variable indicating additional information (source and type of information collected)				
+HY131N_F 					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+HY131N_F 					PRIMER DÍGIT: Mètode d'imputació	PRIMER DÍGITO: Método de imputación	FIRST DIGIT: Imputation method
+HY131N_F 				1	Qüestionari	Cuestionario	Questionnaire
+HY131N_F 				2	Fonts administratives	Fuentes administrativas	Administrative sources
+HY131N_F 				3	Imputació estadística	Imputación estadística	Statistical imputation
+HY131N_F 				4	Conversió net/brut	Conversión neto/bruto	Net/gross conversion
+HY131N_F 				5	Imputació estadística	Imputación estadística	Statistical imputation
+HY131N_F 				6	Imputació estadística	Imputación estadística	Statistical imputation
+HY131N_F 				7	Desconeguda	Desconocida	Unknown
+HY131N_F 					SEGON DÍGIT: Neta/bruta (mode de recollida de dades)	SEGUNDO DÍGITO: Neta/Bruta (modo de recogida de datos)	SECOND DIGIT: Net/gross (data collection form)
+HY131N_F 				1	Neta	Neta	Net
+HY131N_F 				5	Bruta	Bruta	Gross
+HY131N_F 				7	Neta i bruta (components recollits parcialment en net i parcialment en brut)	Neta y bruta (componentes recogidos parcialmente en neto y parcialmente en bruto)	Net and gross (components collected partially net and partially gross)
+HY131N_F 				8	Desconeguda	Desconocida	Unknown
+HY131N_F 					DÍGITS SEGÜENTS: factor d'imputació (100 x Valor recollit / Valor registrat)	DÍGITOS SIGUIENTES: factor de imputación (100 x Valor recogido / Valor registrado)	NEXT DIGITS: imputation factor (100 x Collected value / Registered value)
+HY131N_F 					100 x Valor recollit / Valor registrat	100 x Valor recogido / Valor registrado	100 x Collected value / Registered value
+HY145N 	Devolucions/ingressos complementaris per ajustaments en impostos l'any anterior al de l'enquesta (declaració de l'IRPF) (import en cèntims d'euro)	Devoluciones/ingresos complementarios por ajustes en impuestos en el año anterior al de la encuesta (declaración del IRPF) (importe en céntimos de euro)	Rebates/additional income for tax adjustments in the year before the survey (personal income tax return) (amount in euro cents)				
+HY145N_F 	Variable que indica informació complementària (font i tipus dinformació recollida)	Variable que indica información complementaria (fuente y tipo de información recogida)	Variable indicating additional information (source and type of information collected)				
+HY145N_F 					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+HY145N_F 					PRIMER DÍGIT: Mètode d'imputació	PRIMER DÍGITO: Método de imputación	FIRST DIGIT: Imputation method
+HY145N_F 				1	Qüestionari	Cuestionario	Questionnaire
+HY145N_F 				2	Fonts administratives	Fuentes administrativas	Administrative sources
+HY145N_F 				3	Imputació estadística	Imputación estadística	Statistical imputation
+HY145N_F 				4	Conversió net/brut	Conversión neto/bruto	Net/gross conversion
+HY145N_F 				5	Imputació estadística	Imputación estadística	Statistical imputation
+HY145N_F 				6	Imputació estadística	Imputación estadística	Statistical imputation
+HY145N_F 				7	Desconeguda	Desconocida	Unknown
+HY145N_F 					SEGON DÍGIT: Neta/bruta (mode de recollida de dades)	SEGUNDO DÍGITO: Neta/Bruta (modo de recogida de datos)	SECOND DIGIT: Net/gross (data collection form)
+HY145N_F 				1	Neta	Neta	Net
+HY145N_F 				5	Bruta	Bruta	Gross
+HY145N_F 				7	Neta i bruta (components recollits parcialment en net i parcialment en brut)	Neta y bruta (componentes recogidos parcialmente en neto y parcialmente en bruto)	Net and gross (components collected partially net and partially gross)
+HY145N_F 				8	Desconeguda	Desconocida	Unknown
+HY145N_F 					DÍGITS SEGÜENTS: factor d'imputació (100 x Valor recollit / Valor registrat)	DÍGITOS SIGUIENTES: factor de imputación (100 x Valor recogido / Valor registrado)	NEXT DIGITS: imputation factor (100 x Collected value / Registered value)
+HY145N_F 					100 x Valor recollit / Valor registrat	100 x Valor recogido / Valor registrado	100 x Collected value / Registered value
+HY170N 	Autoconsum l'any anterior al de l'enquesta (import en cèntims d'euro)	Autoconsumo en el año anterior al de la encuesta (importe en céntimos de euro)	Self-supply in the year before the survey (amount in euro cents)				
+HY170N_F	Variable que indica informació complementària (font i tipus dinformació recollida)	Variable que indica información complementaria (fuente y tipo de información recogida)	Variable indicating additional information (source and type of information collected)				
+HY170N_F					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+HY170N_F					PRIMER DÍGIT: Mètode d'imputació	PRIMER DÍGITO: Método de imputación	FIRST DIGIT: Imputation method
+HY170N_F				1	Qüestionari	Cuestionario	Questionnaire
+HY170N_F				2	Fonts administratives	Fuentes administrativas	Administrative sources
+HY170N_F				3	Imputació estadística	Imputación estadística	Statistical imputation
+HY170N_F				4	Conversió net/brut	Conversión neto/bruto	Net/gross conversion
+HY170N_F				5	Imputació estadística	Imputación estadística	Statistical imputation
+HY170N_F				6	Imputació estadística	Imputación estadística	Statistical imputation
+HY170N_F				7	Desconeguda	Desconocida	Unknown
+HY170N_F					SEGON DÍGIT: Neta/bruta (mode de recollida de dades)	SEGUNDO DÍGITO: Neta/Bruta (modo de recogida de datos)	SECOND DIGIT: Net/gross (data collection form)
+HY170N_F				1	Neta	Neta	Net
+HY170N_F				5	Bruta	Bruta	Gross
+HY170N_F				7	Neta i bruta (components recollits parcialment en net i parcialment en brut)	Neta y bruta (componentes recogidos parcialmente en neto y parcialmente en bruto)	Net and gross (components collected partially net and partially gross)
+HY170N_F				8	Desconeguda	Desconocida	Unknown
+HY170N_F					DÍGITS SEGÜENTS: factor d'imputació (100 x Valor recollit / Valor registrat)	DÍGITOS SIGUIENTES: factor de imputación (100 x Valor recogido / Valor registrado)	NEXT DIGITS: imputation factor (100 x Collected value / Registered value)
+HY170N_F					100 x Valor recollit / Valor registrat	100 x Valor recogido / Valor registrado	100 x Collected value / Registered value
+HY010	Renda bruta total de la llar l'any anterior al de l'enquesta (import en cèntims d'euro)	Renta bruta total del hogar en el año anterior al de la encuesta (importe en céntimos de euro)	Total gross household income in the year before the survey (amount in euro cents)				
+HY010_F 	Variable que indica informació complementària (font i tipus dinformació recollida)	Variable que indica información complementaria (fuente y tipo de información recogida)	Variable indicating additional information (source and type of information collected)				
+HY010_F 					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+HY010_F 					PRIMER DÍGIT: Mètode d'imputació	PRIMER DÍGITO: Método de imputación	FIRST DIGIT: Imputation method
+HY010_F 				1	Qüestionari	Cuestionario	Questionnaire
+HY010_F 				2	Fonts administratives	Fuentes administrativas	Administrative sources
+HY010_F 				3	Imputació estadística	Imputación estadística	Statistical imputation
+HY010_F 				4	Conversió net/brut	Conversión neto/bruto	Net/gross conversion
+HY010_F 				5	Imputació estadística	Imputación estadística	Statistical imputation
+HY010_F 				6	Imputació estadística	Imputación estadística	Statistical imputation
+HY010_F 				7	Desconeguda	Desconocida	Unknown
+HY010_F 					SEGON DÍGIT: Neta/bruta (mode de recollida de dades)	SEGUNDO DÍGITO: Neta/Bruta (modo de recogida de datos)	SECOND DIGIT: Net/gross (data collection form)
+HY010_F 				1	Neta	Neta	Net
+HY010_F 				5	Bruta	Bruta	Gross
+HY010_F 				7	Neta i bruta (components recollits parcialment en net i parcialment en brut)	Neta y bruta (componentes recogidos parcialmente en neto y parcialmente en bruto)	Net and gross (components collected partially net and partially gross)
+HY010_F 				8	Desconeguda	Desconocida	Unknown
+HY010_F 					DÍGITS SEGÜENTS: factor d'imputació (100 x Valor recollit / Valor registrat)	DÍGITOS SIGUIENTES: factor de imputación (100 x Valor recogido / Valor registrado)	NEXT DIGITS: imputation factor (100 x Collected value / Registered value)
+HY010_F 					100 x Valor recollit / Valor registrat	100 x Valor recogido / Valor registrado	100 x Collected value / Registered value
+HY040G	Renda bruta procedent del lloguer d'una propietat o terreny l'any anterior al de l'enquesta (import en cèntims d'euro)	Renta bruta procedente del alquiler de una propiedad o terreno en el año anterior al de la encuesta (importe en céntimos de euro)	Gross income from renting a property or land in the year before the survey (amount in euro cents)				
+HY040G_F 	Variable que indica informació complementària (font i tipus dinformació recollida)	Variable que indica información complementaria (fuente y tipo de información recogida)	Variable indicating additional information (source and type of information collected)				
+HY040G_F 					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+HY040G_F 					PRIMER DÍGIT: Mètode d'imputació	PRIMER DÍGITO: Método de imputación	FIRST DIGIT: Imputation method
+HY040G_F 				1	Qüestionari	Cuestionario	Questionnaire
+HY040G_F 				2	Fonts administratives	Fuentes administrativas	Administrative sources
+HY040G_F 				3	Imputació estadística	Imputación estadística	Statistical imputation
+HY040G_F 				4	Conversió net/brut	Conversión neto/bruto	Net/gross conversion
+HY040G_F 				5	Imputació estadística	Imputación estadística	Statistical imputation
+HY040G_F 				6	Imputació estadística	Imputación estadística	Statistical imputation
+HY040G_F 				7	Desconeguda	Desconocida	Unknown
+HY040G_F 					SEGON DÍGIT: Neta/bruta (mode de recollida de dades)	SEGUNDO DÍGITO: Neta/Bruta (modo de recogida de datos)	SECOND DIGIT: Net/gross (data collection form)
+HY040G_F 				1	Neta	Neta	Net
+HY040G_F 				5	Bruta	Bruta	Gross
+HY040G_F 				7	Neta i bruta (components recollits parcialment en net i parcialment en brut)	Neta y bruta (componentes recogidos parcialmente en neto y parcialmente en bruto)	Net and gross (components collected partially net and partially gross)
+HY040G_F 				8	Desconeguda	Desconocida	Unknown
+HY040G_F 					DÍGITS SEGÜENTS: factor d'imputació (100 x Valor recollit / Valor registrat)	DÍGITOS SIGUIENTES: factor de imputación (100 x Valor recogido / Valor registrado)	NEXT DIGITS: imputation factor (100 x Collected value / Registered value)
+HY040G_F 					100 x Valor recollit / Valor registrat	100 x Valor recogido / Valor registrado	100 x Collected value / Registered value
+HY050G	Ajut per família/fills l'any anterior al de l'enquesta (import en cèntims d'euro)	Ayuda por familia/hijos en el año anterior al de la encuesta (importe en céntimos de euro)	Family/child benefit in the year before the survey (amount in euro cents)				
+HY050G_F 	Variable que indica informació complementària (font i tipus dinformació recollida)	Variable que indica información complementaria (fuente y tipo de información recogida)	Variable indicating additional information (source and type of information collected)				
+HY050G_F 					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+HY050G_F 					PRIMER DÍGIT: Mètode d'imputació	PRIMER DÍGITO: Método de imputación	FIRST DIGIT: Imputation method
+HY050G_F 				1	Qüestionari	Cuestionario	Questionnaire
+HY050G_F 				2	Fonts administratives	Fuentes administrativas	Administrative sources
+HY050G_F 				3	Imputació estadística	Imputación estadística	Statistical imputation
+HY050G_F 				4	Conversió net/brut	Conversión neto/bruto	Net/gross conversion
+HY050G_F 				5	Imputació estadística	Imputación estadística	Statistical imputation
+HY050G_F 				6	Imputació estadística	Imputación estadística	Statistical imputation
+HY050G_F 				7	Desconeguda	Desconocida	Unknown
+HY050G_F 					SEGON DÍGIT: Neta/bruta (mode de recollida de dades)	SEGUNDO DÍGITO: Neta/Bruta (modo de recogida de datos)	SECOND DIGIT: Net/gross (data collection form)
+HY050G_F 				1	Neta	Neta	Net
+HY050G_F 				5	Bruta	Bruta	Gross
+HY050G_F 				7	Neta i bruta (components recollits parcialment en net i parcialment en brut)	Neta y bruta (componentes recogidos parcialmente en neto y parcialmente en bruto)	Net and gross (components collected partially net and partially gross)
+HY050G_F 				8	Desconeguda	Desconocida	Unknown
+HY050G_F 					DÍGITS SEGÜENTS: factor d'imputació (100 x Valor recollit / Valor registrat)	DÍGITOS SIGUIENTES: factor de imputación (100 x Valor recogido / Valor registrado)	NEXT DIGITS: imputation factor (100 x Collected value / Registered value)
+HY050G_F 					100 x Valor recollit / Valor registrat	100 x Valor recogido / Valor registrado	100 x Collected value / Registered value
+HY060G	Ingressos per assistència social l'any anterior al de l'enquesta (import en cèntims d'euro)	Ingresos por asistencia social en el año anterior al de la encuesta (importe en céntimos de euro)	Income from social assistance in the year before the survey (amount in euro cents)				
+HY060G_F 	Variable que indica informació complementària (font i tipus dinformació recollida)	Variable que indica información complementaria (fuente y tipo de información recogida)	Variable indicating additional information (source and type of information collected)				
+HY060G_F 					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+HY060G_F 					PRIMER DÍGIT: Mètode d'imputació	PRIMER DÍGITO: Método de imputación	FIRST DIGIT: Imputation method
+HY060G_F 				1	Qüestionari	Cuestionario	Questionnaire
+HY060G_F 				2	Fonts administratives	Fuentes administrativas	Administrative sources
+HY060G_F 				3	Imputació estadística	Imputación estadística	Statistical imputation
+HY060G_F 				4	Conversió net/brut	Conversión neto/bruto	Net/gross conversion
+HY060G_F 				5	Imputació estadística	Imputación estadística	Statistical imputation
+HY060G_F 				6	Imputació estadística	Imputación estadística	Statistical imputation
+HY060G_F 				7	Desconeguda	Desconocida	Unknown
+HY060G_F 					SEGON DÍGIT: Neta/bruta (mode de recollida de dades)	SEGUNDO DÍGITO: Neta/Bruta (modo de recogida de datos)	SECOND DIGIT: Net/gross (data collection form)
+HY060G_F 				1	Neta	Neta	Net
+HY060G_F 				5	Bruta	Bruta	Gross
+HY060G_F 				7	Neta i bruta (components recollits parcialment en net i parcialment en brut)	Neta y bruta (componentes recogidos parcialmente en neto y parcialmente en bruto)	Net and gross (components collected partially net and partially gross)
+HY060G_F 				8	Desconeguda	Desconocida	Unknown
+HY060G_F 					DÍGITS SEGÜENTS: factor d'imputació (100 x Valor recollit / Valor registrat)	DÍGITOS SIGUIENTES: factor de imputación (100 x Valor recogido / Valor registrado)	NEXT DIGITS: imputation factor (100 x Collected value / Registered value)
+HY060G_F 					100 x Valor recollit / Valor registrat	100 x Valor recogido / Valor registrado	100 x Collected value / Registered value
+HY070G	Ajuda per a habitatge l'any anterior al de l'enquesta (import en cèntims d'euro)	Ayuda para vivienda en el año anterior al de la encuesta (importe en céntimos de euro)	Housing aid in the year before the survey (amount in euro cents)				
+HY070G_F 	Variable que indica informació complementària (font i tipus dinformació recollida)	Variable que indica información complementaria (fuente y tipo de información recogida)	Variable indicating additional information (source and type of information collected)				
+HY070G_F 					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+HY070G_F 					PRIMER DÍGIT: Mètode d'imputació	PRIMER DÍGITO: Método de imputación	FIRST DIGIT: Imputation method
+HY070G_F 				1	Qüestionari	Cuestionario	Questionnaire
+HY070G_F 				2	Fonts administratives	Fuentes administrativas	Administrative sources
+HY070G_F 				3	Imputació estadística	Imputación estadística	Statistical imputation
+HY070G_F 				4	Conversió net/brut	Conversión neto/bruto	Net/gross conversion
+HY070G_F 				5	Imputació estadística	Imputación estadística	Statistical imputation
+HY070G_F 				6	Imputació estadística	Imputación estadística	Statistical imputation
+HY070G_F 				7	Desconeguda	Desconocida	Unknown
+HY070G_F 					SEGON DÍGIT: Neta/bruta (mode de recollida de dades)	SEGUNDO DÍGITO: Neta/Bruta (modo de recogida de datos)	SECOND DIGIT: Net/gross (data collection form)
+HY070G_F 				1	Neta	Neta	Net
+HY070G_F 				5	Bruta	Bruta	Gross
+HY070G_F 				7	Neta i bruta (components recollits parcialment en net i parcialment en brut)	Neta y bruta (componentes recogidos parcialmente en neto y parcialmente en bruto)	Net and gross (components collected partially net and partially gross)
+HY070G_F 				8	Desconeguda	Desconocida	Unknown
+HY070G_F 					DÍGITS SEGÜENTS: factor d'imputació (100 x Valor recollit / Valor registrat)	DÍGITOS SIGUIENTES: factor de imputación (100 x Valor recogido / Valor registrado)	NEXT DIGITS: imputation factor (100 x Collected value / Registered value)
+HY070G_F 					100 x Valor recollit / Valor registrat	100 x Valor recogido / Valor registrado	100 x Collected value / Registered value
+HY080G	Transferències periòdiques monetàries percebudes d'altres llars l'any anterior al de l'enquesta (import en cèntims d'euro)	Transferencias periódicas monetarias percibidas de otros hogares en el año anterior al de la encuesta (importe en céntimos de euro)	Periodic monetary transfers received from other households in the year before the survey (amount in euro cents)				
+HY080G_F 	Variable que indica informació complementària (font i tipus dinformació recollida)	Variable que indica información complementaria (fuente y tipo de información recogida)	Variable indicating additional information (source and type of information collected)				
+HY080G_F 					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+HY080G_F 					PRIMER DÍGIT: Mètode d'imputació	PRIMER DÍGITO: Método de imputación	FIRST DIGIT: Imputation method
+HY080G_F 				1	Qüestionari	Cuestionario	Questionnaire
+HY080G_F 				2	Fonts administratives	Fuentes administrativas	Administrative sources
+HY080G_F 				3	Imputació estadística	Imputación estadística	Statistical imputation
+HY080G_F 				4	Conversió net/brut	Conversión neto/bruto	Net/gross conversion
+HY080G_F 				5	Imputació estadística	Imputación estadística	Statistical imputation
+HY080G_F 				6	Imputació estadística	Imputación estadística	Statistical imputation
+HY080G_F 				7	Desconeguda	Desconocida	Unknown
+HY080G_F 					SEGON DÍGIT: Neta/bruta (mode de recollida de dades)	SEGUNDO DÍGITO: Neta/Bruta (modo de recogida de datos)	SECOND DIGIT: Net/gross (data collection form)
+HY080G_F 				1	Neta	Neta	Net
+HY080G_F 				5	Bruta	Bruta	Gross
+HY080G_F 				7	Neta i bruta (components recollits parcialment en net i parcialment en brut)	Neta y bruta (componentes recogidos parcialmente en neto y parcialmente en bruto)	Net and gross (components collected partially net and partially gross)
+HY080G_F 				8	Desconeguda	Desconocida	Unknown
+HY080G_F 					DÍGITS SEGÜENTS: factor d'imputació (100 x Valor recollit / Valor registrat)	DÍGITOS SIGUIENTES: factor de imputación (100 x Valor recogido / Valor registrado)	NEXT DIGITS: imputation factor (100 x Collected value / Registered value)
+HY080G_F 					100 x Valor recollit / Valor registrat	100 x Valor recogido / Valor registrado	100 x Collected value / Registered value
+HY081G	Transferències periòdiques monetàries percebudes d'altres llars l'any anterior al de l'enquesta (pensions alimentàries a fills o compensatòries a cònjuges) (import en cèntims d'euro)	Transferencias periódicas monetarias percibidas de otros hogares en el año anterior al de la encuesta (pensiones alimenticias a hijos o compensatorias a cónyuges) (importe en céntimos de euro)	Periodic monetary transfers received from other households in the year before the survey (child maintenance or spousal support) (amount in euro cents)				
+HY081G_F 	Variable que indica informació complementària (font i tipus dinformació recollida)	Variable que indica información complementaria (fuente y tipo de información recogida)	Variable indicating additional information (source and type of information collected)				
+HY081G_F 					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+HY081G_F 					PRIMER DÍGIT: Mètode d'imputació	PRIMER DÍGITO: Método de imputación	FIRST DIGIT: Imputation method
+HY081G_F 				1	Qüestionari	Cuestionario	Questionnaire
+HY081G_F 				2	Fonts administratives	Fuentes administrativas	Administrative sources
+HY081G_F 				3	Imputació estadística	Imputación estadística	Statistical imputation
+HY081G_F 				4	Conversió net/brut	Conversión neto/bruto	Net/gross conversion
+HY081G_F 				5	Imputació estadística	Imputación estadística	Statistical imputation
+HY081G_F 				6	Imputació estadística	Imputación estadística	Statistical imputation
+HY081G_F 				7	Desconeguda	Desconocida	Unknown
+HY081G_F 					SEGON DÍGIT: Neta/bruta (mode de recollida de dades)	SEGUNDO DÍGITO: Neta/Bruta (modo de recogida de datos)	SECOND DIGIT: Net/gross (data collection form)
+HY081G_F 				1	Neta	Neta	Net
+HY081G_F 				5	Bruta	Bruta	Gross
+HY081G_F 				7	Neta i bruta (components recollits parcialment en net i parcialment en brut)	Neta y bruta (componentes recogidos parcialmente en neto y parcialmente en bruto)	Net and gross (components collected partially net and partially gross)
+HY081G_F 				8	Desconeguda	Desconocida	Unknown
+HY081G_F 					DÍGITS SEGÜENTS: factor d'imputació (100 x Valor recollit / Valor registrat)	DÍGITOS SIGUIENTES: factor de imputación (100 x Valor recogido / Valor registrado)	NEXT DIGITS: imputation factor (100 x Collected value / Registered value)
+HY081G_F 					100 x Valor recollit / Valor registrat	100 x Valor recogido / Valor registrado	100 x Collected value / Registered value
+HY090G	Interessos, dividends i guanys bruts d'inversions de capital en empreses no constituïdes en societat l'any anterior al de l'enquesta (import en cèntims d'euro)	Intereses, dividendos y ganancias brutos de inversiones de capital en empresas no constituidas en sociedad en el año anterior al de la encuesta (importe en céntimos de euro)	Interest, dividends and gross income from capital investments in unincorporated companies in the year before the survey (amount in euro cents)				
+HY090G_F 	Variable que indica informació complementària (font i tipus dinformació recollida)	Variable que indica información complementaria (fuente y tipo de información recogida)	Variable indicating additional information (source and type of information collected)				
+HY090G_F 					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+HY090G_F 					PRIMER DÍGIT: Mètode d'imputació	PRIMER DÍGITO: Método de imputación	FIRST DIGIT: Imputation method
+HY090G_F 				1	Qüestionari	Cuestionario	Questionnaire
+HY090G_F 				2	Fonts administratives	Fuentes administrativas	Administrative sources
+HY090G_F 				3	Imputació estadística	Imputación estadística	Statistical imputation
+HY090G_F 				4	Conversió net/brut	Conversión neto/bruto	Net/gross conversion
+HY090G_F 				5	Imputació estadística	Imputación estadística	Statistical imputation
+HY090G_F 				6	Imputació estadística	Imputación estadística	Statistical imputation
+HY090G_F 				7	Desconeguda	Desconocida	Unknown
+HY090G_F 					SEGON DÍGIT: Neta/bruta (mode de recollida de dades)	SEGUNDO DÍGITO: Neta/Bruta (modo de recogida de datos)	SECOND DIGIT: Net/gross (data collection form)
+HY090G_F 				1	Neta	Neta	Net
+HY090G_F 				5	Bruta	Bruta	Gross
+HY090G_F 				7	Neta i bruta (components recollits parcialment en net i parcialment en brut)	Neta y bruta (componentes recogidos parcialmente en neto y parcialmente en bruto)	Net and gross (components collected partially net and partially gross)
+HY090G_F 				8	Desconeguda	Desconocida	Unknown
+HY090G_F 					DÍGITS SEGÜENTS: factor d'imputació (100 x Valor recollit / Valor registrat)	DÍGITOS SIGUIENTES: factor de imputación (100 x Valor recogido / Valor registrado)	NEXT DIGITS: imputation factor (100 x Collected value / Registered value)
+HY090G_F 					100 x Valor recollit / Valor registrat	100 x Valor recogido / Valor registrado	100 x Collected value / Registered value
+HY100G	Interessos pagats del préstec per a la compra de l'habitatge principal, l'any anterior al de l'enquesta (import en cèntims d'euro)	Intereses pagados del préstamo para la compra de la vivienda principal, en el año anterior al de la encuesta (importe en céntimos de euro)	Interest paid on the main household purchase loan in the year before the survey (amount in euro cents)				
+HY100G_F 	Variable que indica informació complementària (font i tipus dinformació recollida)	Variable que indica información complementaria (fuente y tipo de información recogida)	Variable indicating additional information (source and type of information collected)				
+HY100G_F 					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+HY100G_F 					PRIMER DÍGIT: Mètode d'imputació	PRIMER DÍGITO: Método de imputación	FIRST DIGIT: Imputation method
+HY100G_F 				1	Qüestionari	Cuestionario	Questionnaire
+HY100G_F 				2	Fonts administratives	Fuentes administrativas	Administrative sources
+HY100G_F 				3	Imputació estadística	Imputación estadística	Statistical imputation
+HY100G_F 				4	Conversió net/brut	Conversión neto/bruto	Net/gross conversion
+HY100G_F 				5	Imputació estadística	Imputación estadística	Statistical imputation
+HY100G_F 				6	Imputació estadística	Imputación estadística	Statistical imputation
+HY100G_F 				7	Desconeguda	Desconocida	Unknown
+HY100G_F 					SEGON DÍGIT: Neta/bruta (mode de recollida de dades)	SEGUNDO DÍGITO: Neta/Bruta (modo de recogida de datos)	SECOND DIGIT: Net/gross (data collection form)
+HY100G_F 				1	Neta	Neta	Net
+HY100G_F 				5	Bruta	Bruta	Gross
+HY100G_F 				7	Neta i bruta (components recollits parcialment en net i parcialment en brut)	Neta y bruta (componentes recogidos parcialmente en neto y parcialmente en bruto)	Net and gross (components collected partially net and partially gross)
+HY100G_F 				8	Desconeguda	Desconocida	Unknown
+HY100G_F 					DÍGITS SEGÜENTS: factor d'imputació (100 x Valor recollit / Valor registrat)	DÍGITOS SIGUIENTES: factor de imputación (100 x Valor recogido / Valor registrado)	NEXT DIGITS: imputation factor (100 x Collected value / Registered value)
+HY100G_F 					100 x Valor recollit / Valor registrat	100 x Valor recogido / Valor registrado	100 x Collected value / Registered value
+HY110G	Renda bruta percebuda pels menors de 16 anys l'any anterior al de l'enquesta (import en cèntims d'euro)	Renta bruta percibida por los menores de 16 años en el año anterior al de la encuesta (importe en céntimos de euro)	Gross income received by children under the age of 16 in the year before the survey (amount in euro cents)				
+HY110G_F 	Variable que indica informació complementària (font i tipus dinformació recollida)	Variable que indica información complementaria (fuente y tipo de información recogida)	Variable indicating additional information (source and type of information collected)				
+HY110G_F 					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+HY110G_F 					PRIMER DÍGIT: Mètode d'imputació	PRIMER DÍGITO: Método de imputación	FIRST DIGIT: Imputation method
+HY110G_F 				1	Qüestionari	Cuestionario	Questionnaire
+HY110G_F 				2	Fonts administratives	Fuentes administrativas	Administrative sources
+HY110G_F 				3	Imputació estadística	Imputación estadística	Statistical imputation
+HY110G_F 				4	Conversió net/brut	Conversión neto/bruto	Net/gross conversion
+HY110G_F 				5	Imputació estadística	Imputación estadística	Statistical imputation
+HY110G_F 				6	Imputació estadística	Imputación estadística	Statistical imputation
+HY110G_F 				7	Desconeguda	Desconocida	Unknown
+HY110G_F 					SEGON DÍGIT: Neta/bruta (mode de recollida de dades)	SEGUNDO DÍGITO: Neta/Bruta (modo de recogida de datos)	SECOND DIGIT: Net/gross (data collection form)
+HY110G_F 				1	Neta	Neta	Net
+HY110G_F 				5	Bruta	Bruta	Gross
+HY110G_F 				7	Neta i bruta (components recollits parcialment en net i parcialment en brut)	Neta y bruta (componentes recogidos parcialmente en neto y parcialmente en bruto)	Net and gross (components collected partially net and partially gross)
+HY110G_F 				8	Desconeguda	Desconocida	Unknown
+HY110G_F 					DÍGITS SEGÜENTS: factor d'imputació (100 x Valor recollit / Valor registrat)	DÍGITOS SIGUIENTES: factor de imputación (100 x Valor recogido / Valor registrado)	NEXT DIGITS: imputation factor (100 x Collected value / Registered value)
+HY110G_F 					100 x Valor recollit / Valor registrat	100 x Valor recogido / Valor registrado	100 x Collected value / Registered value
+HY120G	Impost sobre el patrimoni l'any anterior al de l'enquesta (import en cèntims d'euro)	Impuesto sobre el patrimonio en el año anterior al de la encuesta (importe en céntimos de euro)	Wealth tax in the year before the survey (amount in euro cents)				
+HY120G_F 	Variable que indica informació complementària (font i tipus dinformació recollida)	Variable que indica información complementaria (fuente y tipo de información recogida)	Variable indicating additional information (source and type of information collected)				
+HY120G_F 					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+HY120G_F 					PRIMER DÍGIT: Mètode d'imputació	PRIMER DÍGITO: Método de imputación	FIRST DIGIT: Imputation method
+HY120G_F 				1	Qüestionari	Cuestionario	Questionnaire
+HY120G_F 				2	Fonts administratives	Fuentes administrativas	Administrative sources
+HY120G_F 				3	Imputació estadística	Imputación estadística	Statistical imputation
+HY120G_F 				4	Conversió net/brut	Conversión neto/bruto	Net/gross conversion
+HY120G_F 				5	Imputació estadística	Imputación estadística	Statistical imputation
+HY120G_F 				6	Imputació estadística	Imputación estadística	Statistical imputation
+HY120G_F 				7	Desconeguda	Desconocida	Unknown
+HY120G_F 					SEGON DÍGIT: Neta/bruta (mode de recollida de dades)	SEGUNDO DÍGITO: Neta/Bruta (modo de recogida de datos)	SECOND DIGIT: Net/gross (data collection form)
+HY120G_F 				1	Neta	Neta	Net
+HY120G_F 				5	Bruta	Bruta	Gross
+HY120G_F 				7	Neta i bruta (components recollits parcialment en net i parcialment en brut)	Neta y bruta (componentes recogidos parcialmente en neto y parcialmente en bruto)	Net and gross (components collected partially net and partially gross)
+HY120G_F 				8	Desconeguda	Desconocida	Unknown
+HY120G_F 					DÍGITS SEGÜENTS: factor d'imputació (100 x Valor recollit / Valor registrat)	DÍGITOS SIGUIENTES: factor de imputación (100 x Valor recogido / Valor registrado)	NEXT DIGITS: imputation factor (100 x Collected value / Registered value)
+HY120G_F 					100 x Valor recollit / Valor registrat	100 x Valor recogido / Valor registrado	100 x Collected value / Registered value
+HY130G 	Transferències periòdiques monetàries abonades a altres llars l'any anterior al de l'enquesta (import en cèntims d'euro)	Transferencias periódicas monetarias abonadas a otros hogares en el año anterior al de la encuesta (importe en céntimos de euro)	Periodic monetary transfers paid to other households in the year before the survey (amount in euro cents)				
+HY130G_F 	Variable que indica informació complementària (font i tipus dinformació recollida)	Variable que indica información complementaria (fuente y tipo de información recogida)	Variable indicating additional information (source and type of information collected)				
+HY130G_F 					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+HY130G_F 					PRIMER DÍGIT: Mètode d'imputació	PRIMER DÍGITO: Método de imputación	FIRST DIGIT: Imputation method
+HY130G_F 				1	Qüestionari	Cuestionario	Questionnaire
+HY130G_F 				2	Fonts administratives	Fuentes administrativas	Administrative sources
+HY130G_F 				3	Imputació estadística	Imputación estadística	Statistical imputation
+HY130G_F 				4	Conversió net/brut	Conversión neto/bruto	Net/gross conversion
+HY130G_F 				5	Imputació estadística	Imputación estadística	Statistical imputation
+HY130G_F 				6	Imputació estadística	Imputación estadística	Statistical imputation
+HY130G_F 				7	Desconeguda	Desconocida	Unknown
+HY130G_F 					SEGON DÍGIT: Neta/bruta (mode de recollida de dades)	SEGUNDO DÍGITO: Neta/Bruta (modo de recogida de datos)	SECOND DIGIT: Net/gross (data collection form)
+HY130G_F 				1	Neta	Neta	Net
+HY130G_F 				5	Bruta	Bruta	Gross
+HY130G_F 				7	Neta i bruta (components recollits parcialment en net i parcialment en brut)	Neta y bruta (componentes recogidos parcialmente en neto y parcialmente en bruto)	Net and gross (components collected partially net and partially gross)
+HY130G_F 				8	Desconeguda	Desconocida	Unknown
+HY130G_F 					DÍGITS SEGÜENTS: factor d'imputació (100 x Valor recollit / Valor registrat)	DÍGITOS SIGUIENTES: factor de imputación (100 x Valor recogido / Valor registrado)	NEXT DIGITS: imputation factor (100 x Collected value / Registered value)
+HY130G_F 					100 x Valor recollit / Valor registrat	100 x Valor recogido / Valor registrado	100 x Collected value / Registered value
+HY131G 	Transferències periòdiques monetàries abonades a altres llars l'any anterior al de l'enquesta (pensions alimentàries a fills o compensatòries a cònjuges) (import en cèntims d'euro)	Transferencias periódicas monetarias abonadas a otros hogares en el año anterior al de la encuesta (pensiones alimenticias a hijos o compensatorias a cónyuges) (importe en céntimos de euro)	Periodic monetary transfers paid to other households in the year before the survey (child maintenance or spousal support) (amount in euro cents)				
+HY131G_F 	Variable que indica informació complementària (font i tipus dinformació recollida)	Variable que indica información complementaria (fuente y tipo de información recogida)	Variable indicating additional information (source and type of information collected)				
+HY131G_F 					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+HY131G_F 					PRIMER DÍGIT: Mètode d'imputació	PRIMER DÍGITO: Método de imputación	FIRST DIGIT: Imputation method
+HY131G_F 				1	Qüestionari	Cuestionario	Questionnaire
+HY131G_F 				2	Fonts administratives	Fuentes administrativas	Administrative sources
+HY131G_F 				3	Imputació estadística	Imputación estadística	Statistical imputation
+HY131G_F 				4	Conversió net/brut	Conversión neto/bruto	Net/gross conversion
+HY131G_F 				5	Imputació estadística	Imputación estadística	Statistical imputation
+HY131G_F 				6	Imputació estadística	Imputación estadística	Statistical imputation
+HY131G_F 				7	Desconeguda	Desconocida	Unknown
+HY131G_F 					SEGON DÍGIT: Neta/bruta (mode de recollida de dades)	SEGUNDO DÍGITO: Neta/Bruta (modo de recogida de datos)	SECOND DIGIT: Net/gross (data collection form)
+HY131G_F 				1	Neta	Neta	Net
+HY131G_F 				5	Bruta	Bruta	Gross
+HY131G_F 				7	Neta i bruta (components recollits parcialment en net i parcialment en brut)	Neta y bruta (componentes recogidos parcialmente en neto y parcialmente en bruto)	Net and gross (components collected partially net and partially gross)
+HY131G_F 				8	Desconeguda	Desconocida	Unknown
+HY131G_F 					DÍGITS SEGÜENTS: factor d'imputació (100 x Valor recollit / Valor registrat)	DÍGITOS SIGUIENTES: factor de imputación (100 x Valor recogido / Valor registrado)	NEXT DIGITS: imputation factor (100 x Collected value / Registered value)
+HY131G_F 					100 x Valor recollit / Valor registrat	100 x Valor recogido / Valor registrado	100 x Collected value / Registered value
+HY140G 	Impost sobre la renda i cotitzacions socials (import en cèntims d'euro)	Impuesto sobre la renta y cotizaciones sociales (importe en céntimos de euro)	Income tax and social security contributions (amount in euro cents)				
+HY140G_F 	Variable que indica informació complementària (font i tipus dinformació recollida)	Variable que indica información complementaria (fuente y tipo de información recogida)	Variable indicating additional information (source and type of information collected)				
+HY140G_F 					INDICADORS RENDA	INDICADORES RENTA	INCOME INDICATORS
+HY140G_F 					PRIMER DÍGIT: Mètode d'imputació	PRIMER DÍGITO: Método de imputación	FIRST DIGIT: Imputation method
+HY140G_F 				1	Qüestionari	Cuestionario	Questionnaire
+HY140G_F 				2	Fonts administratives	Fuentes administrativas	Administrative sources
+HY140G_F 				3	Imputació estadística	Imputación estadística	Statistical imputation
+HY140G_F 				4	Conversió net/brut	Conversión neto/bruto	Net/gross conversion
+HY140G_F 				5	Imputació estadística	Imputación estadística	Statistical imputation
+HY140G_F 				6	Imputació estadística	Imputación estadística	Statistical imputation
+HY140G_F 				7	Desconeguda	Desconocida	Unknown
+HY140G_F 					SEGON DÍGIT: Neta/bruta (mode de recollida de dades)	SEGUNDO DÍGITO: Neta/Bruta (modo de recogida de datos)	SECOND DIGIT: Net/gross (data collection form)
+HY140G_F 				1	Neta	Neta	Net
+HY140G_F 				5	Bruta	Bruta	Gross
+HY140G_F 				7	Neta i bruta (components recollits parcialment en net i parcialment en brut)	Neta y bruta (componentes recogidos parcialmente en neto y parcialmente en bruto)	Net and gross (components collected partially net and partially gross)
+HY140G_F 				8	Desconeguda	Desconocida	Unknown
+HY140G_F 					DÍGITS SEGÜENTS: factor d'imputació (100 x Valor recollit / Valor registrat)	DÍGITOS SIGUIENTES: factor de imputación (100 x Valor recogido / Valor registrado)	NEXT DIGITS: imputation factor (100 x Collected value / Registered value)
+HY140G_F 					100 x Valor recollit / Valor registrat	100 x Valor recogido / Valor registrado	100 x Collected value / Registered value
+HS011	S'han produït retards en el pagament de la hipoteca o del lloguer de la llar en els darrers 12 mesos?	¿Se han producido retrasos en el pago de la hipoteca o del alquiler del hogar en los últimos 12 meses?	Have there been any delays in paying the mortgage or rent for the past 12 months?				
+HS011				1	Sí, només una vegada	Sí, solamente una vez	Yes, only once
+HS011				2	Sí, dos cops o més	Sí, dos veces o más	Yes, twice or more
+HS011				3	No	No	No
+HS011_F	Variable que indica si HS011 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si HS011 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if HS011 is complete, if it is missing or if it is not applicable in the record in question.				
+HS011_F				1	Variable completada	Variable completada	Variable completed
+HS011_F				96	NA (l'habitatge no té hipoteca o està en cessió gratuïta)	N.A. (la vivienda no tiene hipoteca o está en cesión gratuita)	N/A (the home does not have a mortgage or is assigned free of charge)
+HS011_F				97	No hi consta	No consta	No answer
+HS021	S'han produït retards en el pagament de les factures de l'electricitat, l'aigua, el gas, etc. en els darrers 12 mesos?	¿Se han producido retrasos en el pago de las facturas de la electricidad, agua, gas, etc. en los últimos 12 meses?	There have been delays in paying the electricity, water, gas, etc. bills. in the last 12 months?				
+HS021				1	Sí, només una vegada	Sí, solamente una vez	Yes, only once
+HS021				2	Sí, dos cops o més	Sí, dos veces o más	Yes, twice or more
+HS021				3	No	No	No
+HS021_F	Variable que indica si HS021 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si HS021 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if HS021 is complete, if it is missing or if it is not applicable in the record in question.				
+HS021_F				1	Variable completada	Variable completada	Variable completed
+HS021_F				96	N.A. (no es disposa de factures d'electricitat, aigua, gas, etc.)	N.A. (no se tienen facturas de electricidad, agua, gas, etc.)	N/A (no electricity, water, gas, etc. bills available)
+HS021_F				97	No hi consta	No consta	No answer
+HS022	S'han produït retards en el pagament de les factures de l'electricitat, l'aigua, el gas, etc. en els darrers 12 mesos?	¿Se han producido retrasos en el pago de las facturas de la electricidad, agua, gas, etc. en los últimos 12 meses?	There have been delays in paying the electricity, water, gas, etc. bills. in the last 12 months?				
+HS022				1	Sí, només una vegada	Sí, solamente una vez	Yes, only once
+HS022				2	Sí, dos cops o més	Sí, dos veces o más	Yes, twice or more
+HS022_F	Variable que indica si HS022 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si HS022 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if HS022 is complete, if it is missing or if it is not applicable in the record in question.				
+HS022_F				1	Variable completada	Variable completada	Variable completed
+HS022_F				97	No hi consta	No consta	No answer
+HS031	S'han produït retards en el pagament de compres ajornades o d'altres préstecs (deutes no relacionats amb l'habitatge principal) en els darrers 12 mesos?	¿Se han producido retrasos en el pago de compras aplazadas o de otros préstamos (deudas no relacionadas con la vivienda principal) en los últimos 12 meses?	Have there been delays in the payment of instalment purchases or other loans (debts not related to the main household) in the last 12 months?				
+HS031				1	Sí, només una vegada	Sí, solamente una vez	Yes, only once
+HS031				2	Sí, dos cops o més	Sí, dos veces o más	Yes, twice or more
+HS031				3	No	No	No
+HS031_F	Variable que indica si HS031 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si HS031 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if HS031 is complete, if it is missing or if it is not applicable in the record in question.				
+HS031_F				1	Variable completada	Variable completada	Variable completed
+HS031_F				96	N.A. (no s'han fet compres ajornades ni té altres préstecs no relacionats amb l'habitatge)	N.A. (no ha realizado compras aplazadas ni tiene otros préstamos no relacionados con la vivienda)	N/A (no instalment purchases or other non-home-related loans)
+HS031_F				97	No hi consta	No consta	No answer
+HS040	La llar pot permetre's anar de vacances fora de casa, almenys una setmana a l'any?	¿Puede el hogar permitirse ir de vacaciones fuera de casa, al menos una semana al año?	Can the household afford to go on holiday away from home for at least one week a year?				
+HS040				1	Sí	Sí	Yes
+HS040				2	No	No	No
+HS040_F	Variable que indica si HS040 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si HS040 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if HS040 is complete, if it is missing or if it is not applicable in the record in question.				
+HS040_F				1	Variable completada	Variable completada	Variable completed
+HS040_F				97	No hi consta	No consta	No answer
+HS050	La llar pot permetre's un dinar de carn, pollastre o peix (o equivalents per als vegetarians) almenys cada dos dies?	¿Puede el hogar permitirse una comida de carne, pollo o pescado (o equivalentes para los vegetarianos) al menos cada dos días?	Can the household afford a meal of meat, chicken or fish (or vegetarian equivalents) at least every two days?				
+HS050				1	Sí	Sí	Yes
+HS050				2	No	No	No
+HS050_F	Variable que indica si HS050 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si HS050 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if HS050 is complete, if it is missing or if it is not applicable in the record in question.				
+HS050_F				1	Variable completada	Variable completada	Variable completed
+HS050_F				97	No hi consta	No consta	No answer
+HS060	La llar té capacitat per afrontar despeses imprevistes?	¿Tiene el hogar capacidad para afrontar gastos imprevistos?	Does the household have the capacity to meet unforeseen expenses?				
+HS060				1	Sí	Sí	Yes
+HS060				2	No	No	No
+HS060_F	Variable que indica si HS060 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si HS060 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if HS060 is complete, if it is missing or if it is not applicable in the record in question.				
+HS060_F				1	Variable completada	Variable completada	Variable completed
+HS060_F				97	No hi consta	No consta	No answer
+HS090	La llar té ordinador?	¿Tiene el hogar ordenador?	Does the household have a computer?				
+HS090				1	Sí	Sí	Yes
+HS090				2	No (perquè no s'ho pot permetre)	No (por no poder permitírselo)	No (because he/she cannot afford it)
+HS090				3	No (per un altre motiu)	No (por otro motivo)	No (for another reason)
+HS090_F	Variable que indica si HS090 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si HS090 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if HS090 is complete, if it is missing or if it is not applicable in the record in question.				
+HS090_F				1	Variable completada	Variable completada	Variable completed
+HS090_F				97	No hi consta	No consta	No answer
+HS110	La llar té cotxe?	¿Tiene el hogar coche?	Does the household have a car?				
+HS110				1	Sí	Sí	Yes
+HS110				2	No (perquè no s'ho pot permetre)	No (por no poder permitírselo)	No (because he/she cannot afford it)
+HS110				3	No (per un altre motiu)	No (por otro motivo)	No (for another reason)
+HS110_F	Variable que indica si HS110 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si HS110 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if HS110 is complete, if it is missing or if it is not applicable in the record in question.				
+HS110_F				1	Variable completada	Variable completada	Variable completed
+HS110_F				97	No hi consta	No consta	No answer
+HS120	Capacitat de la llar per arribar a final de mes	Capacidad del hogar para llegar a fin de mes	The household’s ability to reach the end of the month				
+HS120				1	Amb molta dificultat	Con mucha dificultad	With great difficulty
+HS120				2	Amb dificultat	Con dificultad	With difficulty
+HS120				3	Amb certa dificultat	Con cierta dificultad	With some difficulty
+HS120				4	Amb certa facilitat	Con cierta facilidad	Quite easily
+HS120				5	Amb facilitat	Con facilidad	Easily
+HS120				6	Amb molta facilitat	Con mucha facilidad	Very easily
+HS120_F	Variable que indica si HS120 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si HS120 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if HS120 is complete, if it is missing or if it is not applicable in the record in question.				
+HS120_F				1	Variable completada	Variable completada	Variable completed
+HS120_F				97	No hi consta	No consta	No answer
+HS150	Els desemborsaments per compres a terminis o per devolució de préstecs no relacionats amb l'habitatge principal suposen per a la llar:	Los desembolsos por compras a plazos o por devolución de préstamos no relacionados con la vivienda principal suponen para el hogar:	Expenditure on instalment purchases or repayments of loans not related to the main household by the household is:				
+HS150				1	Una càrrega pesada	Una carga pesada	A heavy burden
+HS150				2	Una càrrega raonable	Una carga razonable	A reasonable burden
+HS150				3	Cap càrrega	Ninguna carga	No charge
+HS150_F	Variable que indica si HS150 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si HS150 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if HS150 is complete, if it is missing or if it is not applicable in the record in question.				
+HS150_F				1	Variable completada	Variable completada	Variable completed
+HS150_F				96	N.A. (no té pagaments pendents per compres a terminis o altres préstecs no relacionats amb l'habitatge	N.A. (no tiene pendientes pagos por compras a plazos o de otros préstamos no relacionados con la vivienda)	N/A (has no outstanding payments for instalment purchases or other non-home-related loans
+HS150_F				97	No hi consta	No consta	No answer
+HD080	La llar podria substituir els mobles espatllats o vells?	¿El hogar podría sustituir los muebles estropeados o viejos?	Could the household replace damaged or old furniture?				
+HD080				1	Sí	Sí	Yes
+HD080				2	No, la llar no s'ho pot permetre	No, el hogar no puede permitírselo	No, the household cannot afford it
+HD080				3	No, per altres motius	No, por otras razones	No, for other reasons
+HD080_F	Variable que indica si HD080 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si HD080 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if HD080 is complete, if it is missing or if it is not applicable in the record in question.				
+HD080_F				1	Variable completada	Variable completada	Variable completed
+HD080_F				97	No hi consta	No consta	No answer
+HH010	Tipus d'habitatge	Tipo de vivienda	Type of household				
+HH010				1	Habitatge unifamiliar independent	Vivienda unifamiliar independiente	Detached house
+HH010				2	Habitatge unifamiliar adossat o apariat	Vivienda unifamiliar adosada o pareada	Terraced or semi-detached house
+HH010				3	Pis o apartament en un edifici amb menys de 10 habitatges	Piso o apartamento en un edificio con menos de 10 viviendas	Flat or apartment in a building fewer than 10 dwellings
+HH010				4	Pis o apartament en un edifici amb 10 habitatges o més	Piso o apartamento en un edificio con 10 viviendas o más	Flat or apartment in a building with 10 or more dwellings
+HH010_F	Variable que indica si HH010 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si HH010 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if HH010 is complete, if it is missing or if it is not applicable in the record in question.				
+HH010_F				1	Variable completada	Variable completada	Variable completed
+HH010_F				97	No hi consta	No consta	No answer
+HH021	Règim de tinença	Régimen de tenencia	Tenure				
+HH021				1	En propietat sense hipoteca	En propiedad sin hipoteca	Owned without mortgage
+HH021				2	En propietat amb hipoteca	En propiedad con hipoteca	Owned with mortgage
+HH021				3	Llogat o rellogat a preu de mercat	En alquiler o realquiler a precio de mercado	Rented or sublet at market price
+HH021				4	Llogat o rellogat a preu inferior al de mercat	En alquiler o realquiler a precio inferior al de mercado	Rented or sublet at lower than market price
+HH021				5	En cessió gratuïta	En cesión gratuita	Assigned free of charge
+HH021_F	Variable que indica si HH021 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si HH021 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if HH021 is complete, if it is missing or if it is not applicable in the record in question.				
+HH021_F				1	Variable completada	Variable completada	Variable completed
+HH030	Nombre d'habitacions de l'habitatge	Número de habitaciones de la vivienda	Number of rooms in the household				
+HH030				1	1 habitació	1 habitación	1 room
+HH030				2	2 habitacions	2 habitaciones	2 rooms
+HH030				3	3 habitacions	3 habitaciones	3 rooms
+HH030				4	4 habitacions	4 habitaciones	4 rooms
+HH030				5	5 habitacions	5 habitaciones	5 rooms
+HH030				6	6 habitacions	6 habitaciones	6 rooms
+HH030				7	7 habitacions	7 habitaciones	7 rooms
+HH030				8	8 habitacions	8 habitaciones	8 rooms
+HH030				9	9 habitacions	9 habitaciones	9 rooms
+HH030				10	10 habitacions	10 habitaciones	10 rooms
+HH030_F	Variable que indica si HH030 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si HH030 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if HH030 is complete, if it is missing or if it is not applicable in the record in question.				
+HH030_F				1	Variable completada	Variable completada	Variable completed
+HH030_F				97	No hi consta	No consta	No answer
+HH050	La llar pot permetre's mantenir l'habitatge amb una temperatura adequada durant els mesos d'hivern?	¿Puede el hogar permitirse mantener la vivienda con una temperatura adecuada durante los meses de invierno?	Can the household afford to keep the home at the right temperature during the winter months?				
+HH050				1	Sí	Sí	Yes
+HH050				2	No	No	No
+HH050_F	Variable que indica si HH050 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si HH050 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if HH050 is complete, if it is missing or if it is not applicable in the record in question.				
+HH050_F				1	Variable completada	Variable completada	Variable completed
+HH050_F				97	No hi consta	No consta	No answer
+HH060	Lloguer actual per l'habitatge ocupat (import en cèntims d'euro)	Alquiler actual por la vivienda ocupada (importe en céntimos de euro)	Current rent for the occupied household (amount in euro cents)				
+HH060_F	Variable que indica si HH060 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si HH060 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if HH060 is complete, if it is missing or if it is not applicable in the record in question.				
+HH060_F				1	Variable completada	Variable completada	Variable completed
+HH060_F				96	N.A. (HH021 ≠ 3 o 4 (no és règim de lloguer))	N.A. (HH021 ≠ 3 o 4 (no es régimen de alquiler))	N/A (HH021 ≠ 3 or 4 (not rented))
+HH060_F				97	No hi consta	No consta	No answer
+HH070	Gastos de la vivienda: Alquiler (si la vivienda se encuentra en régimen de alquiler), intereses de la hipoteca (para viviendas en propiedad con pagos pendientes) y otros gastos asociados (comunidad, agua, electricidad, gas, etc.) (importe en céntimos de euro)	Gastos de la vivienda: Alquiler (si la vivienda se encuentra en régimen de alquiler), intereses de la hipoteca (para viviendas en propiedad con pagos pendientes) y otros gastos asociados (comunidad, agua, electricidad, gas, etc.) (importe en céntimos de euro)	Household expenses: Rent (if the household is rented), mortgage interest (owner-occupied households with outstanding payments) and other associated expenses (owners’ association, water, electricity, gas, etc.) (amount in euro cents)				
+HH070_F	Variable que indica si HH070 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si HH070 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if HH070 is complete, if it is missing or if it is not applicable in the record in question.				
+HH070_F				1	Variable completada	Variable completada	Variable completed
+HH070_F				97	No hi consta	No consta	No answer
+CUOTAHIP	Quota hipotecària mensual (import de l'últim rebut mensual del préstec sol·licitat per a la compra de l'habitatge principal). Inclou amortització i interessos (import en cèntims d'euro)	Cuota hipotecaria mensual (importe del último recibo mensual del préstamo solicitado para la compra de la vivienda principal). Incluye amortización e intereses (importe en céntimos de euro)	Monthly mortgage payment (amount of the last monthly loan bill for the purchase of the main household). Including repayment and interest (amount in euro cents)				
+CUOTAHIP_F	Variable que indica si CUOTAHIP està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si CUOTAHIP está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if CUOTAHIP is complete, if it is missing or if it is not applicable in the record in question.				
+CUOTAHIP_F				1	Variable completada	Variable completada	Variable completed
+CUOTAHIP_F				96	N.A.	N.A.	N/A
+HX040	Nombre de membres de la llar	Número de miembros del hogar	Number of household members				
+HX060	Tipus de llar (*)	Tipo de hogar (*)	Type of household (*)				
+HX060				1	Una persona: home de menys de 30 anys	Una persona: hombre de menos de 30 años	One person: a man aged under 30
+HX060				2	Una persona: home d'entre 30 i 64 anys	Una persona: hombre de entre 30 y 64 años 	One person: a man aged 30 to 64
+HX060				3	Una persona: home de 65 anys o més	Una persona: hombre de 65 o más años 	One person: a man aged 65 or older
+HX060				4	Una persona: dona de menys de 30 anys	Una persona: mujer de menos de 30 años	One person: a woman aged under 30
+HX060				5	Una persona: dona d'entre 30 i 64 anys	Una persona: mujer de entre 30 y 64 años	One person: a woman aged 30 to 64
+HX060				6	Una persona: dona de 65 anys o més	Una persona: mujer de 65 o más años	One person: a woman aged 65 or older
+HX060				7	2 adults sense infants dependents econòmicament, almenys una persona de 65 anys o més	2 adultos sin niños dependientes económicamente, al menos una persona de 65 o más años	2 adults without financially dependent children, at least one person aged 65 or over
+HX060				8	2 adults sense infants dependents econòmicament, tots dos menors de 65 anys	2 adultos sin niños dependientes económicamente, teniendo ambos menos de 65 años	2 adults without financially dependent children, both aged under 65
+HX060				9	Altres llars sense infants dependents econòmicament	Otros hogares sin niños dependientes económicamente	Other economically dependent childless households
+HX060				10	Un adult amb almenys un infant dependent	Un adulto con al menos un niño dependiente	An adult with at least one dependent child
+HX060				11	Dos adults amb un infant dependent	Dos adultos con un niño dependiente	Two adults with a dependent child
+HX060				12	Dos adults amb dos infants dependents	Dos adultos con dos niños dependientes	Two adults with two dependent children
+HX060				13	Dos adults amb tres o més infants dependents	Dos adultos con tres o más niños dependientes	Two adults with three or more dependent children
+HX060				14	Altres llars amb infants dependents	Otros hogares con niños dependientes	Other households with dependent children
+HX240	Unitats de consum multiplicat per 10 (Unitats de consum real = HX240 / 10). Escala OCDE modificada (forma de càlcul: 1 + 0,5 * (núm. majors 13 anys - 1) + 0,3 * (HX040 - Núm. majors 13 anys)))	Unidades de consumo multiplicado por 10 (Unidades de consumo reales = HX240 / 10). Escala OCDE modificada (forma de cálculo: (1 + 0,5 * (Nº mayores 13 años - 1) + 0,3 * (HX040 – Nº mayores 13 años)))	Consumption units multiplied by 10 (Real consumption units = HX240 / 10). Modified OECD scale (calculation method: 1 + 0.5 * (number over 13 years old - 1) + 0.3 * (HX040 - number over 13 years old)))				
+VHRENTAA	Renda disponible total de la llar l'any anterior al de l'entrevista (import en cèntims d'euro)	Renta disponible total del hogar en el año anterior al de la entrevista (importe en céntimos de euro)	Total disposable household income in the year before the interview (amount in euro cents)				
+VHRENTAAAI	Renda disponible total de la llar l'any anterior al de l'entrevista, incloent-hi el lloguer imputat (import en cèntims d'euro)	Renta disponible total del hogar en el año anterior al de la entrevista, incluyendo el alquiler imputado (importe en céntimos de euro)	Total disposable household income in the year before the interview, including imputed rent (amount in euro cents)				
+VHPOBREZA	Llar en risc de pobresa (llindar Espanya)	Hogar en riesgo de pobreza (umbral España).	Household at risk of poverty (Spain threshold)				
+VHPOBREZA				0	No	No	No
+VHPOBREZA				1	Sí	Sí	Yes
+VHMATDEP	Llar en carència material severa	Hogar en carencia material severa.	Household in severe material deprivation				
+VHMATDEP				0	No	No	No
+VHMATDEP				1	Sí	Sí	Yes
+HI010	S'ha produït un canvi en els ingressos de la llar els darrers 12 mesos?	¿Se ha producido un cambio en los ingresos del hogar en los últimos 12 meses?	Has there been a change in the household income in the last 12 months?				
+HI010				1	Sí, els ingressos han augmentat	Sí, los ingresos han aumentado	Yes, the income has increased
+HI010				2	No, els ingressos de la llar s'han mantingut més o menys igual	No, los ingresos del hogar se han mantenido más o menos igual	No, the household income has remained more or less the same
+HI010				3	Sí, els ingressos han disminuït	Sí, los ingresos han disminuido	Yes, the income has decreased
+HI010_F	Variable que indica si HI010 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si HI010 esta completa, falta o simplemente no es aplicable en el registro en cuestión.	Variable that indicates if HI010 is complete, if it is missing or if it is not applicable in the record in question.				
+HI010_F				1	Variable completada	Variable completada	Variable completed
+HI010_F				97	No hi consta	No consta	No answer
+HI020	Quin és el motiu principal de l'augment dels ingressos?	¿Cuál ha sido el motivo principal del aumento de los ingresos?	What is the main reason for the increase in income?				
+HI020				1	Revaloració anual del salari	Revalorización anual del salario	Annual salary revision
+HI020				2	Augment de les hores treballades o del salari del treball actual	Aumento de las horas trabajadas o del salario del trabajo actual	Increase in hours worked or in the salary of the current job
+HI020				3	Incorporació a la feina després d’una absència per malaltia, maternitat/paternitat, cura de nens o cura de malalts o gent gran	Incorporación al trabajo después de una ausencia por enfermedad, maternidad/paternidad, cuidado de niños o cuidado de enfermos o mayores	Return to work after absence due to illness, maternity/paternity leave, childcare or care for the sick or older adults
+HI020				4	Començament o canvi de treball	Comienzo o cambio de trabajo	Starting work or changing jobs
+HI020				5	Canvis en la composició de la llar	Cambios en la composición del hogar	Changes in the household composition
+HI020				6	Percepció o increment de les prestacions socials	Percepción o incremento de las prestaciones sociales	Receipt or increase in social benefits
+HI020				7	Altres motius	Otros motivos	Other reasons
+HI020_F	Variable que indica si HI020 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si HI020 esta completa, falta o simplemente no es aplicable en el registro en cuestión..	Variable that indicates if HI020 is complete, if it is missing or if it is not applicable in the record in question.				
+HI020_F				1	Variable completada	Variable completada	Variable completed
+HI020_F				96	N.A.	N.A.	N/A
+HI020_F				97	No hi consta	No consta	No answer
+HI030	Quin ha estat el motiu principal de la disminució dels ingressos?	¿Cuál ha sido el motivo principal de la disminución de los ingresos?	What was the main reason for the decrease in income?				
+HI030				1	Reducció de les hores treballades o del salari de la feina actual	Reducción de las horas trabajadas o del salario del trabajo actual	Reduction in hours worked or in the salary of the current job
+HI030				2	Maternitat/paternitat, cura de nens o cura de malalts o gent gran	Maternidad/paternidad, cuidado de niños o cuidado de enfermos o mayores	Maternity/paternity leave, childcare or care for the sick or older adults
+HI030				3	Canvi de feina	Cambio de trabajo	Change of job
+HI030				4	Pèrdua de feina/atur	Pérdida de trabajo/desempleo	Loss of job/unemployment
+HI030				5	Impossibilitat per treballar per malaltia o incapacitat	Imposibilidad para trabajar por enfermedad o incapacidad	Inability to work due to illness or invalidity
+HI030				6	Divorci, separació o altres canvis en la composició de la llar	Divorcio, separación u otros cambios en la composición del hogar	Divorce, separation or others changes in the household composition
+HI030				7	Jubilació	Jubilación	Retirement
+HI030				8	Eliminació o reducció de les prestacions socials	Eliminación o reducción de las prestaciones sociales	Cancellation or reduction of social benefits
+HI030				9	Altres motius	Otros motivos	Other reasons
+HI030_F	Variable que indica si HI030 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si HI030 esta completa, falta o simplemente no es aplicable en el registro en cuestión.	Variable that indicates if HI030 is complete, if it is missing or if it is not applicable in the record in question.				
+HI030_F				1	Variable completada	Variable completada	Variable completed
+HI030_F				96	N.A.	N.A.	N/A
+HI030_F				97	No hi consta	No consta	No answer
+HI040	Pensant en els ingressos de casa, què espera que passi en els propers 12 mesos?	Pensando en los ingresos de su hogar, ¿qué espera que pase en los próximos 12 meses? 	Is the household income expected to change in the next 12 months?				
+HI040				1	Millorar	Mejorar	Improve
+HI040				2	Mantenir-se més o menys igual	Mantenerse más o menos igual	Remain more or less the same
+HI040				3	Empitjorar	Empeorar	Get worse
+HI040_F	Variable que indica si HI040 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si HI040 esta completa, falta o simplemente no es aplicable en el registro en cuestión.	Variable that indicates if HI040 is complete, if it is missing or if it is not applicable in the record in question.				
+HI040_F				1	Variable completada	Variable completada	Variable completed
+HI040_F				97	No hi consta	No consta	No answer
+POBRECAT	Llar en risc de pobresa (llindar Espanya)	Hogar en riesgo de pobreza (umbral España).	Household at risk of poverty (Spain threshold)				
+POBRECAT				0	No	No	No
+POBRECAT				1	Sí	Sí	Yes
+HS200	Les despeses totals d'assistència mèdica (excepte dentista) suposen per a la llar:	Los gastos totales de asistencia médica (excepto dentista) suponen para el hogar:	The total cost of medical care (except dentist) for the household is:				
+HS200				1	Una càrrega pesada	Una carga pesada	A heavy burden
+HS200				2	Una càrrega raonable	Una carga razonable	A reasonable burden
+HS200				3	Cap càrrega	Ninguna carga	No charge
+HS200_F	Variable que indica si HS200 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si HS200 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if HS200 is complete, if it is missing or if it is not applicable in the record in question.				
+HS200_F				1	Variable completada	Variable completada	Variable completed
+HS200_F				97	No hi consta	No consta	No answer
+HS200_F				96	No aplicable (la llar no ha fet servir serveis d'assistència mèdica)	No aplicable (el hogar no ha utilizado servicios de asistencia médica)	Not applicable (household did not use medical care services)
+HS210	Les despeses totals d'assistència dental suposen per a la llar:	Los gastos totales de asistencia dental suponen para el hogar:	The total cost of dental care for the household is:				
+HS210				1	Una càrrega pesada	Una carga pesada	A heavy burden
+HS210				2	Una càrrega raonable	Una carga razonable	A reasonable burden
+HS210				3	Cap càrrega	Ninguna carga	No charge
+HS210_F	Variable que indica si HS210 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si HS210 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if HS210 is complete, if it is missing or if it is not applicable in the record in question.				
+HS210_F				1	Variable completada	Variable completada	Variable completed
+HS210_F				97	No hi consta	No consta	No answer
+HS210_F				96	No aplicable (la llar no ha fet servir serveis d'assistència dental)	No aplicable (el hogar no ha utilizado servicios de asistencia dental)	Not applicable (household did not use dental care services)
+HS220	Les despeses totals en medicaments suposen per a la llar:	Los gastos totales en medicamentos suponen para el hogar:	The total cost of medicines for the household is:				
+HS220				1	Una càrrega pesada	Una carga pesada	A heavy burden
+HS220				2	Una càrrega raonable	Una carga razonable	A reasonable burden
+HS220				3	Cap càrrega	Ninguna carga	No charge
+HS220_F	Variable que indica si HS220 està completa, si falta o si no és aplicable al registre en qüestió	Variable que indica si HS220 está completa, si falta o si no es aplicable en el registro en cuestión.	Variable that indicates if HS220 is complete, if it is missing or if it is not applicable in the record in question.				
+HS220_F				1	Variable completada	Variable completada	Variable completed
+HS220_F				97	No hi consta	No consta	No answer
+HS220_F				96	No aplicable (la llar no ha consumit medicaments)	No aplicable (el hogar no ha consumido medicamentos)	Not applicable (household did not use medicines)
